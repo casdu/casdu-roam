@@ -1,0 +1,21 @@
+#+title: tools
+
+This is a test for casdu. How can I do this?
+
+While, not too hard. I revised the capture template as:
+
+#+begin_src elisp
+(setq org-roam-capture-templates
+      '(("d" "default" plain (function org-roam--capture-get-point)
+         "%?"
+         :file-name "%<%Y%m%d%H%M%S>-${slug}"
+         :head "#+title: ${title}\n"
+         :unnarrowed t)
+        ("p" "casdu" plain (function org-roam--capture-get-point)
+         "%?"
+         :file-name "casdu-brain/%<%Y%m%d%H%M%S>-${slug}"
+         :head "#+title: ${title}\n"
+         :unnarrowed t)))
+#+end_src
+
+in ==casdu-brain==, I added it as a submodule.

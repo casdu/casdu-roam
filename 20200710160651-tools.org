@@ -1,5 +1,39 @@
 #+title: tools
 
+* 常用分类
+  :PROPERTIES:
+  :ID:       b424f800-3b15-4c58-8f32-25ab9992199b
+  :END:
+** 通用/General
+** 多用/Multi-Tools
+** 清洗/Cleaning
+** 润滑/Lubricants & Compounds
+** 轮组/Hub & Axle
+** 脚踏/Pedal
+** 刹车/Brakes
+** 五通/Bottom Bracket
+** 中轴/Crank
+** 飞轮/Cassette
+** 车架/Frame
+** 腕组/Headset
+**     /Bear
+https://www.youtube.com/watch?v=hRLbamNQa_0
+**     /dérailleur
+*** front dérailleur
+*** rear dérailleur
+** Fork
+** Chain
+* 按需推荐
+** 单日
+** 单周
+** 多周
+* 大队
+** 单日拉练
+** 多日拉练
+** 远征
+
+
+
 This is a test for casdu. How can I do this?
 
 While, not too hard. I revised the capture template as:

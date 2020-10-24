@@ -1,0 +1,16 @@
+#+title: tools
+
+* what kind of info that is important?
+** normal condition
+- where to eat?
+- where to live?
+- any bike shop?
+- unique place to visit?
+- politic environment
+** extreme
+- animal
+- water
+- ...
+* map
+- tools to make map (search for ZX's post)
+ref: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11808

@@ -1,5 +1,4 @@
-#+title: tools
-
+#+title: other than bike tools
 * what kind of info that is important?
 ** normal condition
 - where to eat?

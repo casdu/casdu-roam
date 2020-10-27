@@ -1,0 +1,33 @@
+#+TITLE: design-our-bike
+#+CREATED:       [2020-10-27 Tue 10:50]
+#+LAST_MODIFIED: [2020-10-27 Tue 10:52]
+
+* background
+** how to make carbon frame?
+https://youtu.be/1XDeqkSUNJk?t=418
+* CAD
+** frame piece
+8: https://youtu.be/YH4M_iFU2k0?t=185
+* FEA
+** which part is the most dangerous?
+https://youtu.be/EMm6AMPcq8k?t=170
+when some material "stick" together, what's their features compared to one that is made in one shot?
+** what is the stress distribution?
+*** when pedaling
+https://youtu.be/4Ga77SL5XUU?t=53
+*** climbing
+*** bumping
+https://youtu.be/4Ga77SL5XUU?t=66
+*** bunny jump
+*** sprinting
+* CFD
+* 3D-print?
+* inspiration
+** uss: https://i.imgur.com/vbC179H.jpg
+* tools
+** bike CAD
+https://www.bikecad.ca/
+** simple dimension
+https://www.bikegeocalc.com/
+** ref
+https://www.bikecad.ca/faq

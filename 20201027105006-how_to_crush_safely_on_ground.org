@@ -1,0 +1,36 @@
+#+TITLE: how-to-crush-safely-on-ground
+#+CREATED:       [2020-10-27 Tue 10:50]
+#+LAST_MODIFIED: [2020-10-27 Tue 10:51]
+
+> 倒地的瞬间身体一定要放松，蜷缩胳膊和腿，能滚多远滚多远（空间范围允许的话），把冲击的力量都泄掉，千万不要用手撑地，下意识都会这么做，但是这样做很容易骨折（我就是这么悲剧的）.
+
+想训练类似这样的能力.我自己有过惨痛经历. 怎么训练自己摔车的时候,下意识不用手.
+
+* 避免脸刹
+
+** 为何出现?
+车子速度骤降.
+
+[[file:why.png]]
+
+*** 车速不够快,没能飞过白线
+
+[[file:speed.png]]
+
+对重心没有做过多调整.
+
+** 向后移动重心
+
+[[file:moving-back.png]]
+
+* 成功的摔车
+
+** https://youtu.be/n5LPRWYWXbs?t=89
+can walk
+
+** 如何势滚动?
+
+[[file:gun.png]]
+* not good one
+** https://youtu.be/n5LPRWYWXbs?t=308
+possible broken neck

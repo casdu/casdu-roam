@@ -27,6 +27,9 @@ I am trying to connect my brain with casdu. :)
 ** TODO "casdu/FeatherCNN"
 ** TODO "casdu/song"
 ** TODO "casdu/dance"
-** TODO "casdu/design-our-bike"
-** TODO "casdu/naming-a-star"
-** TODO "casdu/how-to-crush-safely-on-ground"
+** DONE "casdu/design-our-bike"
+   CLOSED: [2020-10-27 Tue 10:47]
+** DONE "casdu/naming-a-star"
+   CLOSED: [2020-10-27 Tue 10:47]
+** DONE "casdu/how-to-crush-safely-on-ground"
+   CLOSED: [2020-10-27 Tue 10:46]

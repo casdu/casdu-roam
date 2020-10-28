@@ -1,0 +1,168 @@
+#+TITLE: s-issue
+#+CREATED:       [2020-10-28 Wed 15:32]
+#+LAST_MODIFIED: [2020-10-28 Wed 15:39]
+
+* chinese-name-to-ini
+* what is cookie?
+
+Cookies are small bits of information that stateless protocols like HTTP use to maintain some persistent information across requests.
+
+I [saw](https://github.com/manateelazycat/emacs-application-framework/blob/9c3e7a7f9389a5c2b6d6a10125833f88cbcf3577/core/browser.py#L24) you using '[QNetworkCookie](https://wiki.qt.io/About_Qt)'
+
+It seems to me, this package might track some information across requests.
+
+> [The fundamental notion behind the end-to-end principle is that, for two processes communicating with each other via some communication means, the reliability obtained from that means cannot be expected to be perfectly aligned with the reliability requirements of the processes.](https://en.wikipedia.org/wiki/End-to-end_principle)
+
+This is volidate the fundamental notation?
+* sensitive data
+- GPS data of single person
+- any token/password
+- personal information? (name in real life, birthday, hometown,...)
+- ...
+* tools
+** Olvid / Signal for encrypted message
+- what is [end-to-end](https://en.wikipedia.org/wiki/End-to-end_principle) encrypted?
+- Keybase for both message and encrypted storage (like git)
+For experts, you can try:
+- [git crypt](https://www.agwa.name/projects/git-crypt/)
+- [GPG tools](https://gnupg.org/)
+  https://gnupg.org/faq/gnupg-faq.html#whats_gnupg
+* Ref
+https://github.com/discourse/discourse/blob/master/docs/SECURITY.md
+https://cryptobib.di.ens.fr/
+https://www.hacker101.com/resources#2
+https://github.com/Hacker0x01/hacker101
+* pgp
+https://emailselfdefense.fsf.org/en/
+* Branch
+Introduction
+The Web In Depth
+XSS and Authorization
+SQL Injection and Friends
+Session Fixation
+Clickjacking
+File Inclusion Bugs
+File Upload Bugs
+Null Termination Bugs
+Unchecked Redirects
+Password Storage
+Crypto series
+Crypto Crash Course
+Crypto Attacks
+Crypto Wrap-Up
+Threat Modeling
+Writing Good Reports
+Burp Suite series
+Getting Started
+Maximizing Burp
+Burp Hacks for Bounty Hunters
+Secure Architecture Review
+Server-Side Request Forgery
+Source Code Review
+XML External Entities
+Cookie Tampering Techniques
+Mobile App Hacking series
+Mobile Hacking Crash Course
+Android Quickstart
+iOS Quickstart
+Native Code Crash Course
+* Why
+** stay focus even we are drinking water
+https://youtu.be/8XkcbdSRdO0?t=110
+** even we just ride a bike
+https://youtu.be/8XkcbdSRdO0?t=181
+** something might not be the thing
+https://youtu.be/8XkcbdSRdO0?t=215
+** you real don't know who you are talking with
+https://youtu.be/8XkcbdSRdO0?t=450
+** The highest excellence is like (that of) water. - Lao Tzu. Tao Te Ching (p. 9). e-artnow.
+https://youtu.be/8XkcbdSRdO0?t=606
+* Hard ware
+** body equip.
+** eye
+https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/bosch-ar-smartglasses-tiny-eyeball-lasers
+
+
+https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
+ref: https://emacs-china.org/t/linux/11915/5
+** Raspberry Pi 4 B
+
+** NAS
+https://www.instructables.com/id/PiNAS-the-Raspberry-Pi-NAS/
+** funny
+> 安装linux总是多多少少遇到硬件不兼容问题, 如何选购一个都不会出现不兼容问题的笔记本？
+
+we've kept all our software backwards-compatible
+
+
+> 我想买一台来编程， 偶尔玩玩 blender, gimp
+
+Yes, we have:
+
+
+**Dual displays 4K output**
+
+
+> 大概 3000-4000
+
+No problem, From  **$35**
+
+
+> **Faster, more powerful**
+** tool
+- compare:
+https://emacs-china.org/t/linux/11915/29
+* cn-name-to-enc-name
+** name matching
+https://github.com/hltcoe/mingpipe
+** generation
+https://github.com/gumblex/chinesename
+** jieba
+https://github.com/fxsjy/jieba
+c++ version
+https://github.com/yanyiwu/cppjieba
+elisp version
+https://github.com/cireu/jieba.el
+* OS
+** Unix or Unix-like
+** [[MINIX]] (study OS developed by [[Andrew S. Tanenbaum]] in the [[Netherlands]])
+** [[Berkeley Software Distribution|BSD]] (Berkeley Software Distribution, a variant of Unix for [[Digital Equipment Corporation|DEC]] [[VAX]] hardware)
+** [[FreeBSD]] (one of the outgrowths of UC Regents' abandonment of [[CSRG]]'s 'BSD Unix')
+*** [[DragonFlyBSD]], forked from FreeBSD 4.8
+*** [[MidnightBSD]], forked from FreeBSD 6.1
+*** [[GhostBSD]]
+*** [[TrueOS]] (previously known as PC-BSD)
+** [[NetBSD]] (an embedded device BSD variant)
+*** [[OpenBSD]] forked from NetBSD
+**** [[Bitrig]] forked from OpenBSD
+** [[Darwin (operating system)|Darwin]], created by Apple using code from NeXTSTEP, FreeBSD, and NetBSD
+** [[GNU]] (also known as GNU/Hurd)
+** [[Linux]] (see also [[List of Linux distributions]]) (alleged to be GNU/Linux<ref>{{Cite web|url=https://www.gnu.org/gnu/gnu-linux-faq.en.html|title=gnu.org|website=www.gnu.org|language=en|access-date=2018-08-24}}</ref> see [[GNU/Linux naming controversy]])
+** [[Redox (operating system)|Redox]] (written in Rust)<ref>{{cite web|url=http://www.redox-os.org/|title=Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS|author=|date=|website=www.redox-os.org}}</ref>
+** [[Cray Linux Environment]]
+** [[OpenSolaris]]
+** [[illumos]], contains original Unix (SVR4) code derived from the [[OpenSolaris]] (discontinued by Oracle in favor of [[Solaris (operating system)|Solaris]] 11 Express)
+***[[ OpenIndiana]], operates under the illumos Foundation. Uses the illumos kernel, which is a derivative of [[OS/Net]], which is basically an [[OpenSolaris]]/[[Solaris (operating system)|Solaris]] kernel with the bulk of the drivers, core libraries, and basic utilities.
+***[[ Nexenta OS]], based on the illumos kernel with Ubuntu packages
+***[[ SmartOS]], an illumos distribution for cloud computing with [[Kernel-based Virtual Machine]] integration.
+
+** [[RTEMS]] (Real-Time Executive for Multiprocessor Systems)
+** [[Haiku (operating system)|Haiku]] (open source inspired by [[BeOS]], under development)
+** [[Syllable Desktop]]
+** [[Univention Corporate Server]]
+** [[VSTa]]
+** [[Plurix]] (or Tropix<ref>{{Cite web|url=http://www.tropix.nce.ufrj.br/|title=TROPIX: Distribuição e Instalação|website=www.tropix.nce.ufrj.br|access-date=2018-08-24}}</ref>) (By [[Federal University of Rio de Janeiro]] - UFRJ)
+** [[TUNIS]] (University of Toronto)
+** non-unix
+** [[Cosmos (operating system)|Cosmos]] – written in C#
+** [[FreeDOS]] – open source DOS variant
+** [[Genode]] – operating system framework for microkernels (written in C++)
+** [[Ghost (operating system)|Ghost OS]] – written in Assembly, C/C++
+** [[Incompatible Timesharing System|ITS]] – written by [[Massachusetts Institute of Technology|MIT]] students (for the [[PDP-6]] and [[PDP-10]]) (written in MIDAS)
+** [[OS/2#Future|osFree]] – OS/2 Warp open source clone.
+** [[OSv]] – written in C++
+** [[Phantom OS]] – persistent object oriented
+** [[ReactOS]] – open source OS designed to be binary compatible with [[Windows NT]] and its variants ([[Windows XP]], [[Windows 2000]], etc.); currently in development phase
+** [[SharpOS (operating system)|SharpOS]] – written in .NET C#
+** [[TempleOS]] – written in HolyC
+** [[Visopsys]] – written by Andy McLaughlin (written in C and Assembly)

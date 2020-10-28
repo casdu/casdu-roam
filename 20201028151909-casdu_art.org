@@ -1,0 +1,13 @@
+#+TITLE: casdu-art
+#+CREATED:       [2020-10-28 Wed 15:19]
+#+LAST_MODIFIED: [2020-10-28 Wed 15:20]
+
+# todo http://bbs.casdu.cn/forum.php?mod=viewthread&tid=129
+
+# art
+手绘海报
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/18-a.jpg">  |<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/18-b.jpg">  |<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/18-c.jpg">  |
+|<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/h1.jpg">  |<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/h2.jpg">  |<img width="400" alt="something" src="https://github.com/casdu/art/blob/master/h3.jpg">  |

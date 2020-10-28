@@ -16,17 +16,25 @@ I am trying to connect my brain with casdu. :)
 ** TODO "casdu/s-issue"
 ** TODO "casdu/wiki-proj"
 ** TODO "casdu/video-data-base"
-** TODO "casdu/cycling-group-log"
-** TODO "casdu/cooking"
-** TODO "casdu/os"
-** TODO "casdu/cook"
 ** TODO "casdu/TagBot"
 ** TODO "casdu/software"
-** TODO "casdu/logo"
-** TODO "casdu/art"
 ** TODO "casdu/FeatherCNN"
-** TODO "casdu/song"
-** TODO "casdu/dance"
+** DONE "casdu/cycling-group-log"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/cooking"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/os"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/cook"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/logo"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/art"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/song"
+   CLOSED: [2020-10-28 Wed 15:45]
+** DONE "casdu/dance"
+   CLOSED: [2020-10-28 Wed 15:45]
 ** DONE "casdu/design-our-bike"
    CLOSED: [2020-10-27 Tue 10:47]
 ** DONE "casdu/naming-a-star"

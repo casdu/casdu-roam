@@ -1,0 +1,260 @@
+#+TITLE: casdu-cooking
+#+CREATED:       [2020-10-28 Wed 15:40]
+#+LAST_MODIFIED: [2020-10-28 Wed 15:41]
+
+* 炒牛肉 (三个做法)
+** meterial
+
+- wine
+
+There is salt in the wine, so you can buy it from supermarket.
+
+[sec:: pos::  bottom leftmost red-paper?]
+
+- [statch](https://en.wikipedia.org/wiki/Starch)
+
+- [surger]
+
+[sec:: color:: white]
+
+** step
+*** A add oil to pan
+*** B add beef to pan
+make sure the surface changes its color
+*** C take the beef out
+*** D check how much the oil still there
+if not enough, add oil to it
+*** E add onion
+stop condition: when you feel the good smell
+***** E-sub-a
+add oninion
+***** E-sub-b
+[add green pepper/Bell pepper](https://en.wikipedia.org/wiki/Bell_pepper)
+GOTO [THIS IS VERY IMPORTANT] after step F
+***** E-sub-c
+add celary.
+*** F add beef
+*** F_ add sources
+**** add salt
+**** add 生抽
+**** add suger
+do not do too much
+*** G take it out of the pan
+*** H enjoy
+** how to cut the meat
+
+[sec:: cut:: you need to follow the rule of the beef]
+
+** how to cut onion?
+
+*** how to protect yourself?
+
+dao zi: save it in cold place. To provent the oninion effect, which might hurt your eyes.
+
+** hot to cut salary?
+
+*** both heads need to be cut
+[sec:: secrete:: how?who?]
+*** ?
+
+** cooking experience
+*** <2020-02-22 Sat> 炒了洋葱
+**** 原料
+Sirloin cutlet
+- price: $3
+- weight: 0.5 lb
+Onion
+
+**** 步骤
+
+***** A 滴进了水，炸了锅
+
+
+***** B 感觉不错，肉变成了咖啡色
+
+
+***** C okay
+
+
+***** D 把火开到了中档
+
+
+***** E 洋葱切法
+- 沿赤道
+- 半个地球
+- X0Y 切下去
+
+忘记了闻洋葱的香味后，下牛肉。
+
+***** F 最大的错误
+忘记先放肉，而是先放了盐和生抽
+
+**** 遗憾
+
+忘记买糖了
+
+**** 问题
+
+肉的切法还是不知道。肉长得像半个肺，沿着河流切，但是一分为二之后就开始
+随意切了，下次看怎么样提高一下手法。
+
+*** <2020-02-29 Sat> 重复上周学习内容
+
+**** 原料
+Sirloin cutlet
+- price: $3.59
+- weight: 0.6 lb
+Onion
+
+
+**** 步骤
+***** 0 这周购买了糖和菱粉
+- 目的是调出更好的口感?
+- 问题是我忘记什么时候加了
+所以我打算切完肉之后,立刻加.
+
+实际操作中,首先加了老抽,一勺糖,糖量刚好于勺口齐平.
+***** A
+水干后,立马减火到7成强度,这次避免了上次错误
+***** B
+由于这次用的老抽,所以更倾向于用时间控制
+***** C
+时间控制准确.
+***** D
+由于是老抽,平底锅上有很多黑色泡沫突起.这次添加了新油.
+***** E
+这次有意识等待洋葱香味.因为火只有7成,所以时间较上次稍长.
+***** F
+这次先放了肉,由于已经有了调料,只加了盐.2分钟内起锅.
+**** 问题
+如何提高视觉效果?
+**** 遗憾
+- 用老抽替代了生抽,颜色不好看了
+**** 短评
+- 这次注意了切肉方向,肉不塞牙
+- 由于菱粉和糖的加入,口感稍好一些.
+* 西红柿炒鸡蛋
+** cook eggs
+*** [make sur]e add salt before dump into pan
+*** take it out from the pan after cook
+** add oil
+** cook tomato
+half minute
+** put egges also with suger
+
+
+This is my experience with [[https://www.goodreads.com/book/show/41948849-plant-based-on-a-budget][the book]].
+
+I like the ideas of `glycemic index`, and I just want to apply these
+ideas I've learn during this journey.
+
+* sala
+ref https://dlyang.me/salad-revolution/
+* Trying
+** Breakfast (38)
+   Five-Ingredient Peanut Butter Bites (40)
+   Banana Zucchini Pancakes (43)
+   Tofu Scramble (46)
+   Blueberry Banana Muffins (49)
+   Overnight Oats (52)
+   Pumpkin Bites (55)
+   Stovetop Blueberry Oatmeal (58)
+   Breakfast Quinoa (61)
+   Chilaquiles (64)
+   Green Banana Smoothie (68)
+   Homemade Granola Clusters (71)
+   Hummus and Avocado Bagel (74)
+   Sweet Potato Breakfast Bowl (77)
+   Tempeh Hash (80)
+   Tropical Smoothie Bowl (83)
+** Salads (87)
+   Quinoa Salad (89)
+   Perfect Potluck Pasta Salad (92)
+   Mexican-Inspired Salad and Sweet Vinaigrette (95)
+   Slaw Salad and Avocado Dressing (98)
+   TLT Salad (101)
+   Bean and Corn Salad (104)
+   Cabbage Salad and Peanut Butter Vinaigrette (108)
+   Chickpea Salad (111)
+   Larb Salad (114)
+   Kale Salad and Creamy Caesar Dressing (117)
+   Basic Table Salad (120)
+** Snacks (124)
+   Homemade Hummus (125)
+   Homemade Red Salsa (128)
+   Guacamole (131)
+   Stic’s Date Nite Power Snack (134)
+   Nacho Cheese (137)
+   Tomatillo Salsa (140)
+   Peanut Butter Balls (143)
+** One-Pot Meals (148)
+   Black Bean Soup (150)
+   Broccoli Potato Soup (153)
+   Carrot Ginger Soup (156)
+   Coconut Curry Soup (159)
+   Four-Bean Chili (162)
+   Ginger Butternut Squash Soup (166)
+   Miso Split Pea Soup (169)
+   Mexican-Inspired Soup (172)
+   Fancy Instant Ramen Soup (175)
+   Minestrone Soup (178)
+   Gumbo (181)
+   Pumpkin Curry (184)
+   Sick Day Soup (187)
+   Sweet Potato Chili (190)
+   Tofu Noodle Soup (193)
+** Supper Staples (197)
+   Sweet Potato Tacos (199)
+   Tofu with Peanut Sauce (203)
+   Lentil Tacos (206)
+   Avocado Sunflower Seed Pesto Pasta (209)
+   Jackfruit Carnitas Tacos (212)
+   Lentil and Sweet Potato Bowl (215)
+   Mexican Rice Bowl (218)
+   Veggie Tofu Pasta (221)
+   Fried Brown Rice (224)
+   Peanut Butter Ramen Stir-Fry (227)
+   Calzones (230)
+   Spaghetti Squash with Marinara and Veggies (233)
+   Loaded Sweet Potatoes (236)
+   Zucchini Potato Casserole (239)
+   Stuffed Bell Peppers (242)
+   Veggie Chow Mein (245)
+   Teriyaki Tofu Stir-Fry (248)
+   Sweet Potato Sandwich (251)
+   Ginger Lime Tofu (254)
+   Tofu Veggie Gravy Bowl (257)
+   Totchos (260)
+** Desserts (264)
+   Four-Ingredient Chocolate Pie (266)
+   Banana Soft Serve (269)
+   Aaron’s Grandma’s Banana Bread (272)
+   Depression Era Cupcakes (275)
+   Mixed Berry Cobbler (278)
+   Peanut Butter Banana Shake (281)
+   Chocolate-Covered Strawberries (284)
+   Baked Apples (287)
+   Coconut Whipped Cream over Berries (290)
+   Protein Chocolate Chip Cookies (293)
+   Pumpkin Pie (296)
+   Orange Creamsicles (299)
+   Real-Deal Chocolate Chip Cookies (302)
+** Back to Basics (306)
+   Quinoa (308)
+   Brown Rice (310)
+   Beans (313)
+   Brown or Green Lentils (316)
+   Green Split Peas (319)
+   Croutons (320)
+   Strawberry Dressing (321)
+   Apple Cider Vinaigrette (324)
+   Tahini Dressing (325)
+   Potatoes (327)
+   Roasted Squash (328)
+   Piecrust (329)
+   Lora’s Pizza Dough (331)
+   Vegetable Broth (333)
+   Peanut Milk (336)
+   Fried Tofu (339)
+   Cashew Cream (341)
+   Tempeh Bacon (344)

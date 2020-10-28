@@ -1,6 +1,6 @@
 #+TITLE: design-our-bike
 #+CREATED:       [2020-10-27 Tue 10:50]
-#+LAST_MODIFIED: [2020-10-27 Tue 10:52]
+#+LAST_MODIFIED: [2020-10-27 Tue 15:58]
 
 * background
 ** how to make carbon frame?

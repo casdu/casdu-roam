@@ -1,0 +1,67 @@
+#+TITLE: casdu-video-data-base
+#+CREATED:       [2020-10-28 Wed 15:22]
+#+LAST_MODIFIED: [2020-10-28 Wed 15:24]
+
+* 周年
+** [七周年](https://video.tudou.com/v/XMjI3MTQ4MTE2.html)
+* 远征
+** [2010]
+* Ref
+https://id.tudou.com/i/UMjk1NDEzMTY4?spm=a2h28.8313475.info.2
+* Method
+I would like the database has such following features:
+
+1. extremely easy way to search
+2. possbile tag system
+3. catogize into different list with
+
+I think the .mkv .mp4 all these video clip should has UUID.
+
+User could check the content of the video with trivial effort.
+
+> 单是从存储上下手，将每次活动的照片整理分类已经很不容易。
+
+How do I organize my file system?
+
+> 此外，除了照片视频，其他文化周边素材，例如手绘海报、传单、纪念品也可以考虑同样收集整理。
+
+How do I organize my digital life?
+
+> any thougths from the book I've read?
+
+Ref:
+0. http://bbs.casdu.cn/forum.php?mod=viewthread&tid=4753&fromuid=36346
+1. db: MongoDB
+A. Managing the Digital You: Where and How to Keep and Organize Your Digital Life
+* What to capture
+- 省界、市界、标志性建筑、名胜古迹及风景优美处的合影
+- 每人每天至少一幅骑行时的特写
+- 吃饭
+- 游戏
+- 开会
+- 主动构思一些摄影作品（如夕阳下的队列，爬山时推人的景象）
+- 设计搞笑动作（如07千手观音、08的*照门）
+- 视频记录要覆盖整个远征过程
+- 从远征前的准备过程
+- 路上队列的前进
+- 到远征后的聚餐
+- 整理成一个纪录片
+* Tech issue
+** https://www.theguardian.com/technology/askjack/2018/jun/07/how-back-up-holiday-photos-without-using-laptop-cloud-wifi
+
+ > In general, I think the best solution is to buy lots of large SD or microSD cards and carry a small laptop.
+** mini computer
+ On taobao: https://detail.tmall.com/item.htm?spm=a230r.1.14.6.79a54c28IoHVwj&id=599134105794&cm_id=140105335569ed55e27b&abbucket=20&sku_properties=5919063:6536025
+
+ ref: https://emacs-china.org/t/linux-emacs/10745
+
+*** question
+
+ - any cheaper computer avaiable?
+ - how's performance?
+** SD soution
+*** something about SD card
+
+ > When SD cards appeared, they used Microsoft’s FAT12 or FAT16 file system, so they could only store up to 2GB of data. However, SDHC cards, which use FAT32, can store up to 32GB, while SDXC cards can store up to 2TB using exFAT. With storage capacities above 16GB – typically 32GB, 64GB and 128GB – it’s rarely worth the effort of deleting photos. Just stick a new card in when the old one is full, and reformat it later if really necessary.
+** phone solution
+ > https://www.dpreview.com/forums/thread/4363113

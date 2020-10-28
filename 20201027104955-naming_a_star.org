@@ -1,6 +1,6 @@
 #+TITLE: naming-a-star
 #+CREATED:       [2020-10-27 Tue 10:49]
-#+LAST_MODIFIED: [2020-10-27 Tue 10:50]
+#+LAST_MODIFIED: [2020-10-27 Tue 16:16]
 
 - Choose a name and dedication for your star
 

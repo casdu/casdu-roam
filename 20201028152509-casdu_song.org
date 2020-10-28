@@ -1,0 +1,548 @@
+#+TITLE: casdu-song
+#+CREATED:       [2020-10-28 Wed 15:25]
+#+LAST_MODIFIED: [2020-10-28 Wed 15:30]
+
+* 奔跑
+速度七十迈
+心情是自由自在
+希望终点是爱琴海
+全力奔跑梦在彼岸
+
+我们想漫游世界
+看奇迹就在眼前
+等待夕阳染红了天
+肩并着肩许下心愿
+
+-------------------------
+随风奔跑自由是方向
+追逐雷和闪电的力量
+把浩瀚的海洋装进我胸膛
+即使再小的帆也能远航
+
+随风飞翔有梦作翅膀
+敢爱敢做勇敢闯一闯
+哪怕遇见再大的风险再大的浪
+也会有默契的目光
+--------------------------
+** other format
+*** guitar
+https://www.bilibili.com/video/av55402941/?spm_id_from=trigger_reload
+
+*** drum
+https://www.youtube.com/watch?v=fqdlkq2BDHI
+https://www.youtube.com/watch?v=fzcZY5KOVHo
+
+*** piano
+https://www.youtube.com/watch?v=f-3aaJE9BJY
+
+*** 李敏鎬X羽泉
+https://www.youtube.com/watch?v=MmQw6CtxQ5k
+
+*** 呂薔
+https://www.youtube.com/watch?v=ANl3UNXr2rA
+
+*** ori
+https://www.youtube.com/watch?v=PkoXgeomcOo
+
+*** Ukulele
+高晟杰 https://www.youtube.com/watch?v=pJwAv34fCsU
+
+*** other
+https://www.youtube.com/watch?v=OUNOKSAJVvQ
+
+** just tell a story
+#+begin_quote
+又或者很复杂，有时候它可以解释为“痛并快乐着”，当爬坡已让我们体力逐渐透支，而山的前面还是山，一个队伍已经疲乏得只有车轮碾地的声音。真的会感觉到痛苦，可是肯定还记得吧，到达坡顶的畅快，看到前站时的感动，或者是，突然听到有个声音唱起：“速度七十迈…”那种欣然。
+#+end_quote
+
+#+begin_quote
+我想，大多数人加入车协的原因跟我当初一样，是为火热鲜妍的青春激情、风雨同路的兄弟情义以及独具风情的自行车旅行所吸引。
+#+end_quote
+
+#+begin_quote
+每一个毒辣的日头、每一场瓢泼的大雨都满怀深情，每一条道路的区别都因为洒落的汗水分外清晰，与最最亲爱的人们共同收藏的跑调歌、玩笑话、“黑帮暗语”永远值得我们为之一醉。
+#+end_quote
+
+#+begin_quote
+再进一步说，我们也许可以与协会的很多兄弟姐妹关系都很好，但这只是一种亲密，我们很多时候无法达到真正的了解，并不知道他们中的很多人到底在想什么。
+#+end_quote
+
+#+begin_quote
+选择自行车的人是有勇气与活力的，他们热爱生活，深知世界的美妙，乐于接受挑战。
+#+end_quote
+
+#+begin_quote
+爱上骑行以后，经常骑车爬山，每次想放弃骑行下来推车的时候，都以下个拐角就会有好风景来激励自己，而事实也经常是这样的。一个弯拐过去，可能有上坡、下坡，可能有陡坡缓坡，可能有风吹青松，可能有夕阳晚霞。期待下一个弯的风景，是我一直坚持着的。
+#+end_quote
+
+#+begin_quote
+真正的目的当在于扩展视野，明今古事，知天下理，方不致困惑彷徨。
+#+end_quote
+
+#+begin_quote
+可能我的动机是最不纯的了：我大概只是想要拍几张好看的照片。
+#+end_quote
+
+#+begin_quote
+镜头的后面，他喜欢默默的在人群之外，远远的用长焦捕捉人们的欢笑与泪痕，然后回到宿舍在电脑上一张张的挑选、处理，直到这些影像乖乖的让自己满意为止。如果你热爱这些影像，你就会理解，再繁琐的步骤也是快乐和幸福的。
+#+end_quote
+
+#+begin_quote
+看看我们这一年又一年积累下来的大家所拍摄的可爱的照片吧，那些大家的欢笑，那些大家一起走过的路。
+#+end_quote
+
+#+begin_quote
+于是我们又一次流落街头，走在深夜城市空荡荡的人行道上，看着大街上渐渐稀疏的车流，落寞与无助充满心间。最终，中心校区北门外一家小小的面馆收留了我们这两个落魄的流浪汉。点了两杯咖啡，我打开电脑排版，河卿在旁边陪着我。店里就三个人，我俩加上一个值夜的店员。空气中弥漫着淡淡的寂寞，时光仿佛静止在空中，睡意也渐渐变得麻木。当黑黑的夜最终褪去，大大的玻璃窗外，金灿灿的曙光越过树梢打在窗外的街道上，偶尔往来一两辆车，一两个晨练的人，还有卖早点的小贩，推着冒着热气的铁皮车，小轮子咕噜噜的声音在寂静的大街上回响，小城这才渐渐有了些生气。于是两个人都要了碗面，仓促的吃了一些，胃因为困倦竟然没有什么感觉。于是我们又一次流落街头，走在深夜城市空荡荡的人行道上，看着大街上渐渐稀疏的车流，落寞与无助充满心间。最终，中心校区北门外一家小小的面馆收留了我们这两个落魄的流浪汉。点了两杯咖啡，我打开电脑排版，河卿在旁边陪着我。店里就三个人，我俩加上一个值夜的店员。空气中弥漫着淡淡的寂寞，时光仿佛静止在空中，睡意也渐渐变得麻木。当黑黑的夜最终褪去，大大的玻璃窗外，金灿灿的曙光越过树梢打在窗外的街道上，偶尔往来一两辆车，一两个晨练的人，还有卖早点的小贩，推着冒着热气的铁皮车，小轮子咕噜噜的声音在寂静的大街上回响，小城这才渐渐有了些生气。于是两个人都要了碗面，仓促的吃了一些，胃因为困倦竟然没有什么感觉。
+#+end_quote
+
+#+begin_quote
+但我想说的是，一个人在车协所经历的，远远比他最初想象中的要更加丰富、更加复杂。在车协，有坚守，有奋斗。在这里，你所遇到的不一样的人生经历，是最宝贵的富。
+#+end_quote
+
+#+begin_quote
+黄巢的篝火，冬至的年会
+#+end_quote
+
+#+begin_quote
+骑车，不单纯是在踩踏，因为骑士精神，因为家文化，我深深地被这个组织吸引。骑行之外还能做什么，决定了我们这个社团能走多远，能做多大。我喜欢这群人，因为他们重感情，讲义气，敢作敢当，出门像一群虎狼，张扬个性，亮出自己的獠牙，只为保护身后这群人；在家里，他们收起獠牙，互相温暖，互相感动，让你看到每个男生温暖的一面，每个女生坚强的样子。
+#+end_quote
+
+#+begin_quote
+骑车，不单纯是在踩踏，因为骑士精神，因为家文化，我深深地被这个组织吸引。骑行之外还能做什么，决定了我们这个社团能走多远，能做多大。我喜欢这群人，因为他们重感情，讲义气，敢作敢当，出门像一群虎狼，张扬个性，亮出自己的獠牙，只为保护身后这群人；在家里，他们收起獠牙，互相温暖，互相感动，让你看到每个男生温暖的一面，每个女生坚强的样子。
+#+end_quote
+
+#+begin_quote
+少年，趁阳光正好，上路吧。有些事，就得趁当下。
+#+end_quote
+
+#+begin_quote
+准备路线，找好队友
+
+检车检人，物资准备
+
+准备就绪，出发上路
+
+安全骑行，安全回家
+#+end_quote
+
+#+begin_quote
+出校门往西，随便挑一条顺眼的路折向南，蹬十几二十分钟，文化西也好，经十也好，或者另外哪条路，沿着它往西走走，拐上英雄山路可劲儿往南，在并药路转去药乡方向，停车坐下喝口水，爬半个药乡，看到药乡五公里的牌子，右拐齐鲁风情线，沿双马路继续向南，爬坡下坡爬坡下坡两三个小时，出山就是 104 国道泰安段，沿路向东爽爽地缓下一阵，在长城西路右转，拐几个弯，没三五分钟就到家了。
+#+end_quote
+
+#+begin_quote
+黑色的车轮转过来又转过去，嗡嗡响着碾过了花园路的拥挤，碾过了济南城的车水马龙，又碾过了城郊的宽阔马路，碾过了并药路两侧森严松柏投下的影子和路边农田里飘出的蔬果清香，一直碾到药乡底。
+#+end_quote
+
+#+begin_quote
+阳光染下，山峦拖起，耳边没了不绝的恼人引擎声和车喇叭，只陶醉在山路上的人间烟火，呼吸无羁，毛孔舒逸。我一直想着赵逸新的一句话并深以为然：“骑在车上，我感觉我是自由的。
+#+end_quote
+
+#+begin_quote
+我可以傻子一样凝视自己被风吹起衣襟的影子，随性地上气不接下气嚎着难听的歌，或者伸手，摸一摸路边柏树凉嗖嗖的叶子；我会为路边一丛野草驻足，揪下一枚艾叶，闻一闻便继续赶路；也可以在盘山路上停下，拍一拍略显壮美 的阳光下绿葱葱的山谷，随即删掉；山里总会有微微的风，吹在脸上很舒服，风大点的地方浑身的汗都化作了凉爽，我常停在那找个阴凉。想走就走，想留就留，旅途如是，何其自由！
+#+end_quote
+
+#+begin_quote
+夜风撵走了湿汗和燥热，带着些树叶 草叶的气味，每一次呼吸都在清洗最深处的肺泡。这种天气下骑车简直是享受。
+#+end_quote
+
+#+begin_quote
+不论大街上的光多亮多美多高多远，它们亮给别人看，但我知道有那么一盏亮着，不为别的，只为等我。它为我而明，我奔它而去，一路挣扎劳累，能守着这盏灯坐一会儿就不算什么。
+#+end_quote
+
+#+begin_quote
+愿你向往的所有远方，都有一盏灯等你，微弱的光亮为你而明。
+#+end_quote
+
+#+begin_quote
+我想，加入车协的你们大概都是因为喜欢在路上拥抱风拥抱阳光享受美景和自由
+#+end_quote
+
+#+begin_quote
+现在想想觉着他为了这件事真的是奋不顾身无所畏惧，自己还蛮后悔当时为什么没想到把自己另一幅手套给他。我们都有过梦想，也都还有梦想，大大小小，都不好实现，不过总有人会义无反顾无所畏惧地去靠近它，我也想成为这样的人。
+#+end_quote
+
+#+begin_quote
+我们终究会牵手旅行，凤凰稻城或是巴黎，我们终究会牵手旅行，日光倾斜带上这旋律，原谅空气太过甜蜜，只许我说你听，不必害怕一路艰辛，只需安静呼吸，这良辰美景，任时间静止，看云淡风轻
+#+end_quote
+
+#+begin_quote
+休闲骑不知不觉就想起了一起去看山看水看尽这世间美景的约定，心很平静很平静，像极了 80 岁的时候坐在公园木质长椅晒着太阳眯着眼回忆往事的老人。
+#+end_quote
+
+#+begin_quote
+时间被骑行填满，人际交往几乎等于远征队员，做的事情单一，面对的人单一，目标单一，情感单一，这种单一就是一种纯粹。
+#+end_quote
+
+#+begin_quote
+也许我期待的就是远征路上的不确定性，期待远征路上预见不到的各种可能性，期待远征路上的向世界敞开的开放性。在远征过程中，不论好的坏的都是风景，也许远征路上的一切都是收获
+#+end_quote
+
+#+begin_quote
+再后来，到现在，那是对大千世界斑驳陆离的未知的挑战
+#+end_quote
+
+#+begin_quote
+夜晚的黑，压迫着视线之外的八角山，昏黄的灯光静静地看着行人。
+#+end_quote
+
+#+begin_quote
+自行车，那是对万千世界斑驳陆离的未知的挑战。
+#+end_quote
+
+#+begin_quote
+你是前轮，我是后轮
+你走过的每一步
+我都亲吻过
+#+end_quote
+
+#+begin_quote
+最后一句
+1，2，3
+车协！
+#+end_quote
+
+#+begin_quote
+我们来玩石头剪刀布
+你赢了我陪你去爬山
+我赢了你陪我去看海
+#+end_quote
+
+#+begin_quote
+车驻足的地方都是最美风景
+协青春的岁月都是难忘记忆
+人说过的每一句都是最动听
+#+end_quote
+
+#+begin_quote
+车轮周而复始
+链条循环往复
+#+end_quote
+
+#+begin_quote
+心中荒芜
+在你来之前
+在你走之后
+#+end_quote
+
+#+begin_quote
+草在结它的种子
+风在摇它的叶子
+#+end_quote
+
+#+begin_quote
+他莫名其妙地感觉，他属于这里，这里就是他苦苦寻求的故乡。
+#+end_quote
+
+* 夜空中最亮的星
+** [[https://youtu.be/TUSIeXG8_U0?t=41][原作:这首歌写的就是：那些曾经和我们并肩作战的人]]
+ #+begin_quote
+ 不是老歌好听了 而是我们都有故事了 -I TD
+ #+end_quote
+** [[https://www.youtube.com/watch?v=ymkYRieqzcQ][玻璃杯|章魚, 家儀, 武敬凱Jing Wu, 念融Ilka]]                      :training:
+** vocal
+*** [[https://www.youtube.com/watch?v=V9ix0GCNlS8][Calculasian]]
+** [[https://www.youtube.com/watch?v=8o4Ux7pjIL8][Jian & Evelyn]]                                                   :training:
+   - [[https://youtu.be/8o4Ux7pjIL8?t=206][if just want to the whole package]]
+** 合唱团
+*** [[https://www.youtube.com/watch?v=-uzuhqQIaTM][厦门六中合唱团]] :training:
+*** [[https://www.youtube.com/watch?v=18OcCSCxKgg][双曲线合唱团]]  :training:
+*** [[https://www.youtube.com/watch?v=U0ldWX9ixZU][A Cappella Cover]] :training:
+**** comment: Yan Rong Huang
+ #+begin_quote
+ 我覺得原唱給我的感覺是，在一片漆黑的夜空中真的有一顆明亮的星星，給那些
+ 徬徨迷惘的人們指引道路，很讓人能夠充滿力量去面對所有挑戰。而你們這個版
+ 本給我的感覺則是，當人們身陷徬徨迷惘的時候，你們化身成一整條銀河，溫暖
+ 柔軟的嗓音將那些人們的不安一一抹去，讓人能夠充滿希望、並且相信自己能做
+ 得到！
+ #+end_quote
+** 乐队
+*** [[https://www.youtube.com/watch?v=2vaTz9f9bX0][乐队总裁]]      :training:
+*** [[https://www.youtube.com/watch?v=va11D05QI1o][엔플라잉]]      :training:
+*** [[https://www.youtube.com/watch?v=fCAEpt7C2Lk][汪定中 All in one]] :training:
+*** [[https://www.youtube.com/watch?v=eqiKqwvXa5E][?Trigger]]      :training:
+*** [[https://www.youtube.com/watch?v=LkPbSr52ZHc][羅文裕]]        :training:
+*** [[https://youtu.be/TI7s6dDobmw?t=293][@广东深圳机场]]
+*** [[https://www.youtube.com/watch?v=XAsz7NWNZJY][歪果仁乐队]]    :training:
+*** [[https://youtu.be/PkYs0LjBZXg?t=191][倍倍(指引我前行)]]
+** 电子舞曲 (EDM)                                                  :training:
+*** [[https://www.youtube.com/watch?v=6a3Pwb_c6fI][夜空中最亮的星 EDM Cover ( 蔡恩雨 Priscilla Abby )]]
+*** [[https://youtu.be/Sfiznv3voZE?t=74][3:03]]                    :training:
+*** [[https://www.youtube.com/watch?v=6ecvYoopW08][小果醬remix]]   :training:
+** solo
+*** [[https://www.youtube.com/watch?v=DaHcThdlXbs][旦增尼瑪]]      :training:
+*** [[https://www.youtube.com/watch?v=D7tFdaBXkyE][林佳音]]        :training:
+*** [[https://www.youtube.com/watch?v=K2M5NT-yhts][郁可唯]]
+*** [[https://www.youtube.com/watch?v=Q-Fo6FteF8U][BÙI HOÀNG YẾN]] :training:
+*** [[https://www.youtube.com/watch?v=FrBkUlV1-rU][TBD 2:49]]      :training:
+*** [[https://www.youtube.com/watch?v=Lz6JJpaK6Ec][Hedgygal]]
+*** [[https://www.youtube.com/watch?v=gYRUBBqkzMQ][BONBON]]        :training:
+*** [[https://www.youtube.com/watch?v=LhotsZznxm4][莫文蔚]]        :training:
+*** [[https://www.youtube.com/watch?v=jTKw2VVirNg][李雨婷]] && ??
+*** [[https://www.youtube.com/watch?v=3dDyoPVyZ08][Rown]]          :training:
+*** [[https://www.youtube.com/watch?v=6pWkSSwZsvQ][徐薇]]          :training:
+*** [[https://www.youtube.com/watch?v=SWuvKvN1FW0][小斐鱼]]
+*** [[https://www.youtube.com/watch?v=_etOaKtsTyY][前奏]]
+*** [[https://youtu.be/DilPiyj3xPU?t=84][1:23]]
+*** [[https://www.youtube.com/watch?v=JBY8p1hNcb8][to qi-peng]]
+*** [[https://www.youtube.com/watch?v=njTppurxZok][持修]]
+*** [[https://www.youtube.com/watch?v=OfVAIS_AZn8][馬叔叔 & 楊世豐]]
+*** [[https://www.youtube.com/watch?v=8xpQUTixzg8][文慧如]]
+*** [[https://www.youtube.com/watch?v=uSS8QXCkZJc][谭维维 & 蔣瑤佳 @Masked Singer S2]] :training:
+*** [[https://www.youtube.com/watch?v=_6Pmknyansc][周玥]]
+**** comments
+ #+begin_quote
+ 每当找不到存在的意义，每当迷失在黑夜里，总有一颗星、一种意念支撑着你，或许是你的梦想，或许是你爱的人。
+ #+end_quote
+** 钢琴
+*** [[https://www.youtube.com/watch?v=BVqexCOCt6U][Cookie Music]]
+*** [[https://www.youtube.com/watch?v=80jZnZXahLw][ympiano]]
+*** [[https://www.youtube.com/watch?v=wG-IcK8t7xw][Janice Liu]]
+*** [[https://www.youtube.com/watch?v=LxWW-EcJOnw][SLS]]
+*** [[https://www.youtube.com/watch?v=iQlub6jz6OI][力量]]
+*** [[https://www.youtube.com/watch?v=oQ9Uam9SJXk][with Orchestral]]
+ #+begin_quote
+ - Have you ever feel hopeless?
+
+ - I have, but I believe that there is a brightest star in the sky
+   showing me the way.
+
+   by: Yiping Wang
+ #+end_quote
+*** [[https://www.youtube.com/watch?v=tc1nmwy5EeY][怪坡的味道]]
+*** [[https://www.youtube.com/watch?v=wyYZUAd0iXs][for older people -by 尚柏周]]
+*** tutorial
+**** [[https://www.youtube.com/watch?v=ylLyeayl7u8][基礎伴奏]]
+** 古筝
+*** [[https://www.youtube.com/watch?v=sP2VzJX6G4I][猫咪]]
+*** [[https://www.youtube.com/watch?v=WwDBdj4Zdxg][Happy King]]
+** 小提琴
+*** [[https://www.youtube.com/watch?v=j0ISMImPD_4][揉揉酱]]
+** [[https://www.youtube.com/watch?v=jyW63iSFeFY][長笛]]
+** [[https://youtu.be/SEZLyVTN3gM?t=169][da-la-da-la-da-da-lala]]
+** [[https://www.youtube.com/watch?v=JryXFYpJbPA][萨克斯]]
+** 吉他
+*** 电
+**** [[https://www.youtube.com/watch?v=ShQlHZoUojA][小藤]]
+**** [[https://www.youtube.com/watch?v=8upN3enHFOc][oh-yeah]]
+**** [[https://www.youtube.com/watch?v=QRxiuryAUvQ][张俊文]]
+*** 弹唱
+**** [[https://www.youtube.com/watch?v=HwpZ_n1HeFk][邓园长]]       :training:
+**** [[https://www.youtube.com/watch?v=TZoSxqEYvIE][蔡佩軒|Piano]] :training:
+**** [[https://www.youtube.com/watch?v=G-legnPxqoQ][璽恩／Peter]]
+**** [[https://www.youtube.com/watch?v=LqJM_KwxJDY][Chishiuan Chen]]
+**** [[https://www.youtube.com/watch?v=N4CmR0Z1ybs][練懿樂]]
+**** [[https://www.youtube.com/watch?v=YErzOcyiFBA][練懿樂@香港海旁]]
+**** [[https://www.youtube.com/watch?v=DBkIev-uqOg][unknown]]
+**** [[https://www.youtube.com/watch?v=UYNIVaybDzM][司徒]]
+**** [[https://www.youtube.com/watch?v=vSI5YyP_uDM][梁悦信]]
+**** [[https://www.youtube.com/watch?v=RYvj2xH_EzQ][G-C-Am-G]]
+**** [[https://www.youtube.com/watch?v=bkcy1Odh5Cs][马叔叔]]
+*** 指弹
+**** [[https://www.youtube.com/watch?v=jsefHb07hns][阿村-tab]]     :training:
+**** [[https://www.youtube.com/watch?v=Q00FSZFjC9s][Amy]]
+ #+begin_quote
+  When we find ourselves in darkness, we hope that the brightest star
+  can guide us to light and resume the right path. In turn, maybe some
+  day our light will shine on others  :)
+ #+end_quote
+**** [[https://www.youtube.com/watch?v=WpVXEZECDyU][吳駿忠]]
+**** [[https://www.youtube.com/watch?v=ojhllIdE01w][Han min Yun]]
+**** [[https://www.youtube.com/watch?v=j2QdMauoa48][米越]]
+** Ukulele
+*** [[https://www.youtube.com/watch?v=tGkcKT5cyB4][hoismusic]]
+*** [[https://www.youtube.com/watch?v=BBpGbJqbqxc][楊棠棠]]
+** 卡淋巴琴
+ - https://www.youtube.com/watch?v=SWuvKvN1FW0
+*** [[https://www.youtube.com/watch?v=mLqkyFBvlDE][by BI-san-tan-ji-ta]]
+** drum
+ - [[https://youtu.be/q3Pcfc7xxsw?t=23][谱]]
+*** [[https://www.youtube.com/watch?v=zTe2PqOm76Y][木箱鼓]]
+*** [[https://www.youtube.com/watch?v=6g-TZn7XLJs][罗小白]]
+*** [[https://www.youtube.com/watch?v=GOYKxKk3SC0][罗小白@新北市樹林區興仁花園夜市]]
+*** [[https://www.youtube.com/watch?v=Gve-PxsAsdY][吉米]]
+** 萨克斯
+*** [[https://www.youtube.com/watch?v=IdVYuCx91oU][葉嘉淇]]
+** 羽毛球
+*** [[https://www.youtube.com/watch?v=EE40svMz7Cc][yes]]
+** 英语 法语 西班牙
+ https://www.youtube.com/watch?v=YvGcHa4PUTg
+*** english version
+**** [[https://www.youtube.com/watch?v=7DhCqNDPx40][by Tong Wang]]
+ - by Tony Wang
+ #+begin_quote
+ 夜空中最亮的星
+
+ #夜空中最亮的星
+ The brightest star in the sky
+ 能否聽清
+ Can you hear me
+ 那仰望的人
+ Your true admirer
+ 心底的孤獨和嘆息(#之後在這句END)
+ My loneliness and my sighs
+
+ OH 夜空中最亮的星
+ The brightest star in the sky
+ 能否記起
+ Can you recall
+ 曾與我同行
+ You walked with me
+ 消失在風裡的身影
+ Until the wind hid your shadow
+
+ *我祈禱擁有一顆透明的心靈
+ I pray that I possess a heart you can see through
+ 和會流淚的眼睛
+ And a pair of eyes that cry
+ 給我再去相信的勇氣
+ Give me courage to believe again
+ OH 越過謊言去擁抱你
+ OH Leap over the lies to hold you
+ 每當我找不到存在的意義
+ Whenever I can’t find a reason to go on
+ 每當我迷失在黑夜裡
+ Whenever I’m lost in the dark
+ OH~夜空中最亮的星
+ OH The brightest star in the sky
+ 請指引我走出去(OH 請照亮我前行#)
+ Please guide me to go beyond
+
+ 夜空中最亮的星
+ The brightest star in the sky
+ 是否知道
+ What do you know
+ 曾與我同行
+ You walked with me
+ 的身影如今在哪裡
+ I wonder where you are now
+ OH 夜空中最亮的星
+ Oh The brightest star in the sky
+ 是否在意
+ I beg your pardon
+ 是太陽先升起
+ Will the sun come up first
+ 還是意外先來臨
+ Or misfortune overtakes
+
+ 我寧願所有痛苦都留在心裡
+ Rather I could keep all the pain inside my heart
+ 也不願忘記你的眼睛
+ Than forgetting the look of your eyes
+ 給我再去相信的勇氣
+ Give me courage to believe again
+ OH 越過謊言去擁抱你
+ OH Leap over the lies to hold you
+ 每當我找不到存在的意義
+ Whenever I can’t find a reason to go on
+ 每當我迷失在黑夜裡
+ Whenever I’m lost in the dark
+ OH~夜空中最亮的星
+ OH The brightest star in the sky
+ OH 請照亮我前行*
+ Please guide me to go beyond
+ #+end_quote
+*** comments
+** url sum
+ https://www.youtube.com/watch?v=-uzuhqQIaTM
+ https://www.youtube.com/watch?v=18OcCSCxKgg
+ https://www.youtube.com/watch?v=XAsz7NWNZJY
+ https://youtu.be/PkYs0LjBZXg
+ https://www.youtube.com/watch?v=6a3Pwb_c6fI
+ https://youtu.be/Sfiznv3voZE
+ https://www.youtube.com/watch?v=6ecvYoopW08
+ https://www.youtube.com/watch?v=3dDyoPVyZ08
+ https://www.youtube.com/watch?v=_etOaKtsTyY
+ https://youtu.be/DilPiyj3xPU
+ https://www.youtube.com/watch?v=JBY8p1hNcb8
+ https://www.youtube.com/watch?v=njTppurxZok
+ https://www.youtube.com/watch?v=LxWW-EcJOnw
+ https://www.youtube.com/watch?v=iQlub6jz6OI
+ https://www.youtube.com/watch?v=sP2VzJX6G4I
+ https://www.youtube.com/watch?v=j0ISMImPD_4
+ https://www.youtube.com/watch?v=jyW63iSFeFY
+ https://youtu.be/SEZLyVTN3gM
+ https://www.youtube.com/watch?v=JryXFYpJbPA
+ https://www.youtube.com/watch?v=8upN3enHFOc
+ https://www.youtube.com/watch?v=RYvj2xH_EzQ
+ https://www.youtube.com/watch?v=bkcy1Odh5Cs
+ https://www.youtube.com/watch?v=Q00FSZFjC9s
+ https://www.youtube.com/watch?v=WpVXEZECDyU
+ https://www.youtube.com/watch?v=tGkcKT5cyB4
+ https://www.youtube.com/watch?v=zTe2PqOm76Y
+ https://www.youtube.com/watch?v=6g-TZn7XLJs
+ https://www.youtube.com/watch?v=Gve-PxsAsdY
+ https://youtu.be/q3Pcfc7xxsw
+ https://www.youtube.com/watch?v=YvGcHa4PUTg
+** for cyclist joe
+ I've been inspired by those wonderful voice during the hard time in my
+ life. I found that everyone has their own interpertation of this song,
+ and I can feel that. I still collect the new interperation of it. Hope
+ it can also make you feel a little bit better during any hardtime in
+ your life.
+* 倔强
+  當 我和世界不一樣 那就讓我不一樣 堅持對我來說 就是以剛克剛
+  我 如果對自己妥協 如果對自己說謊 即使別人原諒 我也不能原諒
+  最美的願望 一定最瘋狂 我就是我自己的神 在我活的地方
+  我和我最後的倔強 握緊雙手絕對不放
+  下一站是不是天堂 就算失望不能絕望
+  我和我驕傲的倔強 我在風中大聲的唱
+  這一次為自己瘋狂 就這一次 我和我的倔強
+  對 愛我的人別緊張 我的固執很善良 我的手越骯髒 眼神越是發光
+  你 不在乎我的過往 看到了我的翅膀 你說被火燒過 才能出現鳳凰
+  逆風的方向 更適合飛翔 我不怕千萬人阻擋 只怕自己投降
+  我和我最後的倔強 握緊雙手絕對不放
+  下一站是不是天堂 就算失望不能絕望
+  我和我驕傲的倔強 我在風中大聲的唱
+  這一次為自己瘋狂 就這一次 我和我的倔強
+  我和我最後的倔強 握緊雙手絕對不放
+  下一站是不是天堂 就算失望不能絕望
+  我和我驕傲的倔強 我在風中大聲的唱
+  這一次為自己瘋狂 就這一次 我和我的倔強
+  就這一次 讓我大聲唱
+  啦啦啦... 就算失望 不能絕望
+  啦啦啦... 就這一次 我和我的倔強
+** 记忆
+*** 2012 北大赛
+ https://v.youku.com/v_show/id_XMzkzNTQ0NjU2.html?spm=a2hbt.13141534.1_2.d1_7&f=6205709
+** 諾亞方舟 北京
+ https://www.youtube.com/watch?v=puv9Lghq4Rc
+** 钢琴
+ 0:33 https://www.youtube.com/watch?v=4UbjqYKbFPk
+
+* 心愿
+#+begin_quote
+湖水是你的眼神 夢想滿天星辰
+心情是一個傳說 亙古不變地等候
+成長是一扇樹葉的門 童年有一群親愛的人
+春天是一段路程 滄海桑田的擁有
+那些我愛的人 那些離逝的風
+那些永遠的誓言一遍一遍
+那些愛我的人 那些沉澱的淚
+那些永遠的誓言一遍一遍
+我們都曾有過一張天真而憂傷的臉
+手握陽光我們望著遙遠
+輕輕的一天天一年又一年
+長大間我們是否還會再唱起心願
+輕輕的一天天一年又一年
+長大間我們是否還會再唱起心願
+長大間我們是否還會再唱起心願
+#+end_quote
+* script
+# mkv 2 mp3
+```
+find . -type f -name "*.mkv" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "outputs/${FILE%.mkv}.mp3";' _ '{}' \;
+```
+
+# webm 2 mp3
+
+```
+for FILE in *.webm; do
+    echo -e "Processing video '\e[32m$FILE\e[0m'";
+    ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "outputs/${FILE%.webm}.mp3";
+done;
+```
+
+# mp4 2 mp3
+```
+for f in *.mp4; do ffmpeg -i "$f" -c:a libmp3lame "outputs/${f%.mp4}.mp3"; done
+```

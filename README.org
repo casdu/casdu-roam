@@ -4,21 +4,35 @@ I am trying to connect my brain with casdu. :)
 ** TODO "casdu/training"
 ** TODO "casdu/introduction"
 ** TODO "casdu/tools"
-** TODO "casdu/120"
-** TODO "casdu/tixun"
-** TODO "casdu/forum"
-** TODO "casdu/map"
-** TODO "casdu/backUp"
-** TODO "casdu/editor"
-** TODO "casdu/license"
-** TODO "casdu/why-we-bike"
-** TODO "casdu/our-race-story"
 ** TODO "casdu/s-issue"
-** TODO "casdu/wiki-proj"
-** TODO "casdu/video-data-base"
-** TODO "casdu/TagBot"
-** TODO "casdu/software"
-** TODO "casdu/FeatherCNN"
+** DONE "casdu/120"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/tixun"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/forum"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/map"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/backUp"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/editor"
+   CLOSED: [2020-10-30 Fri 12:10]
+** DONE "casdu/license"
+   CLOSED: [2020-10-30 Fri 12:11]
+** DONE "casdu/why-we-bike"
+   CLOSED: [2020-10-30 Fri 12:11]
+** DONE "casdu/our-race-story"
+   CLOSED: [2020-10-30 Fri 12:11]
+** DONE "casdu/wiki-proj"
+   CLOSED: [2020-10-30 Fri 12:11]
+** DONE "casdu/video-data-base"
+   CLOSED: [2020-10-30 Fri 11:49]
+** DONE "casdu/TagBot"
+   CLOSED: [2020-10-30 Fri 11:49]
+** DONE "casdu/software"
+   CLOSED: [2020-10-30 Fri 11:55]
+** DONE "casdu/FeatherCNN"
+   CLOSED: [2020-10-30 Fri 11:49]
 ** DONE "casdu/cycling-group-log"
    CLOSED: [2020-10-28 Wed 15:45]
 ** DONE "casdu/cooking"

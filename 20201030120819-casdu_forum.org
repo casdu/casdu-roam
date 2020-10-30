@@ -1,0 +1,24 @@
+#+TITLE: casdu-forum
+#+CREATED:       [2020-10-30 Fri 12:08]
+#+LAST_MODIFIED: [2020-10-30 Fri 12:08]
+
+Some softward list:
+
+* discourse
+** https://discourse.vtk.org/
+** https://discourse.paraview.org/
+** https://emacs-china.org/
+
+* esoTalk
+** https://chaoli.club/index.php/
+
+* discuz
+
+* mybb
+https://mybb.com/
+or...?
+
+- discuz does not support Markdown
+- discuz is not free software
+- discuz is too easy to be hacked
+- discuz does not support backup for users

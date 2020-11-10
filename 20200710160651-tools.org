@@ -7,8 +7,8 @@
 ** 通用/General
 ** 多用/Multi-Tools
 ** 清洗/Cleaning
-** 润滑/Lubricants & Compounds
-** 轮组/Hub & Axle
+** 润滑/Lubricants and Compounds
+** 轮组/Wheel set
 ** 脚踏/Pedal
 ** 刹车/Brakes
 ** 五通/Bottom Bracket
@@ -32,24 +32,19 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 ** 多日拉练
 ** 远征
 
+* Ref
+- https://www.parktool.com/product/docs
 
-
-This is a test for casdu. How can I do this?
-
-While, not too hard. I revised the capture template as:
-
-#+begin_src elisp
-(setq org-roam-capture-templates
-      '(("d" "default" plain (function org-roam--capture-get-point)
-         "%?"
-         :file-name "%<%Y%m%d%H%M%S>-${slug}"
-         :head "#+title: ${title}\n"
-         :unnarrowed t)
-        ("p" "casdu" plain (function org-roam--capture-get-point)
-         "%?"
-         :file-name "casdu-brain/%<%Y%m%d%H%M%S>-${slug}"
-         :head "#+title: ${title}\n"
-         :unnarrowed t)))
-#+end_src
-
-in ==casdu-brain==, I added it as a submodule.
+* check bike
+#+begin_export ascii
+graph TD
+	A[胎压] -->
+	| psi? | B(快拆 花鼓 把立)
+	B --> C(刹车)
+	C --> D(变速)
+	D --> E(脚踏 中轴)
+	E --> F(前叉)
+	F --> G(螺丝)
+	G --> H(刹车)
+	H --> I(试骑)
+#+end_export

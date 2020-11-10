@@ -1,10 +1,21 @@
 * casdu-brain
 I am trying to connect my brain with casdu. :)
 * working in progress
-** TODO "casdu/training"
-** TODO "casdu/introduction"
-** TODO "casdu/tools"
 ** TODO "casdu/s-issue"
+** CANCELLED "casdu/training"
+   CLOSED: [2020-11-10 Tue 15:04]
+   :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2020-11-10 Tue 15:04] \\
+     Do not need to be included.
+   :END:
+** CANCELLED "casdu/introduction"
+   CLOSED: [2020-11-10 Tue 15:03]
+   :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2020-11-10 Tue 15:03] \\
+     Do not need to be included to casdu-brain.
+   :END:
+** DONE "casdu/tools"
+   CLOSED: [2020-11-10 Tue 15:03]
 ** DONE "casdu/120"
    CLOSED: [2020-10-30 Fri 12:10]
 ** DONE "casdu/tixun"

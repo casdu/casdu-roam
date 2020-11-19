@@ -1,3 +1,3 @@
 #+TITLE: Nov 18th, 2020
 
-** 
+** Just test it with casdu-brain, it turns out to be okay writing without Emacs.

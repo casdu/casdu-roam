@@ -1,9 +1,9 @@
 #+title: bike tools
 
 * 常用分类
-  :PROPERTIES:
-  :ID:       b424f800-3b15-4c58-8f32-25ab9992199b
-  :END:
+:PROPERTIES:
+:id: b424f800-3b15-4c58-8f32-25ab9992199b
+:END:
 ** 通用/General
 ** 多用/Multi-Tools
 ** 清洗/Cleaning
@@ -22,9 +22,9 @@
 **** 在原引用处进入该区引用，可以发现会进入一个单独的页面，相当于 narrow 到某一个 Hedaline 下，而且可直接编辑。
 **** 编辑区下方是 backlink
 ** 腕组/Headset
-**     /Bear
+** /Bear
 https://www.youtube.com/watch?v=hRLbamNQa_0
-**     /dérailleur
+** /dérailleur
 *** front dérailleur
 *** rear dérailleur
 ** Fork
@@ -36,8 +36,7 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 * 大队
 ** 单日拉练
 ** 多日拉练
-** 远征
-
+** [[远征]]
 * Ref
 - https://www.parktool.com/product/docs
 

@@ -1,6 +1,6 @@
 * 想法记录
 
-- 使用  [[https://logseq.com/][logseq] 作为编辑界面
+- 使用  [[https://logseq.com/][logseq]] 作为编辑界面
 - 可配合 Org-roam
 
 会添加一些使用指南在这里。

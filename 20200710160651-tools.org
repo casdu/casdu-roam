@@ -19,6 +19,8 @@
 :id: 5fb5c776-e522-42b9-86f1-fb9800b02214
 :END:
 *** 注意， 这是测试。在这个 Headline 下编辑一些东西，会在原引用出出现什么？
+**** 在原引用处进入该区引用，可以发现会进入一个单独的页面，相当于 narrow 到某一个 Hedaline 下，而且可直接编辑。
+**** 编辑区下方是 backlink
 ** 腕组/Headset
 **     /Bear
 https://www.youtube.com/watch?v=hRLbamNQa_0

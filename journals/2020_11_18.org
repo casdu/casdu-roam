@@ -1,6 +1,5 @@
 #+TITLE: Nov 18th, 2020
 
-** [[如何让他人使用这个 ZK]]？
 ** [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]
 **
 ** logseq 解决了必须依赖 Emacs 的问题

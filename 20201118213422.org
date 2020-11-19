@@ -1,11 +1,14 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2020-11-18 Wed 21:35]
+#+LAST_MODIFIED: [2020-11-18 Wed 21:45]
 #+CONSTANTS: oldFTP=260
 #+CONSTANTS: currentFTP=260
 
 ** Base I
-*** Week 3
+*** Base I Week 3
+    :PROPERTIES:
+    :ID:       81ef790c-6870-47f6-ab6b-ca221f51332b
+    :END:
     | Day | Set    | Target_Low | Target_high | Rest | Instruction |
     |-----+--------+------------+-------------+------+-------------|
     | 0   | 3x20m  |        232 |         248 | 7m   | -           |
@@ -36,7 +39,10 @@
     #+TBLFM: @10$4=$currentFTP * 0.93;%.0f
     #+TBLFM: @12$3=$currentFTP * 0.87;%.0f
     #+TBLFM: @13$3=$currentFTP * 0.87;%.0f
-*** Week 4
+*** Base I Week 4
+    :PROPERTIES:
+    :ID:       0eca56ee-34ba-49ec-a376-a5cbc8f3cb00
+    :END:
     | Day | Set   | Target | Rest | Instruction          |
     |-----+-------+--------+------+----------------------|
     | 0   | 3x20m |      - | -    | -                    |
@@ -77,13 +83,18 @@
     #+TBLFM: @21$3=$currentFTP * 0.89;%.0f
     #+TBLFM: @22$3=$currentFTP * 0.89;%.0f
 
-*** Week 5
+*** Base I Week 5
+    :PROPERTIES:
+    :ID:       39dff472-f6fe-4f91-a218-8d9bb9eba28d
+    :END:
 
     Rest week.
 
 ** Base II
-
-*** Week 0
+*** Base II Week 0
+    :PROPERTIES:
+    :ID:       2ceda0ca-df42-447c-abc0-2cf430e8a7fc
+    :END:
     | Day | Set   | Target | Rest | Instruction    |
     |-----+-------+--------+------+----------------|
     |   0 | FTP   |      - | -    | -              |
@@ -97,7 +108,10 @@
     #+TBLFM: @6$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.93;%.0f
 
-*** Week 1
+*** Base II Week 1
+    :PROPERTIES:
+    :ID:       33860380-5994-4c1f-b697-a3336eee34b9
+    :END:
     | Day | Set   | Target | Rest | Instruction    |
     |-----+-------+--------+------+----------------|
     |   0 | 6x10m |    239 | 5m   | -              |
@@ -112,7 +126,10 @@
     #+TBLFM: @6$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
 
-*** Week 2
+*** Base II Week 2
+    :PROPERTIES:
+    :ID:       92520dda-10ab-4ab0-bebd-27e210011d58
+    :END:
     | Day | Set   | Target | Rest | Instruction    |
     |-----+-------+--------+------+----------------|
     |   0 | 3x20m |    246 | 12m  | rest 1m in sub |
@@ -127,7 +144,10 @@
     #+TBLFM: @6$3=$currentFTP * 0.90;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.85;%.0f
 
-*** Week 3
+*** Base II Week 3
+    :PROPERTIES:
+    :ID:       d8556aa6-ed39-40b1-8c9d-938a4cdb3ece
+    :END:
     | Day | Set       | Target | Rest | Instruction |
     |-----+-----------+--------+------+-------------|
     |   0 | 5x15m     |    243 | 7m   | -           |
@@ -142,7 +162,10 @@
     #+TBLFM: @6$3=$currentFTP * 0.90;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
 
-*** Week 4
+*** Base II Week 4
+    :PROPERTIES:
+    :ID:       8a9da84f-447e-460b-b5c4-b21383d487ae
+    :END:
     | Day | Set       | Target | Rest | Instruction |
     |-----+-----------+--------+------+-------------|
     |   0 | 4x20m     |    237 | 6m   | -           |
@@ -158,7 +181,10 @@
     #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
 
 ** General Build
-*** Week 0
+*** General Build Week 0
+    :PROPERTIES:
+    :ID:       2e7cd540-8c90-48a4-bfe0-6610d9952e25
+    :END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                  |
     |-----+------+-------+-------------+--------+------------+------+------------------------------|
@@ -182,7 +208,10 @@
     #+TBLFM: @8$6=$currentFTP * (1.1 -0.95) / 4 + $currentFTP * 0.95;%.0f
     #+TBLFM: @9$6=$currentFTP * (1.1 -0.95) / 3 + $currentFTP * 0.95;%.0f
 
-*** Week 1
+*** General Build Week 1
+    :PROPERTIES:
+    :ID:       19a50158-e341-497a-9b1b-db5afcaf36a6
+    :END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction        |
     |-----+------+-------+-------------+--------+------------+------+--------------------|
@@ -211,7 +240,10 @@
     #+TBLFM: @14$6=$currentFTP * 1.00;%.0f
     #+TBLFM: @16$6=$currentFTP * .85;%.0f
 
-*** Week 2
+*** General Build Week 2
+    :PROPERTIES:
+    :ID:       509fbd24-929a-488e-b8e1-2899320a07bb
+    :END:
 
     | Day | Type | Set   | Target | Rest | SubSet      | SubSet Ins | Rest | Instruction |
     |-----+------+-------+--------+------+-------------+------------+------+-------------|
@@ -233,75 +265,17 @@
     #+TBLFM: @10$7=$currentFTP * 1.00;%.0f
     #+TBLFM: @11$4=$currentFTP * .91;%.0f
 
-**** instantaneous power converted to average power
-
-       A    B
-
-     1.20
-     -----
-          \
-           \
-            \
-             \
-	      1.10
-
-     A 45s
-     B 75s
-
-     |   x | ratio to FTP | Power |
-     |-----+--------------+-------|
-     |  45 |        1.200 |   320 |
-     |  70 |        1.194 |   319 |
-     |  95 |        1.182 |   316 |
-     | 120 |        1.169 |   312 |
-     #+TBLFM: $2= (-$1^2 + 1890 $1 - 2025)/(1500 $1);%.3f
-     #+TBLFM: $3= $2 * $currentFTP;%.0f
-
-
-      A  B  C   D
-
-           1.05
-           ____
-          /    \
-         /      \
-     ---/        \
-     .95
-
-     A,B,C,D: 60s
-
-     B:
-
-     |   x | ratio to FTP | Power |
-     |-----+--------------+-------|
-     |  60 |        0.950 |   254 |
-     |  80 |        0.954 |   255 |
-     | 100 |        0.963 |   257 |
-     | 120 |        0.975 |   260 |
-     #+TBLFM: $2= ($1^2 + 1020 $1 + 3600)/(1200 $1) ;%.3f
-     #+TBLFM: $3= $2 * $currentFTP;%.0f
-
-     C:
-
-     |   x | ratio to FTP | Power |
-     |-----+--------------+-------|
-     | 120 |        0.975 |   260 |
-     | 180 |        1.000 |   267 |
-     #+TBLFM: $2=(1.05 $1 - 9)/$1;%.3f
-     #+TBLFM: $3= $2 * $currentFTP;%.0f
-
-     D:
-
-     |   x | ratio to FTP | Power |
-     |-----+--------------+-------|
-     | 180 |        1.000 |   210 |
-     | 240 |        1.000 |   210 |
-     #+TBLFM: $3= $2 * $currentFTP;%.0f
-
-*** Week 3
+*** General Build Week 3
+    :PROPERTIES:
+    :ID:       74aba731-1914-46fc-87c5-eecf086b95cd
+    :END:
 
     Rest week. No intense workout.
 
-*** Week 4
+*** General Build Week 4
+    :PROPERTIES:
+    :ID:       77bddf4c-d8e9-4b86-9154-1b173c90d49f
+    :END:
 
     | Day | Type | Set   | Target | Rest | SubSet  | SubSet Ins | Rest | Instruction   |
     |-----+------+-------+--------+------+---------+------------+------+---------------|
@@ -315,7 +289,10 @@
     #+TBLFM: @6$4=$currentFTP * 0.99;%.0f
     #+TBLFM: @7$4=$currentFTP * 0.85;%.0f
 
-*** Week 5
+*** General Build Week 5
+    :PROPERTIES:
+    :ID:       f8538240-91c9-45a7-a03e-9b387145dce3
+    :END:
 
     | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction |
     |-----+------+-------+--------+------+--------+------------+------+-------------|
@@ -334,7 +311,10 @@
     #+TBLFM: @8$4=$currentFTP * .99;%.0f
     #+TBLFM: @9$4=$currentFTP * .92;%.0f
 
-*** Week 6
+*** General Build Week 6
+    :PROPERTIES:
+    :ID:       5085075c-efdd-4de0-bcc8-a39361e09bb9
+    :END:
 
     | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction |
     |-----+------+-------+--------+------+--------+------------+------+-------------|
@@ -349,12 +329,18 @@
     #+TBLFM: @6$4=$currentFTP * .99;%.0f
     #+TBLFM: @7$4=$currentFTP * .95;%.0f
 
-*** Week 7
+*** General Build Week 7
+    :PROPERTIES:
+    :ID:       9a87b937-09cb-4158-ba57-af0dd9311bcd
+    :END:
 
     Recover week. No intense training. Just do easy ridings.
 
 ** Climb Hill
-*** Week 0
+*** Climb Hill Week 0
+    :PROPERTIES:
+    :ID:       21890474-96a9-4b3d-ac30-99bdfd423490
+    :END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
     |-----+------+-------+-------------+--------+------------+------+-----------------------------------------|
@@ -368,7 +354,10 @@
     #+TBLFM: @6$4=$currentFTP * 0.9;%.0f
     #+TBLFM: @7$4=$currentFTP * 0.92;%.0f
 
-*** Week 1
+*** Climb Hill Week 1
+    :PROPERTIES:
+    :ID:       a80821bc-16ec-40d4-8239-35b567c1378b
+    :END:
 
     | Day | Type  |   Set | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
     |-----+-------+-------+-------------+--------+------------+------+-----------------------------------------|
@@ -400,7 +389,10 @@
     #+TBLFM: @11$4=$currentFTP * .9;%.0f
     #+TBLFM: @12$4=$currentFTP * .93;%.0f
 
-*** Week 2
+*** Climb Hill Week 2
+    :PROPERTIES:
+    :ID:       b8e7d9a9-d0ef-4544-b1c9-53ba6ddd1d01
+    :END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
     |-----+------+-------+-------------+--------+------------+------+-----------------------------------------|
@@ -418,13 +410,19 @@
     #+TBLFM: @7$4=$currentFTP * .92;%.0f
     #+TBLFM: @9$4=$currentFTP * .90;%.0f
 
-*** Week 3
+*** Climb Hill Week 3
+    :PROPERTIES:
+    :ID:       2eaee1a2-aea5-4d9b-9dfe-9232c49eee1a
+    :END:
 
     Rest week;
     Day 2 do 2 all-out-effort-20-second spring;
     Day 4 do 3 all-out-effort-20-second spring;
 
-*** Week 4
+*** Climb Hill Week 4
+    :PROPERTIES:
+    :ID:       a6db1d02-aab3-41c8-b151-f981addfca2b
+    :END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                        |
     |-----+------+-------+-------------+--------+------------+------+------------------------------------|
@@ -454,7 +452,10 @@
     # hold .94 intense factor for 10 minutes. Suggesting revise to
     # .92.
 
-*** Week 5
+*** Climb Hill Week 5
+    :PROPERTIES:
+    :ID:       6def1182-db72-463f-b4d1-4c37b9fa8829
+    :END:
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
     |-----+------+-------+-------------+--------+------------+------+-------------|
     | 0   | I+s  | 5x6   | 7m          | -      | -          | -    | -           |
@@ -486,7 +487,10 @@
     # replace :: → with ;%.0f::
     # way better to manually tweak.
 
-*** Week 6
+*** Climb Hill Week 6
+    :PROPERTIES:
+    :ID:       3bc4d1b2-4161-44fa-befd-2593f472d9b8
+    :END:
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
     |-----+------+-------+-------------+--------+------------+------+-------------|
     | 0   | I+s  | 5x6   | 7m          | -      | -          | -    | -           |
@@ -513,7 +517,10 @@
     | 5   | INT  | 3x30m | 5m          | -      | 227        | -    | Rest:1m Mid |
     #+TBLFM: @3$6=.84*$currentFTP;%.0f::@5$6=.92*$currentFTP;%.0f::@7$6=1.04*$currentFTP;%.0f::@9$6=1.29*$currentFTP;%.0f
     #+TBLFM: @13$6=1.15*$currentFTP;%.0f::@14$6=1.04*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.04*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=1.04*$currentFTP;%.0f::@20$4=1.08*$currentFTP;%.0f::@21$4=1.14*$currentFTP;%.0f::@22$4=1.21*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
-*** Week 7
+*** Climb Hill Week 7
+    :PROPERTIES:
+    :ID:       46458bd8-a7b2-495d-926d-35e356c3d167
+    :END:
     | Day | Type | Set  | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
     |-----+------+------+-------------+--------+------------+------+-------------|
     | 0   | I+s  | 5x6  | 4m          | -      | -          | -    | -           |
@@ -539,8 +546,10 @@
     #+TBLFM: @13$6=1.15*$currentFTP;%.0f::@14$6=1.04*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.04*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=.99*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
 
 ** FTP Test
-*** Steps
-
+*** FTP Test Steps
+    :PROPERTIES:
+    :ID:       9b90ab94-7c96-4e85-9872-3e95a24a8c25
+    :END:
     | set         | time | Power |
     |-------------+------+-------|
     | 0 warm-up   | 10 m |   160 |
@@ -562,7 +571,10 @@
     #+TBLFM: @8$3=$oldFTP + 20;%.0f
     #+TBLFM: @10$3=$oldFTP * 1.1;%.0f
 
-** extremely-hard-extension
+** extremely-hard-extension week
+   :PROPERTIES:
+   :ID:       49c04b2a-5d0c-4c33-89d0-178fa3877437
+   :END:
 
     | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction    |
     |-----+------+-------+--------+------+--------+------------+------+----------------|

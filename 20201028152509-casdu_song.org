@@ -1,6 +1,6 @@
 #+TITLE: casdu-song
 #+CREATED:       [2020-10-28 Wed 15:25]
-#+LAST_MODIFIED: [2020-10-28 Wed 15:30]
+#+LAST_MODIFIED: [2020-11-19 Thu 18:42]
 
 * 奔跑
 速度七十迈
@@ -527,6 +527,11 @@ https://www.youtube.com/watch?v=OUNOKSAJVvQ
 長大間我們是否還會再唱起心願
 長大間我們是否還會再唱起心願
 #+end_quote
+* JJ
+** Drifter/
+   :PROPERTIES:
+   :ID:       d0cd3197-28be-429b-8503-810bccfb05b9
+   :END:
 * script
 # mkv 2 mp3
 ```

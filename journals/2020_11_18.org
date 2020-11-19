@@ -1,8 +1,6 @@
 #+TITLE: Nov 18th, 2020
 
-** Just test it with casdu-brain, it turns out to be okay writing without Emacs.
-**
-** Next question is how to let other people using this?
+** 如何让他人使用这个 ZK？
 **
 ** logseq 解决了可以解决必须依赖 Emacs 的问题
 *** 可以创建出一个相对隔离的环境

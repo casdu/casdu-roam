@@ -1,10 +1,18 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2020-11-18 Wed 21:45]
+#+LAST_MODIFIED: [2020-11-18 Wed 21:50]
 #+CONSTANTS: oldFTP=260
 #+CONSTANTS: currentFTP=260
 
 ** Base I
+*** Base I Week 1
+    :PROPERTIES:
+    :ID:       b168b116-0b5e-436e-ba5c-78b8506e7eeb
+    :END:
+*** Base I Week 2
+    :PROPERTIES:
+    :ID:       71636d72-6eea-4316-ac99-2bc31ee059d0
+    :END:
 *** Base I Week 3
     :PROPERTIES:
     :ID:       81ef790c-6870-47f6-ab6b-ca221f51332b

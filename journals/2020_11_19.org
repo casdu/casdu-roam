@@ -10,4 +10,4 @@ So, if this place disappeared tomorrow, it wouldn't be a huge loss. Hardly anyon
 When I do find something truly interesting or worth preserving, I archive it locally, and sometimes publish it somewhere more permanent, like EmacsWiki, or a Git repo that can easily be mirrored (e.g. that's why I curate information on https://github.com/alphapapa/org-almanac and https://github.com/alphapapa/emacs-package-dev-handbook).
 
 For everything else, don't worry about it. The knowledge exists in the people, and the people will congregate.
-***** #+END_QUOTE
+*****

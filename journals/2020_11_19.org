@@ -1,7 +1,7 @@
 #+TITLE: Nov 19th, 2020
 
-如果我们的网站消失，我们能做什么呢？
 *** 这是 `github-alphapapa` 在 r/emacs 上的回复：
+
 #+BEGIN_QUOTE
 If r/emacs and r/orgmode demonstrate anything, it's that a living community shares information "orally." For most of the questions asked here, the answers are already written, but most people would rather put a message in a bottle and hope the answer comes back than dig into a manual or a web search. Besides, people enjoy sharing knowledge with each other, because that makes them feel like part of a community.
 
@@ -9,7 +9,8 @@ So, if this place disappeared tomorrow, it wouldn't be a huge loss. Hardly anyon
 
 When I do find something truly interesting or worth preserving, I archive it locally, and sometimes publish it somewhere more permanent, like EmacsWiki, or a Git repo that can easily be mirrored (e.g. that's why I curate information on https://github.com/alphapapa/org-almanac and https://github.com/alphapapa/emacs-package-dev-handbook).
 
-For everything else, don't worry about it. The knowledge exists in t
+For everything else, don't worry about it. The knowledge exists in the people, and the people will congregate.
+#+END_QUOTE
 *** 论坛也存在同样的问题，所以不如就把那些值得留存的文字，顺手备份在这里。因为这个仓库是在 GitHub 上同步的，镜像这个仓库也只是顺手的事情。
 ** 类 Roam 的软件，我觉得最适合个人，可能适合几个人，但是真的很难想象很多人一起使用，各种各样的编辑冲突。
 , and the people will congregate.

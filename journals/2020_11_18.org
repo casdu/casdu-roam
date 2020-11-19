@@ -9,3 +9,5 @@
 ** org-transclusion 可以将任何想法，完美并入到个人 ZK 中
 **
 ** [[中文文件名 logseq 测试]]
+**
+** [[file:../pages/中文文件名_logseq_测试.org][中文文件名 logseq 测试]]

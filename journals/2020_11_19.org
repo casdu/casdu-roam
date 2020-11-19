@@ -1,6 +1,6 @@
 #+TITLE: Nov 19th, 2020
 
-** 如果我们的网站消失，我们能做什么呢？
+如果我们的网站消失，我们能做什么呢？
 *** 这是 `github-alphapapa` 在 r/emacs 上的回复：
 #+BEGIN_QUOTE
 If r/emacs and r/orgmode demonstrate anything, it's that a living community shares information "orally." For most of the questions asked here, the answers are already written, but most people would rather put a message in a bottle and hope the answer comes back than dig into a manual or a web search. Besides, people enjoy sharing knowledge with each other, because that makes them feel like part of a community.

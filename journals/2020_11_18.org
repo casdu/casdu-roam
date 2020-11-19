@@ -24,3 +24,5 @@
 *** 想看看在 org 文档中是如何处理的
 *** UUID 是 Org headline 的 UUID， 厉害了
 **
+** 把自己以前的训练用的计划也添加进来了 [[file:../20201118213422.org][sweet spot interval training]]
+*** 图表的显示出乎意料的好

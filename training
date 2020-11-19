@@ -1,0 +1,585 @@
+#+CONSTANTS: oldFTP=260
+#+CONSTANTS: currentFTP=260
+
+
+** Base I
+*** Week 3
+    | Day | Set    | Target_Low | Target_high | Rest | Instruction |
+    |-----+--------+------------+-------------+------+-------------|
+    | 0   | 3x20m  |        232 |         248 | 7m   | -           |
+    | 1   | 4x15m  |          - |           - | 2m   | -           |
+    | s1  | -      |        200 |         227 | -    | -           |
+    | s2  | -      |        200 |         227 | -    | -           |
+    | s3  | -      |        211 |         238 | -    | -           |
+    | s4  | -      |        211 |         238 | -    | -           |
+    | 2   | 3x20m  |        232 |         248 | 7m   | -           |
+    | 3   | REC    |          - |           - | -    | 60m         |
+    | 4   | 5x15m  |        232 |         248 | 7m   | -           |
+    | 5   | 4 sets |          - |           - | 7m   | -           |
+    | s1  | 9m     |        232 |           - | 2m   | -           |
+    | s2  | 9m     |        232 |           - | 2m   | -           |
+    #+TBLFM: @2$3=$currentFTP * 0.87;%.0f
+    #+TBLFM: @2$4=$currentFTP * 0.93;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.75;%.0f
+    #+TBLFM: @4$4=$currentFTP * 0.85;%.0f
+    #+TBLFM: @5$3=$currentFTP * 0.75;%.0f
+    #+TBLFM: @5$4=$currentFTP * 0.85;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.79;%.0f
+    #+TBLFM: @6$4=$currentFTP * 0.89;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.79;%.0f
+    #+TBLFM: @7$4=$currentFTP * 0.89;%.0f
+    #+TBLFM: @8$3=$currentFTP * 0.87;%.0f
+    #+TBLFM: @8$4=$currentFTP * 0.93;%.0f
+    #+TBLFM: @10$3=$currentFTP * 0.87;%.0f
+    #+TBLFM: @10$4=$currentFTP * 0.93;%.0f
+    #+TBLFM: @12$3=$currentFTP * 0.87;%.0f
+    #+TBLFM: @13$3=$currentFTP * 0.87;%.0f
+*** Week 4
+    | Day | Set   | Target | Rest | Instruction          |
+    |-----+-------+--------+------+----------------------|
+    | 0   | 3x20m |      - | -    | -                    |
+    | s1  | -     |    238 | 5m   | -                    |
+    | s2  | -     |    248 | 5m   | -                    |
+    | s3  | -     |    243 | 5m   | -                    |
+    | 1   | 6x10m |      - | 3m   | rest after s1 and s2 |
+    | s1  | -     |    219 | -    | -                    |
+    | s2  | -     |    230 | -    | -                    |
+    | s3  | -     |    211 | -    | -                    |
+    | s4  | -     |    219 | -    | -                    |
+    | s5  | -     |    230 | -    | -                    |
+    | s6  | -     |    211 | -    | -                    |
+    | 2   | 3x20m |        | 5m   | -                    |
+    | s1  | -     |    238 | -    | -                    |
+    | s2  | -     |    248 | -    | -                    |
+    | s3  | -     |    243 | -    | -                    |
+    | 3   | REC   |      - | -    | 60m                  |
+    | 4   | -     |      - | 5m   | -                    |
+    | s1  | 2x15m |    238 | 1m   | -                    |
+    | s2  | 3x10m |    238 | 1m   | -                    |
+    | s3  | 3x10m |    238 | 1m   | -                    |
+    | 5   | 4x20m |    238 | 6m   | -                    |
+    #+TBLFM: @3$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.93;%.0f
+    #+TBLFM: @5$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.82;%.0f
+    #+TBLFM: @8$3=$currentFTP * 0.86;%.0f
+    #+TBLFM: @9$3=$currentFTP * 0.79;%.0f
+    #+TBLFM: @10$3=$currentFTP * 0.82;%.0f
+    #+TBLFM: @11$3=$currentFTP * 0.86;%.0f
+    #+TBLFM: @12$3=$currentFTP * 0.79;%.0f
+    #+TBLFM: @14$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @15$3=$currentFTP * 0.93;%.0f
+    #+TBLFM: @16$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @19$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @20$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @21$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @22$3=$currentFTP * 0.89;%.0f
+
+*** Week 5
+
+    Rest week.
+
+** Base II
+
+*** Week 0
+    | Day | Set   | Target | Rest | Instruction    |
+    |-----+-------+--------+------+----------------|
+    |   0 | FTP   |      - | -    | -              |
+    |   1 | 3x20m |    229 | 5m   | rest 1m in sub |
+    |   2 | 3x20m |    237 | 12m  | rest 1m in sub |
+    |   3 | REC   |      - | -    | 60m            |
+    |   4 | 5x15m |    239 | 7m   | -              |
+    |   5 | 7x10m |    242 | 7m   | -              |
+    #+TBLFM: @3$3=$currentFTP * 0.88;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.93;%.0f
+
+*** Week 1
+    | Day | Set   | Target | Rest | Instruction    |
+    |-----+-------+--------+------+----------------|
+    |   0 | 6x10m |    239 | 5m   | -              |
+    |   1 | 5x12m |    239 | 4m   | -              |
+    |   2 | 3x20m |    237 | 12m  | -              |
+    |   3 | REC   |      - | -    | 60m            |
+    |   4 | 4x20m |    237 | 5m   | -              |
+    |   5 | 3x20m |    237 | 12m  | rest 1m in sub |
+    #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
+
+*** Week 2
+    | Day | Set   | Target | Rest | Instruction    |
+    |-----+-------+--------+------+----------------|
+    |   0 | 3x20m |    246 | 12m  | rest 1m in sub |
+    |   1 | 3x20m |    246 | 4m   | -              |
+    |   2 | 7x10m |    246 | 5m   | -              |
+    |   3 | REC   |      - | -    | 60m            |
+    |   4 | 4x20m |    240 | 6m   | -              |
+    |   5 | 3x30m |    227 | 5m   | rest 1m in sub |
+    #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.90;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.85;%.0f
+
+*** Week 3
+    | Day | Set       | Target | Rest | Instruction |
+    |-----+-----------+--------+------+-------------|
+    |   0 | 5x15m     |    243 | 7m   | -           |
+    |   1 | 4x15m     |    246 | 6m   | -           |
+    |   2 | 4x(2x9)m  |    238 | 7m   | r2m         |
+    |   3 | REC       |      - | -    | 60m         |
+    |   4 | 3x(3x10)m |    240 | 5m   | r1m         |
+    |   5 | 7x10m     |    243 | 5m   | -           |
+    #+TBLFM: @2$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.89;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.90;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
+
+*** Week 4
+    | Day | Set       | Target | Rest | Instruction |
+    |-----+-----------+--------+------+-------------|
+    |   0 | 4x20m     |    237 | 6m   | -           |
+    |   1 | 3x20m     |    240 | 5m   | -           |
+    |   2 | 3x(3x10)m |    234 | 5m   | 1m          |
+    |   3 | REC       |      - | -    | 90m         |
+    |   4 | 6x15m     |    237 | 3m   | -           |
+    |   5 | 4x(2x9)m  |    243 | 7m   | 2m          |
+    #+TBLFM: @2$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @3$3=$currentFTP * 0.925;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.90;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
+
+** General Build
+*** Week 0
+
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                  |
+    |-----+------+-------+-------------+--------+------------+------+------------------------------|
+    | 0   | FTP  | -     |             | -      | -          | -    | -                            |
+    | 1   | UDF  | -     | -           | -      | -          | -    | 90m                          |
+    | 2   | INT  | 7x5m  | 292         | -      | -          | 5m   | constant                     |
+    | 3   | UDF  | -     | -           | -      | -          | -    | 75m                          |
+    | 4   | INT  | 6x9m  | @R6         | 3x3m   | -          | 6m   | 1 (easy)+ 1 (full) +1 (easy) |
+    | -   | -    | -     | -           | -      | 256        | -    | see problem to solve         |
+    | -   | -    | -     | -           | -      | 267        | -    | -                            |
+    | -   | -    | -     | -           | -      | 270        | -    | -                            |
+    | 5   | INT  | 3x20m | -           | -      | -          | 15m  | inbetween set diff           |
+    | -   | -    | -     | 238         | -      | -          | -    | -                            |
+    | -   | -    | -     | 248         | -      | -          | -    | -                            |
+    | -   | -    | -     | 240         | -      | -          | -    | -                            |
+    #+TBLFM: @4$4=$currentFTP * 1.08;%.0f
+    #+TBLFM: @11$4=$currentFTP * 0.88;%.0f
+    #+TBLFM: @12$4=$currentFTP * 0.92;%.0f
+    #+TBLFM: @13$4=$currentFTP * 0.89;%.0f
+    #+TBLFM: @7$6=$currentFTP * 0.95;%.0f
+    #+TBLFM: @8$6=$currentFTP * (1.1 -0.95) / 4 + $currentFTP * 0.95;%.0f
+    #+TBLFM: @9$6=$currentFTP * (1.1 -0.95) / 3 + $currentFTP * 0.95;%.0f
+
+*** Week 1
+
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction        |
+    |-----+------+-------+-------------+--------+------------+------+--------------------|
+    | 0   | INT  | 3     | -           | -      |          - | -    | -                  |
+    | -   | -    | -     | 6m          | 4x2m   |          - | 3m   | 2nd 3 sub set      |
+    | -   | -    | -     | -           | ->45s  |        252 | -    | -                  |
+    | -   | -    | -     | -           | ->25s  |         -3 | -    | decrease           |
+    | -   | -    | -     | -           | -      |        310 | -    | -                  |
+    | 1   | UDF  | -     | -           | -      |          - | -    | 90m                |
+    | 2   | INT  | 8x5m  | -           | 288    |          - | 5m   | constant           |
+    | 3   | UDF  | -     | -           | -      |          - | -    | 60m                |
+    | 4   | INT  | 7x8m  | 5.5m        | 2x4m   |          - | -    | -                  |
+    | -   | -    | -     | -           | -      |        200 | -    | -                  |
+    | -   | -    | -     | -           | -      |        205 | -    | -                  |
+    | -   | -    | -     | -           | -      |        267 | -    | -                  |
+    | -   | -    | -     | -           | -      |        267 | -    | -                  |
+    | 5   | INT  | 3x30m | 5m          | -      |          - | 15m  | inbetween set diff |
+    | -   | -    | -     | -           | 2x15m  |        227 | 1m   | constant           |
+    #+TBLFM: @4$6=$currentFTP * 1.2;%.0f
+    #+TBLFM: @8$5=$currentFTP * 1.08;%.0f
+    #+TBLFM: @11$6=$currentFTP * 0.95;%.0f
+    #+TBLFM: @6$6=$currentFTP*1.169;%.0f
+    #+TBLFM: @11$6=$currentFTP * .95;%.0f
+    #+TBLFM: @12$6=$currentFTP * .975;%.0f
+    #+TBLFM: @13$6=$currentFTP * 1.00;%.0f
+    #+TBLFM: @14$6=$currentFTP * 1.00;%.0f
+    #+TBLFM: @16$6=$currentFTP * .85;%.0f
+
+*** Week 2
+
+    | Day | Type | Set   | Target | Rest | SubSet      | SubSet Ins | Rest | Instruction |
+    |-----+------+-------+--------+------+-------------+------------+------+-------------|
+    |   0 | INT  | 3     | -      | 5m   | 3x2.5m      | 252        | 4m   | Constant    |
+    |   1 | UDF  | -     | -      | -    | -           | -          | -    | 90m         |
+    |   2 | INT  | 6x7m  | 223    | 7m   | -           | -          | -    | -           |
+    |   3 | UDF  | -     | -      | -    | -           | -          | -    | 60m         |
+    |   4 | INT  | 3     | -      | 10m  | 5x(1+1+1+1) | -          | -    | -           |
+    |   - | -    | -     | -      | -    | -           | 200        | -    | -           |
+    |   - | -    | -     | -      | -    | -           | 205        | -    | -           |
+    |   - | -    | -     | -      | -    | -           | -          | -    | -           |
+    |   - | -    | -     | -      | -    | -           | 267        | -    | -           |
+    |   5 | INT  | 4x18m | 243    | 7m   | 3x6m        | -          | 1m   | -           |
+    #+TBLFM: @2$7=$currentFTP * 1.2;%.0f
+    #+TBLFM: @4$4=$currentFTP * 1.06;%.0f
+    #+TBLFM: @7$7=$currentFTP * .95;%.0f
+    #+TBLFM: @8$7=$currentFTP * .975;%.0f
+    #+TBLFM: @9$7=$currentFTP * 1.00;%.0f
+    #+TBLFM: @10$7=$currentFTP * 1.00;%.0f
+    #+TBLFM: @11$4=$currentFTP * .91;%.0f
+
+**** instantaneous power converted to average power
+
+       A    B
+
+     1.20
+     -----
+          \
+           \
+            \
+             \
+	      1.10
+
+     A 45s
+     B 75s
+
+     |   x | ratio to FTP | Power |
+     |-----+--------------+-------|
+     |  45 |        1.200 |   320 |
+     |  70 |        1.194 |   319 |
+     |  95 |        1.182 |   316 |
+     | 120 |        1.169 |   312 |
+     #+TBLFM: $2= (-$1^2 + 1890 $1 - 2025)/(1500 $1);%.3f
+     #+TBLFM: $3= $2 * $currentFTP;%.0f
+
+
+      A  B  C   D
+
+           1.05
+           ____
+          /    \
+         /      \
+     ---/        \
+     .95
+
+     A,B,C,D: 60s
+
+     B:
+
+     |   x | ratio to FTP | Power |
+     |-----+--------------+-------|
+     |  60 |        0.950 |   254 |
+     |  80 |        0.954 |   255 |
+     | 100 |        0.963 |   257 |
+     | 120 |        0.975 |   260 |
+     #+TBLFM: $2= ($1^2 + 1020 $1 + 3600)/(1200 $1) ;%.3f
+     #+TBLFM: $3= $2 * $currentFTP;%.0f
+
+     C:
+
+     |   x | ratio to FTP | Power |
+     |-----+--------------+-------|
+     | 120 |        0.975 |   260 |
+     | 180 |        1.000 |   267 |
+     #+TBLFM: $2=(1.05 $1 - 9)/$1;%.3f
+     #+TBLFM: $3= $2 * $currentFTP;%.0f
+
+     D:
+
+     |   x | ratio to FTP | Power |
+     |-----+--------------+-------|
+     | 180 |        1.000 |   210 |
+     | 240 |        1.000 |   210 |
+     #+TBLFM: $3= $2 * $currentFTP;%.0f
+
+*** Week 3
+
+    Rest week. No intense workout.
+
+*** Week 4
+
+    | Day | Type | Set   | Target | Rest | SubSet  | SubSet Ins | Rest | Instruction   |
+    |-----+------+-------+--------+------+---------+------------+------+---------------|
+    |   0 | FTP  | -     | -      | -    | -       | -          | -    | -             |
+    |   1 | UDF  | -     | -      | -    | -       | -          | -    | 90m           |
+    |   2 | INT  | 4x9m  | 220    | 7m   | -       | -          | -    | -             |
+    |   3 | UDF  | -     | -      | -    | -       | -          | -    | 90m           |
+    |   4 | INT  | 6x10m | 264    | 5m   | -       | -          | -    | try your best |
+    |   5 | INT  | 3x30m | 227    | 5m   | 15+1+15 | -          | 1m   | -             |
+    #+TBLFM: @4$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @6$4=$currentFTP * 0.99;%.0f
+    #+TBLFM: @7$4=$currentFTP * 0.85;%.0f
+
+*** Week 5
+
+    | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction |
+    |-----+------+-------+--------+------+--------+------------+------+-------------|
+    |   0 | INT  | 3     | -      | 8m   | 3x3m   | 248        | 5m   | VO2MAX      |
+    |   - | -    | -     | -      | -    | -      | 307        | -    | -           |
+    |   - | -    | -     | -      | -    | -      | 299        | -    | -           |
+    |   1 | UDF  | -     | -      | -    | -      | -          | -    | 90m         |
+    |   2 | INT  | 5x8m  | 280    | 8m   | -      | -          | -    | Constant    |
+    |   3 | UDF  | -     | -      | -    | -      | -          | -    | 60m         |
+    |   4 | INT  | 5x12m | 264    | 5m   | -      | -          | -    | Constant    |
+    |   5 | INT  | 4x18m | 246    | 7m   | 3x6m   | -          | 2m   | Constant    |
+    #+TBLFM: @2$7=$currentFTP * 1.18;%.0f
+    #+TBLFM: @3$7=$currentFTP * 1.15;%.0f
+    #+TBLFM: @4$7=$currentFTP * 1.12;%.0f
+    #+TBLFM: @6$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @8$4=$currentFTP * .99;%.0f
+    #+TBLFM: @9$4=$currentFTP * .92;%.0f
+
+*** Week 6
+
+    | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction |
+    |-----+------+-------+--------+------+--------+------------+------+-------------|
+    |   0 | INT  | 2     | -      | 4m   | 3x2m   | 262        | 2m   | VO2MAX      |
+    |   1 | UDF  | -     | -      | -    | -      | -          | -    | 90m         |
+    |   2 | INT  | 4x10m | 220    | 8m   | -      | -          | -    | Constant    |
+    |   3 | UDF  | -     | -      | -    | -      | -          | -    | 60m         |
+    |   4 | INT  | 4x15m | 208    | 10m  | -      | -          | -    | Constant    |
+    |   5 | INT  | 4x20m | 200    | 5m   | -      | -          | -    | Constant    |
+    #+TBLFM: @2$7=$currentFTP * 1.25;%.0f
+    #+TBLFM: @4$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @6$4=$currentFTP * .99;%.0f
+    #+TBLFM: @7$4=$currentFTP * .95;%.0f
+
+*** Week 7
+
+    Recover week. No intense training. Just do easy ridings.
+
+** Climb Hill
+*** Week 0
+
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
+    |-----+------+-------+-------------+--------+------------+------+-----------------------------------------|
+    |   0 | FTP  | -     | -           | -      | -          | -    | -                                       |
+    |   1 | UDF  | -     | -           | -      | -          | -    | 90m                                     |
+    |   2 | INT  | 10x3m | 280         | -      | -          | 3m   | constant                                |
+    |   3 | UDF  | -     | -           | -      | -          | -    | 75m                                     |
+    |   4 | I+S  | 5x9m  | 240         | -      | -          | 4m   | 3 all-out-effort springs at BEG and END |
+    |   5 | INT  | 5x15m | 246         | -      | -          | 7m   | -                                       |
+    #+TBLFM: @4$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @6$4=$currentFTP * 0.9;%.0f
+    #+TBLFM: @7$4=$currentFTP * 0.92;%.0f
+
+*** Week 1
+
+    | Day | Type  |   Set | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
+    |-----+-------+-------+-------------+--------+------------+------+-----------------------------------------|
+    |   0 | I+s   |     4 |          4m | -      | -          | -    | -                                       |
+    |   - | sub1  |  2:30 |         240 | 30s    | 360        | 1m   | -                                       |
+    |   - | sub2  |  2:00 |         267 | 60s    | 331        | 1m   | -                                       |
+    |   - | sub3  |  1:15 |         280 | 15s    | 347        | -    | -                                       |
+    |   - | sub3+ |  1:15 |         294 | 15s    | 374        | -    | -                                       |
+    |   - | warm  |   320 |         334 | 347    | 374        |      | 30s rest; 1 and 2 30s; 3 and 4 15s load |
+    |   1 | UDF   |     - |           - | -      | -          | -    | 60m                                     |
+    |   2 | INT   |  8x4m |         286 | -      | -          | 4m   | constant                                |
+    |   3 | UDF   |     - |           - | -      | -          | -    | 60m                                     |
+    |   4 | I+S   |  5x9m |         240 | -      | -          | 4m   | 3 all-out-effort springs at BEG and END |
+    |   5 | INT   | 7x10m |         248 | -      | -          | 5m   | -                                       |
+    #+TBLFM: @3$4=$currentFTP * .9;%.0f
+    #+TBLFM: @3$6=$currentFTP * 1.35;%.0f
+    #+TBLFM: @4$4=$currentFTP * 1.0;%.0f
+    #+TBLFM: @5$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @3$4=$currentFTP * 1.25;%.0f
+    #+TBLFM: @5$6=$currentFTP * 1.3;%.0f
+    #+TBLFM: @6$4=$currentFTP * 1.1;%.0f
+    #+TBLFM: @6$6=$currentFTP * 1.4;%.0f
+    #+TBLFM: @7$4=$currentFTP * 0.92;%.0f
+    #+TBLFM: @7$3=$currentFTP * 1.2;%.0f
+    #+TBLFM: @7$4=$currentFTP * 1.25;%.0f
+    #+TBLFM: @7$5=$currentFTP * 1.3;%.0f
+    #+TBLFM: @7$6=$currentFTP * 1.4;%.0f
+    #+TBLFM: @9$4=$currentFTP * 1.07;%.0f
+    #+TBLFM: @11$4=$currentFTP * .9;%.0f
+    #+TBLFM: @12$4=$currentFTP * .93;%.0f
+
+*** Week 2
+
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                             |
+    |-----+------+-------+-------------+--------+------------+------+-----------------------------------------|
+    |   0 | I+s  | 11    | 4m          | -      | -          | -    | -                                       |
+    |   - | -    | 1:00  | 334         | 2:00   | 280        | 2m   | -                                       |
+    |   1 | UDF  | -     | -           | -      | -          | -    | 60m                                     |
+    |   2 | INT  | 7x5m  | 291         | -      | -          | 5m   | constant                                |
+    |   3 | UDF  | -     | -           | -      | -          | -    | 60m                                     |
+    |   4 | I+S  | 7x10m | 246         | -      | -          | 4m   | 3 all-out-effort springs at 1~3 and 4~7 |
+    |   5 | INT  | 4x18m | -           | -      | -          | 7m   | -                                       |
+    |   - | -    |       | 240         | 3x6m   | -          | 1m   | -                                       |
+    #+TBLFM: @3$4=$currentFTP * 1.25;%.0f
+    #+TBLFM: @3$6=$currentFTP * 1.05;%.0f
+    #+TBLFM: @5$4=$currentFTP * 1.09;%.0f
+    #+TBLFM: @7$4=$currentFTP * .92;%.0f
+    #+TBLFM: @9$4=$currentFTP * .90;%.0f
+
+*** Week 3
+
+    Rest week;
+    Day 2 do 2 all-out-effort-20-second spring;
+    Day 4 do 3 all-out-effort-20-second spring;
+
+*** Week 4
+
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction                        |
+    |-----+------+-------+-------------+--------+------------+------+------------------------------------|
+    |   0 | I+s  | 5x10m | 251         | -      |          - | 3m   | 4x8 seconds spring @2m in each set |
+    |   1 | UDF  | -     | -           | -      |          - | -    | 90m                                |
+    |   2 | INT  | 5x9m  | 254         | 1m     |        312 | 5m   | Do Subset two times with main set  |
+    |   3 | UDF  | -     | -           | -      |          - | -    | 60m                                |
+    |   4 | I    | -     | 5m          | -      |          - | -    | See SubSet                         |
+    |   - | I    | -     | -           | 2x7m   |        272 | 5m   | -                                  |
+    |   - | I    | -     | -           | 3x5m   |        280 | 4m   | -                                  |
+    |   - | I    | -     | -           | 3x3m   |        288 | 3m   | -                                  |
+    |   - | I    | -     | -           | 3x2m   |        299 | 2m   | -                                  |
+    |   - | I    | -     | -           | 3x1m   |        307 | 1m   | -                                  |
+    |   5 | INT  | 3x20m | 12m         | 2x10m  |        246 | 1m   | Constant                           |
+    #+TBLFM: @2$4=$currentFTP*.94;%.0f
+    #+TBLFM: @4$4=$currentFTP.95;%.0f
+    #+TBLFM: @4$6=$currentFTP*1.17;%.0f
+    #+TBLFM: @7$6=$currentFTP * 1.02;%.0f
+    #+TBLFM: @8$6=$currentFTP * 1.05;%.0f
+    #+TBLFM: @9$6=$currentFTP * 1.08;%.0f
+    #+TBLFM: @10$6=$currentFTP * 1.12;%.0f
+    #+TBLFM: @11$6=$currentFTP * 1.15;%.0f
+    #+TBLFM: @12$6=$currentFTP * .92;%.0f
+
+    # Day 0: The real data on road is: .97 .92 .89 1.03 .85 for each
+    # set. Since the rest is short: 3 minutes, it is very push to
+    # hold .94 intense factor for 10 minutes. Suggesting revise to
+    # .92.
+
+*** Week 5
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
+    |-----+------+-------+-------------+--------+------------+------+-------------|
+    | 0   | I+s  | 5x6   | 7m          | -      | -          | -    | -           |
+    | -   | -    | -     | -           | 1m     | 227        | -    | -           |
+    | -   | -    | -     | -           | 1m     | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 1m     | 254        | -    | -           |
+    | -   | -    | -     | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 1m     | 280        | -    | -           |
+    | -   | -    | -     | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 30s    | 347        | -    | -           |
+    | -   | -    | -     | -           | 30s    | all-out    | -    | Ramp        |
+    | 1   | UDF  | -     | -           | -      | -          | -    | 90m         |
+    | 2   | INT  | 3x    | 5m          | -      | -          | -    | -           |
+    | -   | INT  | -     | -           | 2m     | 307        | 45s  | -           |
+    | -   | INT  | -     | -           | 3m     | 280        | 45s  | -           |
+    | -   | INT  | -     | -           | 4m     | 254        | 45s  | -           |
+    | -   | INT  | -     | -           | 3m     | 280        | 45s  | -           |
+    | -   | INT  | -     | -           | 2m     | 307        | 45s  | -           |
+    | 3   | UDF  | -     | -           | -      | -          | -    | 60m         |
+    | 4   | I    | 2x7m  | 280         | -      | -          | -    | Rest:3m     |
+    | -   | I    | 2x5m  | 280         | -      | -          | -    | Rest:3m     |
+    | -   | I    | 2x3m  | 288         | -      | -          | -    | Rest:3m     |
+    | -   | I    | 2x2m  | 323         | -      | -          | -    | Rest:3m     |
+    | 5   | INT  | 3x30m | 5m          | -      | 227        | -    | Rest:1m Mid |
+    #+TBLFM: @3$6=.85*$currentFTP;%.0f::@5$6=.95*$currentFTP;%.0f::@7$6=1.05*$currentFTP;%.0f::@9$6=1.3*$currentFTP;%.0f::@13$6=1.15*$currentFTP;%.0f::@14$6=1.05*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.05*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=1.05*$currentFTP;%.0f::@20$4=1.05*$currentFTP;%.0f::@21$4=1.08*$currentFTP;%.0f::@22$4=1.21*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
+
+    # p-n mean previous to next for the ramp data;
+    #
+    # replace :: → with ;%.0f::
+    # way better to manually tweak.
+
+*** Week 6
+    | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
+    |-----+------+-------+-------------+--------+------------+------+-------------|
+    | 0   | I+s  | 5x6   | 7m          | -      | -          | -    | -           |
+    | -   | -    | -     | -           | 1m     | 224        | -    | -           |
+    | -   | -    | -     | -           | 1m     | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 1m     | 251        | -    | -           |
+    | -   | -    | -     | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 1m     | 278        | -    | -           |
+    | -   | -    | -     | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -     | -           | 30s    | 344        | -    | -           |
+    | -   | -    | -     | -           | 30s    | all-out    | -    | Ramp        |
+    | 1   | UDF  | -     | -           | -      | -          | -    | 60m         |
+    | 2   | INT  | 3x    | 5m          | -      | -          | -    | -           |
+    | -   | INT  | -     | -           | 1m     | 307        | 30s  | -           |
+    | -   | INT  | -     | -           | 2m     | 278        | 30s  | -           |
+    | -   | INT  | -     | -           | 2m     | 254        | 30s  | -           |
+    | -   | INT  | -     | -           | 2m     | 278        | 30s  | -           |
+    | -   | INT  | -     | -           | 2m     | 307        | 30s  | -           |
+    | 3   | UDF  | -     | -           | -      | -          | -    | 60m         |
+    | 4   | I    | 2x7m  | 278         | -      | -          | -    | Rest:4m     |
+    | -   | I    | 2x5m  | 288         | -      | -          | -    | Rest:4m     |
+    | -   | I    | 2x3m  | 304         | -      | -          | -    | Rest:4m     |
+    | -   | I    | 2x2m  | 323         | -      | -          | -    | Rest:4m     |
+    | 5   | INT  | 3x30m | 5m          | -      | 227        | -    | Rest:1m Mid |
+    #+TBLFM: @3$6=.84*$currentFTP;%.0f::@5$6=.92*$currentFTP;%.0f::@7$6=1.04*$currentFTP;%.0f::@9$6=1.29*$currentFTP;%.0f
+    #+TBLFM: @13$6=1.15*$currentFTP;%.0f::@14$6=1.04*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.04*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=1.04*$currentFTP;%.0f::@20$4=1.08*$currentFTP;%.0f::@21$4=1.14*$currentFTP;%.0f::@22$4=1.21*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
+*** Week 7
+    | Day | Type | Set  | Rest/Target | SubSet | SubSet Ins | Rest | Instruction |
+    |-----+------+------+-------------+--------+------------+------+-------------|
+    | 0   | I+s  | 5x6  | 4m          | -      | -          | -    | -           |
+    | -   | -    | -    | -           | 45s    | 224        | -    | -           |
+    | -   | -    | -    | -           | 45s    | p-n        | -    | Ramp        |
+    | -   | -    | -    | -           | 45s    | 251        | -    | -           |
+    | -   | -    | -    | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -    | -           | 45s    | 278        | -    | -           |
+    | -   | -    | -    | -           | 30s    | p-n        | -    | Ramp        |
+    | -   | -    | -    | -           | 30s    | 344        | -    | -           |
+    | -   | -    | -    | -           | 30s    | all-out    | -    | Ramp        |
+    | 1   | UDF  | -    | -           | -      | -          | -    | 60m         |
+    | 2   | INT  | 2x   | 5m          | -      | -          | -    | -           |
+    | -   | INT  | -    | -           | 2m     | 307        | 30s  | -           |
+    | -   | INT  | -    | -           | 2m     | 278        | 30s  | -           |
+    | -   | INT  | -    | -           | 3m     | 254        | 30s  | -           |
+    | -   | INT  | -    | -           | 2m     | 278        | 30s  | -           |
+    | -   | INT  | -    | -           | 2m     | 307        | 30s  | -           |
+    | 3   | UDF  | -    | -           | -      | -          | -    | 60m         |
+    | 4   | I    | 2x3m | 264         | -      | -          | 3m   | -           |
+    | 5   | UDF  | -    | -           | -      | -          | -    | -           |
+    #+TBLFM: @3$6=.84*$currentFTP;%.0f::@5$6=.94*$currentFTP;%.0f::@7$6=1.04*$currentFTP;%.0f::@9$6=1.29*$currentFTP;%.0f
+    #+TBLFM: @13$6=1.15*$currentFTP;%.0f::@14$6=1.04*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.04*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=.99*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
+
+** FTP Test
+*** Steps
+
+    | set         | time | Power |
+    |-------------+------+-------|
+    | 0 warm-up   | 10 m |   160 |
+    | 1 wapr-up+  | 5 m  |     - |
+    | --> 1.1     | 1 m  |   267 |
+    | --> 1.2     | 1 m  |   130 |
+    | --> 1.3     | 1 m  |   275 |
+    | --> 1.4     | 1 m  |   130 |
+    | --> 1.5     | 1 m  |   287 |
+    | 2 rest      | 5 m  |     - |
+    | 3 de-       | 5 m  |   294 |
+    | 4 rest      | 5 m  |     - |
+    | 5 test      | 20 m |     - |
+    | 6 cool down | 5 m  |     - |
+    #+TBLFM: @2$3=$oldFTP * .6;%.0f
+    #+TBLFM: @4$3=$oldFTP;%.0f
+    #+TBLFM: @5$3=130;%.0f
+    #+TBLFM: @7$3=130;%.0f
+    #+TBLFM: @8$3=$oldFTP + 20;%.0f
+    #+TBLFM: @10$3=$oldFTP * 1.1;%.0f
+
+** extremely-hard-extension
+
+    | Day | Type | Set   | Target | Rest | SubSet | SubSet Ins | Rest | Instruction    |
+    |-----+------+-------+--------+------+--------+------------+------+----------------|
+    |   1 | INT  | 3     |      - | 5m   | 3x3m   | 334        | 3m   | VO2MAX         |
+    |   2 | INT  | 5x8m  |    280 | 8m   | -      | -          | -    | Suprathreshold |
+    |   3 | INT  | 4x10m |    254 | 8m   | -      | -          | -    | Sweet Spot     |
+    |   4 | INT  | 3     |      - | 5m   | 3x2m   | 334        | 2m   | VO2MAX         |
+    |   5 | INT  | 8x6m  |    280 | 6m   | -      | -          | -    | Suprathreshold |
+    |   6 | INT  | 4x20m |    248 | 10m  | -      | -          | -    | Sweet Spot     |
+    #+TBLFM: @2$7=$currentFTP * 1.25;%.0f
+    #+TBLFM: @3$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @4$4=$currentFTP * .95;%.0f
+    #+TBLFM: @5$7=$currentFTP * 1.25;%.0f
+    #+TBLFM: @6$4=$currentFTP * 1.05;%.0f
+    #+TBLFM: @7$4=$currentFTP * .93;%.0f
+
+    # This is my personal experiment I did in May 2019. Although I
+    # know my body has its limitation, I want to know how much can I
+    # push. In that real training week, I just cannot continue in
+    # Day 4. I think that the take away message from this experiment
+    # is just to stick with the plan. Rest is as important as the hard
+    # interval sections.

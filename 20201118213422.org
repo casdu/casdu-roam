@@ -1,6 +1,8 @@
+#+TITLE: sweet spot interval training
+#+CREATED:       [2020-11-18 Wed 21:34]
+#+LAST_MODIFIED: [2020-11-18 Wed 21:35]
 #+CONSTANTS: oldFTP=260
 #+CONSTANTS: currentFTP=260
-
 
 ** Base I
 *** Week 3

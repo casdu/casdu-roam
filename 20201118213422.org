@@ -10,9 +10,10 @@
     :ID:       b168b116-0b5e-436e-ba5c-78b8506e7eeb
     :END:
 *** Base I Week 2
-    :PROPERTIES:
-    :ID:       71636d72-6eea-4316-ac99-2bc31ee059d0
-    :END:
+:PROPERTIES:
+:id: 71636d72-6eea-4316-ac99-2bc31ee059d0
+:END:
+**** 需要补充数据
 *** Base I Week 3
     :PROPERTIES:
     :ID:       81ef790c-6870-47f6-ab6b-ca221f51332b

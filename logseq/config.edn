@@ -10,6 +10,8 @@
            ;; description supports both hiccup and html
            :description ""}
 
+ :org-mode/insert-file-link? true 
+   
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd

@@ -2,7 +2,7 @@
 #+CREATED:       [2020-10-30 Fri 11:59]
 #+LAST_MODIFIED: [2020-10-30 Fri 11:59]
 
-** Genral Build Add-on
+** With
 *** W0D1
 **** Squat
 | set |  load kg  | load lb       | num |

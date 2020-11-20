@@ -8,7 +8,7 @@
 ** 多用/Multi-Tools
 ** 清洗/Cleaning
 ** 润滑/Lubricants and Compounds
-** 轮组/Wheel set
+** [[file:./20201110145654-wheel_set.org][轮组/Wheel set]]
 ** 脚踏/Pedal
 ** 刹车/Brakes
 ** 五通/Bottom Bracket

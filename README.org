@@ -1,4 +1,4 @@
-* 想法记录
+* 想法记录 README.org
 
 - 使用  [[https://logseq.com/][logseq]] 作为编辑界面
 - 可配合 [[https://github.com/org-roam/org-roam][Org-roam]]

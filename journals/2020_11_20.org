@@ -5,4 +5,4 @@
 ** 与其说是[[整理论坛]]，不如说是把现在的想法和过去的想法相结合。
 ** 昨天看到爆炸的分析视频中的[[https://github.com/forensic-architecture/models/tree/master/65][3D模型]]，非常精致。
 ** [[file:../pages/team_zk.org][TEAM ZK]]
-**
+** [[file:../pages/个人zk与集体zk交互细节.org][个人ZK与集体ZK交互细节]]

@@ -1,3 +1,4 @@
 #+TITLE: 个人ZK与集体ZK交互细节
 
-** 
+** 都归入 Git 版本控制
+** 在个人 ZK 中以 submodule 加入

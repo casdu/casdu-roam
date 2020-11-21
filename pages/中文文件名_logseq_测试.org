@@ -1,7 +1,5 @@
 #+TITLE: 中文文件名 logseq 测试
 
-** 测试
-** 测试
 ** 自动 push 功能
 **
 ** [[file:../20200729125009-post_a_thread.org][post a thread]]

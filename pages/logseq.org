@@ -3,5 +3,4 @@
 ** search panel is good
 *** pages,files, then searching all the content
 ** Issue
-*** After input [[| , if there's no page
-*** [[this is at]]
+*** After input [[| , if there's no page generated, it will create a a link: `[[A non-exist file]]`. The Org-mode user would expect the result is `[[FILE-PATH][A non-exist file]]`

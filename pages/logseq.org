@@ -7,3 +7,5 @@
 *** All the notes within the scope of TEAM ZK are not automatica pick up by org-roam. However, manual visiting a file and save a file can triggle the index process within Org-roam.
 ** My tasks
 *** I will test logseq locally, i.e. build logseq and run the server to see how's going
+*** tesing file name change
+**** will it update all the links pointing to the old file? This is more Org-roam related issue

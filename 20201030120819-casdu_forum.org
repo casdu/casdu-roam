@@ -2,8 +2,7 @@
 #+CREATED:       [2020-10-30 Fri 12:08]
 #+LAST_MODIFIED: [2020-10-30 Fri 12:08]
 
-Some softward list:
-
+Some softward lists:
 * discourse
 ** https://discourse.vtk.org/
 ** https://discourse.paraview.org/

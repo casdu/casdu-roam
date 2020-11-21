@@ -1,6 +1,6 @@
 #+TITLE: ZK
 
-** [[]
+** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
 *** https://www.reddit.com/r/Zettelkasten/
 *** https://forum.zettelkasten.de/categories/knowledge-work

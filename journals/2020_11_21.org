@@ -2,4 +2,4 @@
 
 ** There is a javascript library for interacting with OpenStreetMap 
 https://github.com/gagan-bansal/osm-for-my-country
-*** It is useful for creating
+*** It is useful for creating [[file:../pages/map.org][map]] for more advance useage

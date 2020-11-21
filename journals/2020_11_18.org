@@ -4,7 +4,7 @@
 ** logseq 解决了必须依赖 Emacs 的问题
 *** 又可以创建出一个相对隔离的环境
 *** 同时又保留了个人 ZK 的交互问题
-**** 在本地计算机上，如果将集体 ZK 以 submodule 的方式纳入个人 ZK， 就可在完成自己的 ZK 与集体 ZK 的融合
+**** 在本地计算机上，如果将集体 ZK 以 submodule 的方式纳入个人 ZK， 就可在完成自己的 ZK 与集体 ZK 的融合 [[file:../pages/team_zk.org][TEAM ZK]]
 **** org-transclusion 可以将任何想法，完美并入到个人 ZK 中
 ** 文件名测试
 *** 这个链接是不可行的。 [[中文文件名 logseq 测试]]

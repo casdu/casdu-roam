@@ -1,6 +1,7 @@
 #+TITLE: 如何让他人使用这个 ZK
 
 ** 1. 学会 GitHub 的使用
+*** I will try to create another GH account and test it myself
 ** 2. [[logseq]] 本身的操作
 **
 ** 可能存在的问题

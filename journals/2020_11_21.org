@@ -3,4 +3,4 @@
 ** There is a javascript library for interacting with OpenStreetMap 
 https://github.com/gagan-bansal/osm-for-my-country
 *** It is useful for creating [[file:../pages/map.org][map]] for more advance useage
-** 今天是 ((71636d72-6eea-4316-ac99-2bc31ee059d0)) Day 4，完成了 2/3。 ((5fb997a1-a77f-4c3a-bfc3-4ffeaa5d87b6)) 单曲循环了。可能是音乐的原因，今天的训练非常棒。可能是 JJ
+** 今天是 ((71636d72-6eea-4316-ac99-2bc31ee059d0)) Day 4，完成了 2/3。 ((5fb997a1-a77f-4c3a-bfc3-4ffeaa5d87b6)) 单曲循环了。可能是音乐的原因，今天的训练非常棒。可能是 JJ 原唱循环了太多，纯钢琴演奏带来的那种沉浸感，让前段时间训练中的那种厌倦一扫而光了。这才是训练的感觉。

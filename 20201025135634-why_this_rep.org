@@ -7,3 +7,4 @@ little. Too many times, we stop deeper conversation just because I do
 not want to directly say something about your arguments lack some
 consideration on something. At that point, I stop thinking. As a
 result, I stop doing.
+** 这个 casdu-brain 属于每一个愿意参与其中的 casduer。 目前这个仓库托管在 GitHub， 但意味着其依赖 GitHub。 任何人只要鼠标一点，就可以把这个仓库的所有内容下载到本地电脑中。而用来呈现这个仓库中内容的软件也不仅仅依赖于 logseq, 存在了快 40 年的 Emacs （GPL）让这个仓库中的数据可以一直传承下去。

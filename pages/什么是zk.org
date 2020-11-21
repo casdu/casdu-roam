@@ -1,6 +1,6 @@
 #+TITLE: 什么是ZK
 
-** Ref1
+** [[https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/][Ref1]]
 *** 存储扩展个人的知识回忆，并产生新的想法
 *** 单个笔记对应唯一标识符号
 *** 一个笔记或者说是页面对应一个想法

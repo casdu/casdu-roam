@@ -1,3 +1,5 @@
 #+TITLE: Nov 21st, 2020
 
-** 
+** There is a javascript library for interacting with OpenStreetMap 
+https://github.com/gagan-bansal/osm-for-my-country
+*** It is useful for creating

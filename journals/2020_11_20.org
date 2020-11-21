@@ -5,4 +5,3 @@
 ** 与其说是[[整理论坛]]，不如说是把现在的想法和过去的想法相结合。
 ** 昨天看到爆炸的分析视频中的[[https://github.com/forensic-architecture/models/tree/master/65][3D模型]]，非常精致。
 ** [[TEAM ZK]]
-   https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/

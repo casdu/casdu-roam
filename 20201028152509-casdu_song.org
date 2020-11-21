@@ -534,7 +534,7 @@ https://www.youtube.com/watch?v=OUNOKSAJVvQ
 :END:
 *** bilibili url: https://www.bilibili.com/video/BV1DV411y7w6?from=search&seid=16848695289902743289
 * script
-# mkv 2 mp3
+ # mkv 2 mp3
 ```
 find . -type f -name "*.mkv" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -c:a libmp3lame -y "outputs/${FILE%.mkv}.mp3";' _ '{}' \;
 ```
@@ -552,3 +552,4 @@ done;
 ```
 for f in *.mp4; do ffmpeg -i "$f" -c:a libmp3lame "outputs/${f%.mp4}.mp3"; done
 ```
+* If another person want to add a page to this list and hoping with a block refernence, how can you do it?

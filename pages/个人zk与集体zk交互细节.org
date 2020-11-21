@@ -2,3 +2,4 @@
 
 ** 都归入 Git 版本控制
 ** 在个人 ZK 中以 submodule 加入
+** After reviewing the commit changes, triggering Org-roam db build commands

@@ -1,0 +1,6 @@
+#+TITLE: TEAM ZK
+
+**
+#+BEGIN_QUOTE
+Since a note in a Zettelkasten is atomic, it makes sense to view it as pertaining to a single person, representing that person’s thought. Other users however, can link to that thought on their own notes, building on it, contradicting it or viewing it from another angle. These linked notes will then show up as backlinks when viewing the original note, and the backlinks will become a place where all the discussion around a note can be found. This method can be used with any tool that supports backlinks and publishing or sharing of notes. 
+#+END_QUOTE

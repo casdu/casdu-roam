@@ -4,5 +4,6 @@
 *** pages,files, then searching all the content
 ** Issue
 *** After input [[| , if there's no page generated, it will create a a link: `[[A non-exist file]]`. The Org-mode user would expect the result is `[[FILE-PATH][A non-exist file]]`
+*** All the notes within the scope of TEAM ZK are not automatica pick up by org-roam. However, manual visiting a file and save a file can triggle the index process within Org-roam.
 ** My tasks
 *** I will test logseq locally, i.e. build logseq and run the server to see how's going

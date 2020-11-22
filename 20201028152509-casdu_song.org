@@ -260,7 +260,7 @@ https://www.youtube.com/watch?v=OUNOKSAJVvQ
 :PROPERTIES:
 :id: 5fb997a2-5288-4ea5-9e12-ce51ac695df0
 :END:
-**** [[https://www.youtube.com/watch?v=va11D05QI1o][엔플라잉]]      :training:
+*** [[https://www.youtube.com/watch?v=va11D05QI1o][엔플라잉]]      :training:
 **** [[https://www.youtube.com/watch?v=fCAEpt7C2Lk][汪定中 All in one]] :training:
 **** [[https://www.youtube.com/watch?v=eqiKqwvXa5E][?Trigger]]      :training:
 **** [[https://www.youtube.com/watch?v=LkPbSr52ZHc][羅文裕]]        :training:

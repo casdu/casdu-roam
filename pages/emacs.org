@@ -1,2 +1,3 @@
 #+TITLE: emacs
 
+** Beginer tutorial: https://benwindsorcode.github.io/Getting-Started-With-Emacs-Lisp/

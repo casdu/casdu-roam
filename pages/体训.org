@@ -1,14 +1,2 @@
 #+TITLE: 体训
-Ref: https://parkouredu.org/tricking-basics/
-** Round kick
-** Hook kick
-** Tornado kick
-** Pop 360
-** Tricker cartwheel
-** Opposite side cartwheel
-** Machine step
-** Palm kick
-** Scoot
-** Macaco
-** Butterfly kick
-** Tricker aerial
+** ref: https://thefitness.wiki/muscle-building-101/

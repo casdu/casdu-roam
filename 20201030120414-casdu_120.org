@@ -3,9 +3,10 @@
 *+LAST_MODIFIED: [2020-10-30 Fri 12:04]
 
 
+* Useful reference:
+** https://www.solowfa.com/online-course.htm
 * 不要做
 - 红药水含重金属汞，并且不能与碘酒碘伏同时使用！
-
 * 突发事件应对 （预防和处理）
 * 疼痛与不适
 * 擦伤与外伤

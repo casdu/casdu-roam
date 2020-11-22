@@ -1,2 +1,3 @@
 #+TITLE: 体训
-** ref: https://thefitness.wiki/muscle-building-101/
+
+** fitness ref: https://thefitness.wiki/muscle-building-101/

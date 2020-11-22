@@ -260,6 +260,11 @@ https://www.youtube.com/watch?v=OUNOKSAJVvQ
 :PROPERTIES:
 :id: 5fb997a2-5288-4ea5-9e12-ce51ac695df0
 :END:
+**** 0:00 ~ 1:30 调整踏频率
+**** 1:38 4遍 "向前走 ..." 强度渐强
+**** 2:01 调整变速到最大齿比， 留白后， 3秒全力冲刺
+****
+**
 *** [[https://www.youtube.com/watch?v=va11D05QI1o][엔플라잉]]      :training:
 *** [[https://www.youtube.com/watch?v=fCAEpt7C2Lk][汪定中 All in one]] :training:
 *** [[https://www.youtube.com/watch?v=eqiKqwvXa5E][?Trigger]]      :training:

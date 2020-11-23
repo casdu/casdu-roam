@@ -1,0 +1,4 @@
+#+TITLE: Nov 23rd, 2020
+
+** orgit has a functionality to store a git:rev link [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]
+*** if users want to make a more robust link, this might be a choice

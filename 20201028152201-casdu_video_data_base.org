@@ -18,7 +18,7 @@ I would like the database has such following features:
 I think the .mkv .mp4 all these video clip should has UUID.
 User can check the content of the video with trivial effort. 
 
-thoughts on using ZK as video index
+[[file:./pages/thoughts_on_using_zk_as_video_index.org][thoughts on using ZK as video index]] 
 
 > 单是从存储上下手，将每次活动的照片整理分类已经很不容易。
 How do I organize my file system?

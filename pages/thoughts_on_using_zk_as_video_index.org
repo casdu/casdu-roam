@@ -1,0 +1,3 @@
+#+TITLE: thoughts on using ZK as video index
+
+** 

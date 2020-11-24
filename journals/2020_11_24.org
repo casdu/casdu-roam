@@ -1,4 +1,5 @@
 #+TITLE: Nov 24th, 2020
 
 ** [[file:../pages/logseq.org][logseq]]  issue with the name
-***
+*** possible to use ~20201028153926.org~ as file name?
+****

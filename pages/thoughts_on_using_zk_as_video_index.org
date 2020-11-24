@@ -1,3 +1,8 @@
 #+TITLE: thoughts on using ZK as video index
 
-** 
+** video name is uuid.{mp4, or other format}
+*** but it lacks the time stamp to indicates when the video was shot
+*** when try to find a related video, user may try to find from the calenda
+** another issue is the time gap between the shotting time and the editting time
+** maybe just leave the default time stamp created by the camera
+*** adding {a,b,c,d,e,f,g} to the clip videos

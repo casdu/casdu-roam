@@ -4,4 +4,5 @@
 *** possible to use ~20201028153926.org~ as file name?
 **** it's okay for org-roam to create from local Emacs repo
 **** it's kinda mess now:
+***** in the ~pages/*~ the file name is arbitary and including chinese file name, which I do not intend to do so. It's just my personal perference to choose all ascii characters to name a file
 *****

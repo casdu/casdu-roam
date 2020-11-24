@@ -5,4 +5,4 @@
 **** it's okay for org-roam to create from local Emacs repo
 **** it's kinda mess now:
 ***** in the ~pages/*~ the file name is arbitary and including chinese file name, which I do not intend to do so. It's just my personal perference to choose all ascii characters to name a file
-*****
+***** it's okay to write thoughts into pages without consideration of filename, when more mature pages are done, then move the pages using Emacs locallly

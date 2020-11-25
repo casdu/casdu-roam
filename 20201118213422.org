@@ -27,9 +27,9 @@
     #+TBLFM: @6$3=$currentFTP * 0.85;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.88;%.0f
 *** Base I Week 3
-    :PROPERTIES:
-    :ID:       81ef790c-6870-47f6-ab6b-ca221f51332b
-    :END:
+:PROPERTIES:
+:id: 81ef790c-6870-47f6-ab6b-ca221f51332b
+:END:
     | Day | Set       | Target | Rest   | Instruction |
     |-----+-----------+--------+--------+-------------|
     |   0 | 5x12m     |    239 | 4m     | -           |

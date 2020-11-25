@@ -1,6 +1,6 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2020-11-19 Thu 18:36]
+#+LAST_MODIFIED: [2020-11-25 Wed 17:42]
 #+CONSTANTS: oldFTP=260
 #+CONSTANTS: currentFTP=260
 
@@ -30,36 +30,19 @@
     :PROPERTIES:
     :ID:       81ef790c-6870-47f6-ab6b-ca221f51332b
     :END:
-    | Day | Set    | Target_Low | Target_high | Rest | Instruction |
-    |-----+--------+------------+-------------+------+-------------|
-    | 0   | 3x20m  |        232 |         248 | 7m   | -           |
-    | 1   | 4x15m  |          - |           - | 2m   | -           |
-    | s1  | -      |        200 |         227 | -    | -           |
-    | s2  | -      |        200 |         227 | -    | -           |
-    | s3  | -      |        211 |         238 | -    | -           |
-    | s4  | -      |        211 |         238 | -    | -           |
-    | 2   | 3x20m  |        232 |         248 | 7m   | -           |
-    | 3   | REC    |          - |           - | -    | 60m         |
-    | 4   | 5x15m  |        232 |         248 | 7m   | -           |
-    | 5   | 4 sets |          - |           - | 7m   | -           |
-    | s1  | 9m     |        232 |           - | 2m   | -           |
-    | s2  | 9m     |        232 |           - | 2m   | -           |
-    #+TBLFM: @2$3=$currentFTP * 0.87;%.0f
-    #+TBLFM: @2$4=$currentFTP * 0.93;%.0f
-    #+TBLFM: @4$3=$currentFTP * 0.75;%.0f
-    #+TBLFM: @4$4=$currentFTP * 0.85;%.0f
-    #+TBLFM: @5$3=$currentFTP * 0.75;%.0f
-    #+TBLFM: @5$4=$currentFTP * 0.85;%.0f
-    #+TBLFM: @6$3=$currentFTP * 0.79;%.0f
-    #+TBLFM: @6$4=$currentFTP * 0.89;%.0f
-    #+TBLFM: @7$3=$currentFTP * 0.79;%.0f
-    #+TBLFM: @7$4=$currentFTP * 0.89;%.0f
-    #+TBLFM: @8$3=$currentFTP * 0.87;%.0f
-    #+TBLFM: @8$4=$currentFTP * 0.93;%.0f
-    #+TBLFM: @10$3=$currentFTP * 0.87;%.0f
-    #+TBLFM: @10$4=$currentFTP * 0.93;%.0f
-    #+TBLFM: @12$3=$currentFTP * 0.87;%.0f
-    #+TBLFM: @13$3=$currentFTP * 0.87;%.0f
+    | Day | Set       | Target | Rest   | Instruction |
+    |-----+-----------+--------+--------+-------------|
+    |   0 | 5x12m     |    239 | 4m     | -           |
+    |   1 | 3x15m     |    242 | 3m     | -           |
+    |   2 | 3x(2x10)m |    237 | r1mR5m | -           |
+    |   3 | REC       |      - | -      | 60m         |
+    |   4 | 4x(2x9)m  |    237 | r2mR7m | -           |
+    |   5 | 5x15m     |    242 | 6m     | -           |
+    #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @3$3=$currentFTP * 0.93;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.93;%.0f
 *** Base I Week 4
     :PROPERTIES:
     :ID:       0eca56ee-34ba-49ec-a376-a5cbc8f3cb00

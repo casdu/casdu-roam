@@ -1,0 +1,9 @@
+#+TITLE: Nov 23rd, 2020
+
+** orgit has a functionality to store a git:rev link [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]
+*** if users want to make a more robust link, this might be a choice
+*** cancel default automatically git-push
+**** making each commit with a specific commit message
+***** this can reduce some conflictions
+***** making user more aware of what's being added to [[file:../pages/team_zk.org][TEAM ZK]]
+** [[file:../pages/casdu_timelines_.org][casdu timelines ]]

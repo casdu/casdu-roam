@@ -11,24 +11,22 @@ https://id.tudou.com/i/UMjk1NDEzMTY4?spm=a2h28.8313475.info.2
 * Method
 I would like the database has such following features:
 
-1. extremely easy way to search
+1. easy way to search
 2. possbile tag system
 3. catogize into different list with
 
 I think the .mkv .mp4 all these video clip should has UUID.
+User can check the content of the video with trivial effort. 
 
-User could check the content of the video with trivial effort.
+[[file:./pages/thoughts_on_using_zk_as_video_index.org][thoughts on using ZK as video index]] 
 
 > 单是从存储上下手，将每次活动的照片整理分类已经很不容易。
-
 How do I organize my file system?
 
 > 此外，除了照片视频，其他文化周边素材，例如手绘海报、传单、纪念品也可以考虑同样收集整理。
-
 How do I organize my digital life?
 
 > any thougths from the book I've read?
-
 Ref:
 0. http://bbs.casdu.cn/forum.php?mod=viewthread&tid=4753&fromuid=36346
 1. db: MongoDB

@@ -20,7 +20,7 @@
     |   2 | 5x12m        |    237 | 4m   | -                          |
     |   3 | REC          |      - | -    | 60m                        |
     |   4 | 3x(15 + 15)m |    221 | 5m   | -                          |
-    |   5 | 3x(3x5) m    |    237 | 12m  | rest 30s/12m in subsub/sub |
+    |   5 | 3x(4x5) m    |    237 | 12m  | rest 30s/12m in subsub/sub |
     #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.91;%.0f

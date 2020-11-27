@@ -2,7 +2,7 @@
 
 ** [[file:../pages/logseq.org][logseq]] 有人提交了关于团队合作的一些想法：https://github.com/logseq/logseq/issues/770
 **
-** [(转发)志愿者招募]
+** [(转发)志愿者招募] 运动
 **
 ** 3个要求：
 *** 1. 18 到 45 岁

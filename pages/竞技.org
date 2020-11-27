@@ -1,6 +1,7 @@
 #+TITLE: 竞技
 
-** Competition can inspire someone to perform at the level s/he can not
+** why it matters?
+Competition can inspire someone to perform at the level s/he can not
 to perform if leaving alone. I have some measurements on some of the
 sports I've involved. In cycling, the measurements of power is
 objective. I often use the power meter to measure how well I perform.

@@ -1,4 +1,4 @@
-* 如果 casduer 感兴趣的话，请点开 Issue 把遇到的问题描述下来，我会帮助你的。
+* 如果 casduer 感兴趣的话，请点开 [[https://github.com/casdu/casdu-brain/issues/new][Issue]] 把遇到的问题描述下来，我会帮助你的。
 
 
 

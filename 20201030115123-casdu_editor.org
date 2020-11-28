@@ -1,18 +1,33 @@
 #+TITLE: casdu-editor
 #+CREATED:       [2020-10-30 Fri 11:51]
-#+LAST_MODIFIED: [2020-10-30 Fri 11:54]
+#+LAST_MODIFIED: [2020-11-27 Fri 20:19]
 
 It's personal choice to pick up whatever editor is.
 
 But, I find [[https://emacs.org/][Emacs]] is great, and I want to share this to everyone who want to know.
 
-
-People with VIM, atom, VScode, Notepad++, ... can also share their opinion.
-
+People with VIM, atom, VScode, Notepad++, ... can also share their opinions.
 
 * Why
 [[https://emacs.lujianmei.com/beginners][by Lu Jianmei]]
-> 在我接触Emacs后，从github、google上我发现了很多使用Emacs的人，有程序员，有记者，有科研人员，更多的一些经常发表文章的学者，他们来至于各行各业，做着不同的工作，但也有不少人虽然不是一个程序员，但因为使用Emacs久了，自然学会了如何简单的使用Elisp语言来配置一些简单的让自己的写作效率更高的东西，从他们的经历中，我可以很清楚的感受到他们的乐此不疲，可以感受到他们在Hack Emacs中获得的快乐，就像一个学习武术的人，已经开始在不断的与自己的宝剑，磨合到人剑合一的感觉，并发挥出更强大的力量； 所以我觉得只要一个经常打字的人，不管你是记者，还是一个作家，不管你是一个学生，还是一个科研人员，如果有兴趣学习Emacs，你就一定能在其中找到属于自己的一份快乐；Emacs有理由让你的付出一定会得到丰富的收获； 对于我来说，Emacs改变的不仅是我的写作习惯，而真正重要的，我觉得它改变的是我的整个学习和工作的方式，让我开始变的有序的组织自己的工作、生活、并在其中开始学习积累和记录工作、生活、学习所经历的东西，这也是激发我开始将我的学习内容和大家分享的最原始的动力； 我希望在带领大家学习和使用Emacs的路上，能带来一种轻松、快乐、有趣的经历，也能激发每一个读者领悟到与人分享中的快乐.
+#+begin_quote
+在我接触Emacs后，从github、google上我发现了很多使用Emacs的人，有程序员，
+有记者，有科研人员，更多的一些经常发表文章的学者，他们来至于各行各业，
+做着不同的工作，但也有不少人虽然不是一个程序员，但因为使用Emacs久了，
+自然学会了如何简单的使用Elisp语言来配置一些简单的让自己的写作效率更高
+的东西，从他们的经历中，我可以很清楚的感受到他们的乐此不疲，可以感受到
+他们在Hack Emacs中获得的快乐，就像一个学习武术的人，已经开始在不断的与
+自己的宝剑，磨合到人剑合一的感觉，并发挥出更强大的力量； 所以我觉得只
+要一个经常打字的人，不管你是记者，还是一个作家，不管你是一个学生，还是
+一个科研人员，如果有兴趣学习Emacs，你就一定能在其中找到属于自己的一份
+快乐；Emacs有理由让你的付出一定会得到丰富的收获； 对于我来说，Emacs改
+变的不仅是我的写作习惯，而真正重要的，我觉得它改变的是我的整个学习和工
+作的方式，让我开始变的有序的组织自己的工作、生活、并在其中开始学习积累
+和记录工作、生活、学习所经历的东西，这也是激发我开始将我的学习内容和大
+家分享的最原始的动力； 我希望在带领大家学习和使用Emacs的路上，能带来一
+种轻松、快乐、有趣的经历，也能激发每一个读者领悟到与人分享中的快乐.
+#+end_quote
+
 * Emacs on Windows
 ** why
 - 这样的用户用emacs是为了什么 - TomoeMami
@@ -22,14 +37,18 @@ People with VIM, atom, VScode, Notepad++, ... can also share their opinion.
 - `M-x help-with-tutorial-spec-language` 我是真心觉得 tutorial 好 by zmonster
 - Mike Zamansky: https://www.youtube.com/channel/UCxkMDXQ5qzYOgXPRnOBrp1w by oracleyue
 
-很长时间录制的一个名为Using Emacs的playlist，记录了他一点点学习Emacs以及各种mode的经历，简洁易懂，很平易近人，因为他是名老师，所以讲解和取舍都特别适合新手。国内应该也能找到他的视频。
+很长时间录制的一个名为Using Emacs的playlist，记录了他一点点学习Emacs以
+及各种mode的经历，简洁易懂，很平易近人，因为他是名老师，所以讲解和取舍
+都特别适合新手。国内应该也能找到他的视频。
 
 ** why emacs?
 https://shreyas.ragavan.co/post/11ef85e6-9efc-4af4-b5f3-7648f9ee9308/
 *** discussion https://emacs-china.org/t/emacs/13088/12
-
 ** how to learn
 *** brief intro: http://steve-yegge.blogspot.com/2008/01/emergency-elisp.html?m=1
+    :PROPERTIES:
+    :ID:       a69484e3-123e-4393-a4de-0bcc476b0d1c
+    :END:
 
 why: https://github.com/casdu/huikan/commit/7089f8424c5511c3f2a16c33febc2feb37eb2ecd
 

@@ -1,3 +1,4 @@
 #+TITLE: Nov 28th, 2020
 
 ** EMMS (https://www.gnu.org/software/emms/) for metadata authoring and organising playlists
+** ((81ef790c-6870-47f6-ab6b-ca221f51332b)) Day 4

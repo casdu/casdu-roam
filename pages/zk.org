@@ -1,5 +1,4 @@
 #+TITLE: ZK
-
 ** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
    :PROPERTIES:
@@ -21,3 +20,14 @@ sequence. We only write if it helps us with our own thinking.
 
 Only when the gaps become obvious in the next step, it is time to fill
 them up.
+** be careful with tag
+
+#+begin_quote
+...the references between the notes are much more
+important than the references from the index to a single note.
+#+end_quote
+
+#+begin_quote
+Every consideration on the structure of a topic is just
+another consideration on a note
+#+end_quote

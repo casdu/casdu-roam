@@ -6,9 +6,9 @@
 
 ** Base I
 *** Base I Week 1
-    :PROPERTIES:
-    :ID:       b168b116-0b5e-436e-ba5c-78b8506e7eeb
-    :END:
+:PROPERTIES:
+:id: b168b116-0b5e-436e-ba5c-78b8506e7eeb
+:END:
 *** Base I Week 2
 :PROPERTIES:
 :id: 71636d72-6eea-4316-ac99-2bc31ee059d0

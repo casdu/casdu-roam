@@ -2,7 +2,22 @@
 
 ** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
+   :PROPERTIES:
+   :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70
+   :END:
 *** https://www.reddit.com/r/Zettelkasten/
 *** https://forum.zettelkasten.de/categories/knowledge-work
 *** https://forum.obsidian.md/c/knowledge-management/6
+*** https://org-roam.discourse.group/
 ** [[file:./team_zk.org][TEAM ZK]]
+** Difference between ZK and Wiki
+#+begin_quote chapter 12
+Because the slip-box is not intended to be an encyclopaedia, but a
+tool to think with, we don’t need to worry about completeness. We
+don’t need to write anything down just to bridge a gap in a note
+sequence. We only write if it helps us with our own thinking.
+
+#+end_quote
+
+Only when the gaps become obvious in the next step, it is time to fill
+them up.

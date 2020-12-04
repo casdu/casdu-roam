@@ -1,0 +1,3 @@
+#+TITLE: Dec 3rd, 2020
+
+** beatiful website: https://hugocisneros.com/org-config/#org-roam using org-roam, maybe I can try it with our site?

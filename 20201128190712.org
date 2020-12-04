@@ -9,6 +9,7 @@
 ** Test week 1
 *** 渐进测试。 [[file:./journals/2020_12_01.org][Dec 1st, 2020]]
 *** TT 测试的 FTP 是 IET 最后完成的功率，和传统 FTP 是不一样的。
+*** 过度日。60分钟 RPE 3 。 [[file:./journals/2020_12_02.org][Dec 2nd, 2020]]
 ** Test week 2
 ** Training weeks
 ** Test

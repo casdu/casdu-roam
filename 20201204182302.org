@@ -1,3 +1,6 @@
 #+TITLE: fix bike frequently questions
 #+CREATED:       [2020-12-04 Fri 18:23]
 #+LAST_MODIFIED: [2020-12-04 Fri 18:23]
+** 前拨安装位置？
+** 如何取下魔术扣？
+** 什么是合适的链条长度？

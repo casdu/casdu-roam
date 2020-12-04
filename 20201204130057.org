@@ -1,0 +1,15 @@
+#+TITLE: issue with tools
+#+CREATED:       [2020-12-04 Fri 13:00]
+#+LAST_MODIFIED: [2020-12-04 Fri 13:06]
+
+http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11893
+
+曾担任过实践部的一些任务，分享一些当时遇到却没及时记录的问题。
+
+* 不清楚工具的总览情况
+* 没有保管工具的工具
+* 借出工具的问题
+* 检车时工具管理混乱
+* 工具交接
+* 工具的传承
+* 执行何种任务需要何种最少工具

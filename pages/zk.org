@@ -32,7 +32,6 @@ Every consideration on the structure of a topic is just
 another consideration on a note
 #+end_quote
 ** Taking action vs thinking
-***
 *** I think Zettelkästen is a very special tool.
 
 It servers people's mental activities. Sometime, it is hard to

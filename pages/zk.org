@@ -31,3 +31,5 @@ important than the references from the index to a single note.
 Every consideration on the structure of a topic is just
 another consideration on a note
 #+end_quote
+** Taking action vs thinking
+***

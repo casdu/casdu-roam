@@ -32,7 +32,8 @@ Every consideration on the structure of a topic is just
 another consideration on a note
 #+end_quote
 ** Taking action vs thinking
-*** I think Zettelkästen is a very special tool. It servers people's
+*** I think Zettelkästen is a very special tool.
+It servers people's
 mental activities. Sometime, it is hard to differentiate between the
 actions in thoughts and the physical actions.
 

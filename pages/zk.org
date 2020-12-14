@@ -33,9 +33,9 @@ another consideration on a note
 #+end_quote
 ** Taking action vs thinking
 *** I think Zettelkästen is a very special tool.
-It servers people's
-mental activities. Sometime, it is hard to differentiate between the
-actions in thoughts and the physical actions.
+*** It servers people's mental activities. Sometime, it is hard to
+differentiate between the actions in thoughts and the physical
+actions.
 
 For me, Zettelkästen is such tool:
 

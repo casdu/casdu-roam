@@ -1,3 +1,3 @@
 #+TITLE: Dec 13th, 2020
 
-** [[file:../pages/zk.org][ZK]]
+** [[file:../pages/zk.org][ZK]] ZK 只是用来搜集信息？

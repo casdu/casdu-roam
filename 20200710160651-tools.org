@@ -13,7 +13,7 @@
 ** 脚踏/Pedal
 ** 刹车/Brakes
 ** 五通/Bottom Bracket
-** 中轴/Crank
+** [[中轴]]/Crank
 ** 飞轮/Cassette
 ** 车架/Frame
 :PROPERTIES:

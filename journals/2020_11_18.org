@@ -2,6 +2,9 @@
 
 ** [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]？
 ** logseq 解决了必须依赖 Emacs 的问题
+:PROPERTIES:
+:id: 5fd6cd0c-953b-4401-92a7-8c5061170fb3
+:END:
 *** 又可以创建出一个相对隔离的环境
 *** 同时又保留了个人 ZK 的交互问题
 **** 在本地计算机上，如果将集体 ZK 以 submodule 的方式纳入个人 ZK， 就可在完成自己的 ZK 与集体 ZK 的融合 [[file:../pages/team_zk.org][TEAM ZK]]

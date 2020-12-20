@@ -3,6 +3,6 @@
 ** [[file:../pages/logseq.org][logseq]] advance usage
 *** with docker
 
-#+BEGIN_SRC clojure
-(println "Hello world!")
+#+BEGIN_SRC bash
+*** (println "Hello world!")
 #+END_SRC

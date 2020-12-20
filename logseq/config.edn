@@ -2,6 +2,7 @@
  :default-templates {:journals ""},
  :macros {},
  :org-mode/insert-file-link? true,
+ :pages/file-name-format "yyyy-MM-dd-HH-MM-SS"
  :feature/enable-timetracking? true,
  :commands [],
  :project {:name "", :alias "", :twitter "", :description ""},

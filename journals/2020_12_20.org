@@ -23,5 +23,3 @@ EXPOSE 3001
 EXPOSE 9630
 EXPOSE 8701
 #+END_SRC
-*** Then I run it with docker run
- -v ~$(pwd):/home/logseq/logseq -p 3001:3001 -p 9630:9630 -p 8701:8701 --rm -it logseq-docker /bin/bash~

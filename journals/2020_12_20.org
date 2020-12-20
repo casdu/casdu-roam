@@ -26,3 +26,5 @@ EXPOSE 8701
 
 Then I run it with docker run:
  -v ~$(pwd):/home/logseq/logseq -p 3001:3001 -p 9630:9630 -p 8701:8701 --rm -it logseq-docker /bin/bash~
+
+Ref: https://discord.com/channels/725182569297215569/725182570131751005/789560039072727050

@@ -1,4 +1,4 @@
 #+TITLE: Dec 20th, 2020
 
 ** [[file:../pages/logseq.org][logseq]] advance usage
-***
+*** with docker

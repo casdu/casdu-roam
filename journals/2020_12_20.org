@@ -30,4 +30,4 @@ Then I run it with docker run:
 Ref: https://discord.com/channels/725182569297215569/725182570131751005/789560039072727050
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]]
 **
-**
+** [[Winter solstice]]

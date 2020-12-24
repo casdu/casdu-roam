@@ -15,7 +15,7 @@ Some softward lists:
 ** discuz setup
 ref: https://discuss.logseq.com/t/suggestion-add-voting-plugin-for-feature-requests/66/4
 **
-#+BEGIN_SRC sh
+#+BEGIN_SRC
 ## Plugins go here
 ## see https://meta.discourse.org/t/19157 for details
 hooks:

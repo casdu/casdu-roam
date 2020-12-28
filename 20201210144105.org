@@ -3,8 +3,11 @@
 #+LAST_MODIFIED: [2020-12-10 Thu 15:15]
 
 作者： 李文龙
+
 图片： 山大车协
+
 编辑： 贾家林  杨微
+
 出处: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11899
 
 从大类上分为方孔中轴、花键中轴、穿钉式中轴、一体式中轴。分别对应专用规

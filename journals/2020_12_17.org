@@ -1,0 +1,7 @@
+#+TITLE: Dec 17th, 2020
+
+** UUID test ((5fbade1a-afde-4ef5-97c7-5a11a77eea06))
+** page embed test
+*** page embed {{{embed [[file:../pages/emacs.org][emacs]] }}} test
+*** page embed {{{embed [[file:../pages/cray_linux_environment.org][Cray Linux Environment]] }}} test
+** [[file:../20201128190712.org][2020-UoT-Training-Study]] 测试周

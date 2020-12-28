@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #+TITLE: ZK
 ** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
@@ -35,3 +36,86 @@ important than the references from the index to a single note.
 Every consideration on the structure of a topic is just
 another consideration on a note
 #+end_quote
+=======
+#+TITLE: ZK
+** [[file:./什么是zk.org][什么是ZK]]
+** Discussion on Internet
+   :PROPERTIES:
+   :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70
+   :END:
+*** https://www.reddit.com/r/Zettelkasten/
+*** https://forum.zettelkasten.de/categories/knowledge-work
+*** https://forum.obsidian.md/c/knowledge-management/6
+*** https://org-roam.discourse.group/
+** [[file:./team_zk.org][TEAM ZK]]
+** Difference between ZK and Wiki
+#+begin_quote chapter 12
+Because the slip-box is not intended to be an encyclopaedia, but a
+tool to think with, we don’t need to worry about completeness. We
+don’t need to write anything down just to bridge a gap in a note
+sequence. We only write if it helps us with our own thinking.
+
+#+end_quote
+
+Only when the gaps become obvious in the next step, it is time to fill
+them up.
+** be careful with tag
+
+#+begin_quote
+...the references between the notes are much more
+important than the references from the index to a single note.
+#+end_quote
+
+#+begin_quote
+Every consideration on the structure of a topic is just
+another consideration on a note
+#+end_quote
+** Taking action vs thinking
+*** I think Zettelkästen is a very special tool.
+
+It servers people's mental activities. Sometime, it is hard to
+differentiate between the actions in thoughts and the physical
+actions.
+
+For me, Zettelkästen is such tool:
+
+1.  Focus tool. It is the process of forcing myself finding connection
+    that makes myself reflect the previous thoughts. This process alone
+    is huge motivation for me. I find myself more concentrated and less
+    likely to be distracted by the external world if I try to jot down
+    something in my mind.
+
+2.  Research tool. This is the primary usage of Zettelkästen. Finding
+    connection from my previous thoughts and from other people to
+    create new ideas. Although most people are not researchers, the
+    thing that we do not to be scientists to do research. The moment of
+    finding things that you never know is not too much difference from
+    an experienced scientist finding something big scientific
+    achievements.
+
+3.  Happiness tool. I feel more easily entering in the [flow state](20201120232129-flow_state.md) in my
+    Zettelkästen.
+
+4.  Interaction tool. I am trying to build a team Zettelkästen, which
+    has similar idea to Zettelkästen but adding other people's thoughts
+    into one Zettelkästen.
+
+Taking action or not upon the same external simulate is different from
+people to people. Everybody is different. Karl Friston
+<sup id="1f81cff8064db0eb5c458a6df2f00f4b"><a href="#friston2010free" title="Friston, The free-energy principle: a unified brain theory?, {Nature reviews neuroscience}, v(2), 127--138 (2010).">friston2010free</a></sup> proposed that for a system, "the better" is to
+choose the reaction that can minimize its free-energy. To achieve
+this, one has two options: (1) change sensory input by acting on world
+(2) change internal world.
+
+Changing sensory input by acting on world seems more easy, but it will
+bring physical pain in many cases. Changing internal world is hard.
+Basically, someone has to re-evaluate his/her attitude towards the
+external world. To some degree, it's like learning a new language.
+
+If taking action is defined by writing, then I would say yes. It helps
+and it helps a lot. The answer to the question becomes blurry when
+people take physical activities. For example, chances are low if
+someone want to do back flip by interacting with his/her Zettelkästen.
+But, I am opening to such claim. In some studies, people can do better
+job without really doing things but just mentally imaging something.
+>>>>>>> efaa39bc6e7b40f3dd5995f168325dff8422b5be

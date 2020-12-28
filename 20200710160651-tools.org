@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #+title: bike tools
 
 * 常用分类
@@ -54,3 +55,61 @@ graph TD
 	G --> H(刹车)
 	H --> I(试骑)
 #+end_export
+=======
+#+title: bike tools
+
+* 常用分类
+:PROPERTIES:
+:id: b424f800-3b15-4c58-8f32-25ab9992199b
+:END:
+** 通用/General
+** 多用/Multi-Tools
+** 清洗/Cleaning
+** 润滑/Lubricants and Compounds
+** [[file:./20201110145654-wheel_set.org][轮组/Wheel set]]
+** [[file:./pages/轮胎.org][轮胎]]
+** 脚踏/Pedal
+** 刹车/Brakes
+** 五通/Bottom Bracket
+** [[中轴]]/Crank
+** 飞轮/Cassette
+** 车架/Frame
+:PROPERTIES:
+:id: 5fb5c776-e522-42b9-86f1-fb9800b02214
+:END:
+*** 注意， 这是测试。在这个 Headline 下编辑一些东西，会在原引用出出现什么？
+**** 在原引用处进入该区引用，可以发现会进入一个单独的页面，相当于 narrow 到某一个 Hedaline 下，而且可直接编辑。
+**** 编辑区下方是 backlink
+** 腕组/Headset
+** /Bear
+https://www.youtube.com/watch?v=hRLbamNQa_0
+** /dérailleur
+*** front dérailleur
+*** rear dérailleur
+** Fork
+** Chain
+* 按需推荐
+** 单日
+** 单周
+** 多周
+* 大队
+** 单日拉练
+** 多日拉练
+** [[file:./pages/远征.org][远征]]
+* Ref
+- https://www.parktool.com/product/docs
+
+* check bike
+#+begin_export ascii
+graph TD
+	A[胎压] -->
+	| psi? | B(快拆 花鼓 把立)
+	B --> C(刹车)
+	C --> D(变速)
+	D --> E(脚踏 中轴)
+	E --> F(前叉)
+	F --> G(螺丝)
+	G --> H(刹车)
+	H --> I(试骑)
+#+end_export
+>>>>>>> efaa39bc6e7b40f3dd5995f168325dff8422b5be

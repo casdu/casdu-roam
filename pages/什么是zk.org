@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-#+TITLE: 什么是ZK
-
-** [[https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/][Ref1]]
-*** 存储扩展个人的知识回忆，并产生新的想法
-*** 单个笔记对应唯一标识符号
-*** 一个笔记或者说是页面对应一个想法
-*** 链接想法
-*** 不要去管结构
-*** 写笔记的时候，尽量清晰，能让未来的你看懂
-*** 不要纯拷贝，加上自己的理解
-*** 添加参考资料，一段想法是从什么地方受到启发的
-=======
 #+TITLE: 什么是ZK
 
 ** [[https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/][Ref1]]
@@ -27,4 +14,3 @@
 *** 写笔记的时候，尽量清晰，能让未来的你看懂
 *** 不要纯拷贝，加上自己的理解
 *** 添加参考资料，一段想法是从什么地方受到启发的
->>>>>>> efaa39bc6e7b40f3dd5995f168325dff8422b5be

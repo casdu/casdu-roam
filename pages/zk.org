@@ -1,42 +1,3 @@
-<<<<<<< HEAD
-#+TITLE: ZK
-** [[file:./什么是zk.org][什么是ZK]]
-** Discussion on Internet
-   :PROPERTIES:
-   :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70
-   :END:
-*** https://www.reddit.com/r/Zettelkasten/
-*** https://forum.zettelkasten.de/categories/knowledge-work
-*** https://forum.obsidian.md/c/knowledge-management/6
-*** https://org-roam.discourse.group/
-** [[file:./team_zk.org][TEAM ZK]]
-** [[file:../../20201113183746-what_is_a_good_structure_note.org][what is a good structure note]]
-** [[file:../../20201213205709-zk_and_actions.org][ZK and actions]]
-** Difference between ZK and Wiki
-#+begin_quote chapter 12
-Because the slip-box is not intended to be an encyclopaedia, but a
-tool to think with, we don’t need to worry about completeness. We
-don’t need to write anything down just to bridge a gap in a note
-sequence. We only write if it helps us with our own thinking.
-
-#+end_quote
-
-Only when the gaps become obvious in the next step, it is time to fill
-them up.
-** be careful with tag
-   :PROPERTIES:
-   :ID:       0b1823ce-eeae-4605-8fd7-eea51cff58c9
-   :END:
-#+begin_quote
-...the references between the notes are much more
-important than the references from the index to a single note.
-#+end_quote
-
-#+begin_quote
-Every consideration on the structure of a topic is just
-another consideration on a note
-#+end_quote
-=======
 #+TITLE: ZK
 ** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
@@ -118,4 +79,3 @@ people take physical activities. For example, chances are low if
 someone want to do back flip by interacting with his/her Zettelkästen.
 But, I am opening to such claim. In some studies, people can do better
 job without really doing things but just mentally imaging something.
->>>>>>> efaa39bc6e7b40f3dd5995f168325dff8422b5be

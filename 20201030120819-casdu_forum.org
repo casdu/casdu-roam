@@ -1,31 +1,6 @@
-<<<<<<< HEAD
 #+TITLE: casdu-forum
 #+CREATED:       [2020-10-30 Fri 12:08]
-#+LAST_MODIFIED: [2020-10-30 Fri 12:08]
-
-Some softward lists:
-* discourse
-** https://discourse.vtk.org/
-** https://discourse.paraview.org/
-** https://emacs-china.org/
-
-* esoTalk
-** https://chaoli.club/index.php/
-
-* discuz
-
-* mybb
-https://mybb.com/
-or...?
-
-- discuz does not support Markdown
-- discuz is not free software
-- discuz is too easy to be hacked
-- discuz does not support backup for users
-=======
-#+TITLE: casdu-forum
-#+CREATED:       [2020-10-30 Fri 12:08]
-#+LAST_MODIFIED: [2020-10-30 Fri 12:08]
+#+LAST_MODIFIED: [2020-12-28 Mon 07:55]
 
 Some softward lists:
 * discourse
@@ -61,4 +36,3 @@ or...?
 - discuz is not free software
 - discuz is too easy to be hacked
 - discuz does not support backup for users
->>>>>>> efaa39bc6e7b40f3dd5995f168325dff8422b5be

@@ -9,6 +9,8 @@
 *** https://forum.obsidian.md/c/knowledge-management/6
 *** https://org-roam.discourse.group/
 ** [[file:./team_zk.org][TEAM ZK]]
+** [[file:../../20201113183746-what_is_a_good_structure_note.org][what is a good structure note]]
+** [[file:../../20201213205709-zk_and_actions.org][ZK and actions]]
 ** Difference between ZK and Wiki
 #+begin_quote chapter 12
 Because the slip-box is not intended to be an encyclopaedia, but a
@@ -21,7 +23,9 @@ sequence. We only write if it helps us with our own thinking.
 Only when the gaps become obvious in the next step, it is time to fill
 them up.
 ** be careful with tag
-
+   :PROPERTIES:
+   :ID:       0b1823ce-eeae-4605-8fd7-eea51cff58c9
+   :END:
 #+begin_quote
 ...the references between the notes are much more
 important than the references from the index to a single note.

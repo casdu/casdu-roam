@@ -1,3 +1,39 @@
 #+TITLE: emacs
 
+** [[file:../../20201202215816-emacs_china.org][Emacs china]]
+
+** [[file:../../20201130143521-i_do_not_share_configuration_file_anymore.org][I do not share configuration file anymore]]
+
+** questions
+   NonGNU ELPA - Speaker(s): Richard Stallman
+   Talk page: https://emacsconf.org/2020/schedule/39
+
+   Q30: Would you mind sharing your Emacs configuration files?
+   RMS: Configuration files are personal and will not be shared.
+
+   This conflicts my current thoughts that I should share something to
+   the world. I feel good to do so in the past, but as I write more
+   and more elisp, this might not be the case anymore.
+
+** testing script
+   #+begin_src bash
+   emacs -q -l some/testing-environment.el
+   #+end_src
+
 ** Beginer tutorial: https://benwindsorcode.github.io/Getting-Started-With-Emacs-Lisp/
+   :PROPERTIES:
+   :ID:       40b6d2b1-57bf-46a3-b2c8-09a34023ca4f
+   :END:
+
+   [[file:../../20201128140536-emacs_with_cfd.org][emacs with cfd]]
+
+*** for writers
+    https://github.com/randomwangran/emacs-writer
+** matrix-ttt (an irc)
+   :PROPERTIES:
+   :ID:       62971af4-2dd1-4fcb-82be-57440c131ae8
+   :END:
+
+   matrix-ttt as
+
+   https://app.element.io/#/room/#emacs:matrix.org/$16054014181664Fvrza:privacytools.io

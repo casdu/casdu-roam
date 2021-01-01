@@ -49,5 +49,5 @@
     :inputs [:today :7d-after],
     :collapsed? false}]},
  :git-push-secs 10, 
- :git-auto-push true, 
+ :git-auto-push false, 
  :journal-basis "daily"}

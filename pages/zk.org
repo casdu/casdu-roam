@@ -20,6 +20,12 @@ sequence. We only write if it helps us with our own thinking.
 
 Only when the gaps become obvious in the next step, it is time to fill
 them up.
+
+#+begin_quote https://www.reddit.com/r/Zettelkasten/comments/kndg4s/is_zettelkasten_for_me/
+Best description I've seen for a ZK (attributed to someone else here
+on reddit, can't recall offhand sorry) is that its a method for
+knowledge development rather than a tool for knowledge management.
+#+end_quote
 ** be careful with tag
 
 #+begin_quote

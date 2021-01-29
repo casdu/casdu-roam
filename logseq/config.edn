@@ -50,4 +50,5 @@
     :collapsed? false}]},
  :git-push-secs 10, 
  :git-auto-push false, 
- :journal-basis "daily"}
+ :journal-basis "daily"
+ :preferred_format :org}

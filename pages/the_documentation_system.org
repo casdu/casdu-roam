@@ -1,0 +1,7 @@
+#+TITLE: the documentation system
+
+** Write tutorials on how to use Logseq
+
+** How-to guids specific for casduers
+** Explanation of the ideas
+** Reference and my thoughts

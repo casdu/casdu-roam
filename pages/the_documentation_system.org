@@ -1,7 +1,8 @@
 #+TITLE: the documentation system
 
-** Write tutorials on how to use Logseq
+https://documentation.divio.com/ shows a good way to communicate in written format.
 
-** How-to guids specific for casduers
+** Write tutorials on how to use Logseq
+** How-to guides specific for casduers
 ** Explanation of the ideas
 ** Reference and my thoughts

@@ -17,6 +17,7 @@
 ** What is the issue with current Trainerroad user?
 *** Too hard to follow a session
 ** What is the most optimal training plan?
+** What is a better strag
 ** How to tink a optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?
 ** How the efficiency is defined?

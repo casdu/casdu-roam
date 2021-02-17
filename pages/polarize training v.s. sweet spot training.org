@@ -8,3 +8,4 @@
  #+BEGIN_QUOTE
 TrainerRoad’s biggest asset is the ability to easily modify any plan and huge workout library. If you are not doing so, you are not optimizing the potential of the platform.
 #+END_QUOTE
+** What' the down-side of just following pre-defined plan

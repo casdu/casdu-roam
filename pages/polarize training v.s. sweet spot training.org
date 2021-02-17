@@ -1,0 +1,10 @@
+#+TITLE: polarize training v.s. sweet spot training
+
+** What is polarize training?
+** What's the difference between the 3-zone model and 7-zone model?
+** Does polarized is better than sweet spot for people have 10 hour/week?
+** Does polarized is better than sweet spot for people have 15 hour/week?
+** What's the value of Trainerroad?
+*** #+BEGIN_QUOTE
+TrainerRoad’s biggest asset is the ability to easily modify any plan and huge workout library. If you are not doing so, you are not optimizing the potential of the platform.
+*** #+END_QUOTE

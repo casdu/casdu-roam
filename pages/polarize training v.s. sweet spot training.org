@@ -17,7 +17,6 @@
 ** What is the most optimal training plan?
 ** How to tink a optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?
-
-
+** meta info
 register: upto 324
 ref: https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136

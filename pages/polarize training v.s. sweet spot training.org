@@ -4,6 +4,7 @@
 ** What is the difference between the 3-zone model and 7-zone model?
 ** Does polarized is better than sweet spot for people have 10 hour/week?
 ** Does polarized is better than sweet spot for people have 15 hour/week?
+** Does
 ** What is the value of Trainerroad?
 - workout interface
 - calendar

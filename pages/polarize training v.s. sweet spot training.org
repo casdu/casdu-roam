@@ -18,6 +18,12 @@
 ** How to tink a optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?
 ** Why no plan fits all?
+
+We all have different background before cycling. 
+
+People have different stress in their life, e.g. from jobs, peer pressure, etc.
+
+Motivitation is different from people to people. And cycling is sometime viewed as a mental exercise instead of body.
 ** meta info
 register: upto 324
 ref: https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136

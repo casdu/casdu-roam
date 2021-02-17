@@ -1,7 +1,7 @@
 #+TITLE: polarize training v.s. sweet spot training
 
 ** What is polarize training?
-** What's the difference between the 3-zone model and 7-zone model?
+** What is the difference between the 3-zone model and 7-zone model?
 ** Does polarized is better than sweet spot for people have 10 hour/week?
 ** Does polarized is better than sweet spot for people have 15 hour/week?
 ** What's the value of Trainerroad?

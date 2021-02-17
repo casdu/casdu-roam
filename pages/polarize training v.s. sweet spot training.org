@@ -19,4 +19,4 @@
 ** How to test polarize trainig is better than sweet spot training?
 
 
-upto
+upto 324

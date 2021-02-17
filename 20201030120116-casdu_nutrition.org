@@ -1,9 +1,17 @@
 #+TITLE: casdu-nutrition
 #+CREATED:       [2020-10-30 Fri 12:01]
-#+LAST_MODIFIED: [2020-10-30 Fri 12:01]
+#+LAST_MODIFIED: [2021-02-15 Mon 22:26]
 
 ref: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=388&extra=page%3D13
 
-* 维生素B
-* 维生素E
-* 维生素C
+* recipe
+** dinner
+*** luan dun
+ 今天的晚餐：少拍了芹菜和两个鸡蛋。 先下的红色粗粮 (lentils) ，然后胡萝卜，芹菜。
+
+ [[file:../../../myPdfLib/clip/screen_2021-02-15_22-34-32.png]]
+
+* ref
+** 维生素B
+** 维生素E
+** 维生素C

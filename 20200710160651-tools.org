@@ -40,6 +40,7 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 ** [[file:./pages/远征.org][远征]]
 * Ref
 - https://www.parktool.com/product/docs
+- searchable tutorial https://www.parktool.com/blog/repair-help
 * check bike
 #+begin_export ascii
 graph TD

@@ -27,7 +27,7 @@ Similar to using Emacs instead of using IDE
 **** Tests base on time
 ***** 1,3,5,10,20,60 minutes, what's your best number?
 **** Tests with mixed plan
-*****
+***** The idea is to follow the attacks from the events
 ** How the efficiency is defined?
 ** How to listen to your body?
 ** How do you identify a plateaus?

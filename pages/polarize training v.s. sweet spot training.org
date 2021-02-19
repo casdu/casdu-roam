@@ -23,6 +23,7 @@ Similar to using Emacs instead of using IDE
 ** What is a better option when you are struggling with a workout session?
 ** How to tink a optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?
+*** I'd like to write a very specific step
 ** How the efficiency is defined?
 ** How to listen to your body?
 ** How do you identify a plateaus?

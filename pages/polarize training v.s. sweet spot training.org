@@ -46,6 +46,7 @@ Motivation is different from people to people. And cycling is sometimes viewed a
 **** It's unclear the cost of the time and the difficulty to finish the training session
 *** I personally feel not good not able to finish a sessesion but strangely, I cannot finish a session even I sometimes lower the intensity by 10%.
 ** Interesting post
+***
 *** Future
 #+BEGIN_QUOTE
 source "https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/725

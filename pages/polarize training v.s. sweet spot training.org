@@ -15,6 +15,7 @@
 - community
 *** my opinion
 **** It's fun to study, test, evaluate what I've learn
+Similar to using Emacs instead of using IDE
 ** What is the down-side of just following pre-defined plan?
 ** What is the issue with current Trainerroad user?
 *** Too hard to follow a session

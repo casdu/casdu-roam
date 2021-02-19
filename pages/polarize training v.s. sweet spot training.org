@@ -45,8 +45,8 @@ Motivation is different from people to people. And cycling is sometimes viewed a
 *** I am not able to consistently train all year round and I am not sure it is due to the over-prediction FTP. If an updated plan can lower the difficulty inconsistency, but at a cost of a little bit more time, I would definitely want to try the new plan.
 **** It's unclear the cost of the time and the difficulty to finish the training session
 *** I personally feel not good not able to finish a sessesion but strangely, I cannot finish a session even I sometimes lower the intensity by 10%.
-**** Interesting post
-***** more advanced plan builder
+** Interesting post
+*** more advanced plan builder
 https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/398
 ** meta info
 register: upto 388

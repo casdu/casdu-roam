@@ -21,7 +21,7 @@ Similar to using Emacs instead of using IDE
 *** Too hard to follow a session
 ** What is the most optimal training plan?
 ** What is a better option when you are struggling with a workout session?
-** How to tink a optimal training plan?
+** How to tink an optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?
 *** I'd like to write a very specific step to perform a test
 **** Tests base on time

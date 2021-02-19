@@ -25,7 +25,7 @@
 ** How do you identify a plateaus?
 *** not able to finish the plan
 **** how the ratio is defined?
-*** not able to
+*** not able to push XXX-watts over XXX-mins duaration?
 ** Why no plan fits all?
 
 We all have different backgrounds before cycling. 

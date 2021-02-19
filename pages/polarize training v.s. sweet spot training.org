@@ -48,6 +48,8 @@ Motivation is different from people to people. And cycling is sometimes viewed a
 ** Interesting post
 *** Future
 #+BEGIN_QUOTE
+ref"https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/725
+
 
  The Future is the TrainAsOne running app changes the programme as you complete workouts. Every workout you completes affects your next one.
 #+END_QUOTE

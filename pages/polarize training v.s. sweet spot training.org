@@ -13,6 +13,8 @@
 - podcast + blog
 - forum
 - community
+*** my opinion
+**** It's fun to study, test, evaluate what I've learn
 ** What is the down-side of just following pre-defined plan?
 ** What is the issue with current Trainerroad user?
 *** Too hard to follow a session

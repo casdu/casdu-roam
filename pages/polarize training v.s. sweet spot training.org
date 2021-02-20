@@ -1,5 +1,9 @@
 #+TITLE: polarize training v.s. sweet spot training
 
+** meta info
+register: 
+https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/839
+*** ref: https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136
 ** What is the polarize training?
 ** What is the difference between the 3-zone model and 7-zone model?
 ** Does polarized is better than sweet spot for people have 10 hour/week?
@@ -20,10 +24,6 @@ Similar to using Emacs instead of using IDE
 ** What is the issue with current Trainerroad user?
 *** Too hard to follow a session
 ** What is the most optimal training plan?
-** meta info
-register: 
-https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/839
-*** ref: https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136
 ** What is a better option when you are struggling with a workout session?
 ** How to tink an optimal training plan?
 ** How to test polarize trainig is better than sweet spot training?

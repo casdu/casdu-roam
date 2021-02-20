@@ -47,6 +47,8 @@ People have different stress in their life, e.g. from jobs, peer pressure, etc.
 Motivation is different from people to people. And cycling is sometimes viewed as a mental exercise instead of the body.
 ** Does an extra 5 hours per week necessary?
 Do you have any suggestion on a condition where 10 hours/week works just a little bit hard, but increasing the endurance training time, e.g. additional 5 hours, will it result in a better performance?
+** What is the difference between Zwift customized plan and TR plan?
+I hear a lots of people say how easy to make and modify the plan on TR.
 ** My feeling
 *** I am not able to consistently train all year round and I am not sure it is due to the over-prediction FTP. If an updated plan can lower the difficulty inconsistency, but at a cost of a little bit more time, I would definitely want to try the new plan.
 **** It's unclear the cost of the time and the difficulty to finish the training session

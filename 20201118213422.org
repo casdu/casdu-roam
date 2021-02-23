@@ -213,9 +213,9 @@
     #+TBLFM: @9$6=$currentFTP * (1.1 -0.95) / 3 + $currentFTP * 0.95;%.0f
 
 *** General Build Week 1
-    :PROPERTIES:
-    :ID:       19a50158-e341-497a-9b1b-db5afcaf36a6
-    :END:
+:PROPERTIES:
+:id: 19a50158-e341-497a-9b1b-db5afcaf36a6
+:END:
 
     | Day | Type | Set   | Rest/Target | SubSet | SubSet Ins | Rest | Instruction        |
     |-----+------+-------+-------------+--------+------------+------+--------------------|
@@ -243,7 +243,6 @@
     #+TBLFM: @13$6=$currentFTP * 1.00;%.0f
     #+TBLFM: @14$6=$currentFTP * 1.00;%.0f
     #+TBLFM: @16$6=$currentFTP * .85;%.0f
-
 *** General Build Week 2
     :PROPERTIES:
     :ID:       509fbd24-929a-488e-b8e1-2899320a07bb

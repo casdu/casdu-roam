@@ -1,6 +1,5 @@
 #+TITLE: actionable goals about cycling
 
-**
 ** “follow my training plan for 1 season”
 ** “nail the three important workouts each week”
 ** “sleep at least 7 hours per night”

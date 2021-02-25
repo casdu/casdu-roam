@@ -2,4 +2,4 @@
 
 ** Listen to my body or listen to the data?
 ** What is the goal?
-If a user only wants to pull FTP (RAMP test)
+If a user only wants to pull MAP using FTP-test (RAMP test), what's mechanism to adjust?

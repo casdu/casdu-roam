@@ -3,3 +3,5 @@
 ** Listen to my body or listen to the data?
 ** What is the goal?
 If a user only wants to pull MAP using FTP-test (RAMP test), what's mechanism to adjust?
+** How can a personal verify the method?
+*** What is the measurement?

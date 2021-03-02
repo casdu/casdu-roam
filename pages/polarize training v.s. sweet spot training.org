@@ -3,7 +3,15 @@
 ** meta info
 register: 
 https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/892
-*** reply
+*** TODO
+:PROPERTIES:
+:todo: 1614727699224
+:END:
+read Stephen Seiler's story: https://www.trainerroad.com/forum/t/stephen-seiler-stephenseiler-his-results/52770/145
+
+and https://www.trainerroad.com/forum/t/polarized-training-vs-sweet-spot-dylan-johnson-video/49280/662
+
+the goal
 *** I’m not sure I understand your question. Can you explain a bit further what you’re looking for?
 https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/2140
 ***

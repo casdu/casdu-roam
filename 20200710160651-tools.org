@@ -15,6 +15,9 @@
 ** 五通/Bottom Bracket
 ** [[中轴]]/Crank
 ** 飞轮/Cassette
+   :PROPERTIES:
+   :ID:       692d9d1c-b09d-481e-9aeb-eff64b4c2f53
+   :END:
 ** 车架/Frame
 :PROPERTIES:
 :id: 5fb5c776-e522-42b9-86f1-fb9800b02214

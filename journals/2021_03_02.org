@@ -1,3 +1,3 @@
 #+TITLE: Mar 2nd, 2021
 
-** [[file:../20201118213422.org][sweet spot interval training]]
+** [[file:../pages/polarize training v.s. sweet spot training.org][polarize training v.s. sweet spot training]]

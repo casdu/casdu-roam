@@ -3,10 +3,11 @@
 ** meta info
 register: 
 https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/892
-*** DONE read Stephen Seiler's story
+*** DOING read Stephen Seiler's story
 :PROPERTIES:
-:todo: 1614727706079
+:todo: 1614727729728
 :done: 1614727728953
+:doing: 1614727732655
 :END:
 https://www.trainerroad.com/forum/t/stephen-seiler-stephenseiler-his-results/52770/145
 

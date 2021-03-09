@@ -1,8 +1,8 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2020-11-25 Wed 17:42]
-#+CONSTANTS: oldFTP=260
-#+CONSTANTS: currentFTP=260
+#+LAST_MODIFIED: [2021-03-09 Tue 12:31]
+#+CONSTANTS: oldFTP=255
+#+CONSTANTS: currentFTP=255
 
 ** Base I
 *** Base I Week 1
@@ -152,14 +152,14 @@
     :PROPERTIES:
     :ID:       d8556aa6-ed39-40b1-8c9d-938a4cdb3ece
     :END:
-    | Day | Set       | Target | Rest | Instruction |
-    |-----+-----------+--------+------+-------------|
-    |   0 | 5x15m     |    243 | 7m   | -           |
-    |   1 | 4x15m     |    246 | 6m   | -           |
-    |   2 | 4x(2x9)m  |    238 | 7m   | r2m         |
-    |   3 | REC       |      - | -    | 60m         |
-    |   4 | 3x(3x10)m |    240 | 5m   | r1m         |
-    |   5 | 7x10m     |    243 | 5m   | -           |
+    | Day | Set       | Target | Rest | REP | Instruction |
+    |-----+-----------+--------+------+-----+-------------|
+    |   0 | 5x15m     |    232 | 7m   |   7 | -           |
+    |   1 | 4x15m     |    235 | 6m   |   7 | -           |
+    |   2 | 4x(2x9)m  |    227 | 7m   |     | r2m         |
+    |   3 | REC       |      - | -    |     | 60m         |
+    |   4 | 3x(3x10)m |    230 | 5m   |     | r1m         |
+    |   5 | 7x10m     |    232 | 5m   |     | -           |
     #+TBLFM: @2$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.89;%.0f

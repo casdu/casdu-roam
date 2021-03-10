@@ -1,75 +1,85 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2021-03-09 Tue 12:31]
+#+LAST_MODIFIED: [2021-03-10 Wed 14:48]
 #+CONSTANTS: oldFTP=255
 #+CONSTANTS: currentFTP=255
 
 ** Base I
+*** Base I Week 0
+    | Day | Set         | Target | Rest   | REP | Instruction                |
+    |-----+-------------+--------+--------+-----+----------------------------|
+    |   0 | RAMP        |      - | -      |   - | -                          |
+    |   1 | 3x12m       |    235 | 3m     |   7 | -                          |
+    |   2 | 5x12m       |    232 | 4m     |   7 | -                          |
+    |   3 | REC         |      - | -      |   - | 60m                        |
+    |   4 | 3x20m       |    230 | 15     |   7 | -                          |
+    |   5 | 3x(15+15) m |    230 | r1mR5m |   7 | rest 30s/12m in subsub/sub |
+    #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.90;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.90;%.0f
+
 *** Base I Week 1
 :PROPERTIES:
 :id: b168b116-0b5e-436e-ba5c-78b8506e7eeb
 :END:
-*** Base I Week 2
-:PROPERTIES:
-:id: 71636d72-6eea-4316-ac99-2bc31ee059d0
-:END:
-    | Day | Set          | Target | Rest | Instruction                |
-    |-----+--------------+--------+------+----------------------------|
-    |   0 | 5x12m        |    239 | 5m   | -                          |
-    |   1 | 7x6m         |    237 | 1m   | -                          |
-    |   2 | 5x12m        |    237 | 4m   | -                          |
-    |   3 | REC          |      - | -    | 60m                        |
-    |   4 | 3x(15 + 15)m |    221 | 5m   | -                          |
-    |   5 | 3x(4x5) m    |    237 | 12m  | rest 30s/12m in subsub/sub |
+    | Day | Set          | Target | Rest     | REP | Instruction |
+    |-----+--------------+--------+----------+-----+-------------|
+    |   0 | 5x10m        |    239 | 5m       |   7 | -           |
+    |   1 | 7x6m         |    237 | 1m       |   7 | -           |
+    |   2 | 5x12m        |    237 | 4m       |   7 | -           |
+    |   3 | REC          |      - | -        |   - | 60m         |
+    |   4 | 3x(15 + 15)m |    221 | 5m       |   7 | -           |
+    |   5 | 3x(4x5) m    |    237 | r30sR12m |   7 | -           |
     #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @6$3=$currentFTP * 0.85;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.88;%.0f
-*** Base I Week 3
+*** Base I Week 2
 :PROPERTIES:
-:id: 81ef790c-6870-47f6-ab6b-ca221f51332b
+:id: 71636d72-6eea-4316-ac99-2bc31ee059d0
 :END:
-    | Day | Set       | Target | Rest   | Instruction |
-    |-----+-----------+--------+--------+-------------|
-    |   0 | 5x12m     |    239 | 4m     | -           |
-    |   1 | 3x15m     |    242 | 3m     | -           |
-    |   2 | 3x(2x10)m |    237 | r1mR5m | -           |
-    |   3 | REC       |      - | -      | 60m         |
-    |   4 | 4x(2x9)m  |    237 | r2mR7m | -           |
-    |   5 | 5x15m     |    242 | 6m     | -           |
+    | Day | Set       | Target | Rest   | REP | Instruction |
+    |-----+-----------+--------+--------+-----+-------------|
+    |   0 | 5x12m     |    239 | 4m     |   7 | -           |
+    |   1 | 3x15m     |    242 | 3m     |   7 | -           |
+    |   2 | 3x(2x10)m |    237 | r1mR5m |   7 | -           |
+    |   3 | REC       |      - | -      |   - | 60m         |
+    |   4 | 4x(2x9)m  |    237 | r2mR7m |   7 | -           |
+    |   5 | 5x15m     |    242 | 6m     |   7 | -           |
     #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.93;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @6$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @7$3=$currentFTP * 0.93;%.0f
-*** Base I Week 4
-    :PROPERTIES:
-    :ID:       0eca56ee-34ba-49ec-a376-a5cbc8f3cb00
-    :END:
-    | Day | Set   | Target | Rest | Instruction          |
-    |-----+-------+--------+------+----------------------|
-    | 0   | 3x20m |      - | -    | -                    |
-    | s1  | -     |    238 | 5m   | -                    |
-    | s2  | -     |    248 | 5m   | -                    |
-    | s3  | -     |    243 | 5m   | -                    |
-    | 1   | 6x10m |      - | 3m   | rest after s1 and s2 |
-    | s1  | -     |    219 | -    | -                    |
-    | s2  | -     |    230 | -    | -                    |
-    | s3  | -     |    211 | -    | -                    |
-    | s4  | -     |    219 | -    | -                    |
-    | s5  | -     |    230 | -    | -                    |
-    | s6  | -     |    211 | -    | -                    |
-    | 2   | 3x20m |        | 5m   | -                    |
-    | s1  | -     |    238 | -    | -                    |
-    | s2  | -     |    248 | -    | -                    |
-    | s3  | -     |    243 | -    | -                    |
-    | 3   | REC   |      - | -    | 60m                  |
-    | 4   | -     |      - | 5m   | -                    |
-    | s1  | 2x15m |    238 | 1m   | -                    |
-    | s2  | 3x10m |    238 | 1m   | -                    |
-    | s3  | 3x10m |    238 | 1m   | -                    |
-    | 5   | 4x20m |    238 | 6m   | -                    |
+*** Base I Week 3
+:PROPERTIES:
+:id: 81ef790c-6870-47f6-ab6b-ca221f51332b
+:END:
+    | Day | Set   | Target | Rest | REP | Instruction          |
+    |-----+-------+--------+------+-----+----------------------|
+    | 0   | 3x20m |      - | -    | 7   | -                    |
+    | s1  | -     |    238 | 5m   | -   | -                    |
+    | s2  | -     |    248 | 5m   | -   | -                    |
+    | s3  | -     |    243 | 5m   | -   | -                    |
+    | 1   | 6x10m |      - | 3m   | 8   | rest after s1 and s2 |
+    | s1  | -     |    219 | -    | -   | -                    |
+    | s2  | -     |    230 | -    | -   | -                    |
+    | s3  | -     |    211 | -    | -   | -                    |
+    | s4  | -     |    219 | -    | -   | -                    |
+    | s5  | -     |    230 | -    | -   | -                    |
+    | s6  | -     |    211 | -    | -   | -                    |
+    | 2   | 3x20m |        | 5m   | 7   | -                    |
+    | s1  | -     |    238 | -    | -   | -                    |
+    | s2  | -     |    248 | -    | -   | -                    |
+    | s3  | -     |    243 | -    | -   | -                    |
+    | 3   | REC   |      - | -    | -   | 60m                  |
+    | 4   | -     |      - | 5m   | 7   | -                    |
+    | s1  | 2x15m |    238 | 1m   | -   | -                    |
+    | s2  | 3x10m |    238 | 1m   | -   | -                    |
+    | s3  | 3x10m |    238 | 1m   | -   | -                    |
+    | 5   | 4x20m |    238 | 6m   | 8   | -                    |
     #+TBLFM: @3$3=$currentFTP * 0.89;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.93;%.0f
     #+TBLFM: @5$3=$currentFTP * 0.91;%.0f
@@ -87,26 +97,43 @@
     #+TBLFM: @21$3=$currentFTP * 0.89;%.0f
     #+TBLFM: @22$3=$currentFTP * 0.89;%.0f
 
+*** Base I Week 4
+    :PROPERTIES:
+    :ID:       0eca56ee-34ba-49ec-a376-a5cbc8f3cb00
+    :END:
+    | Day | Set       | Target | Rest  | REP | Instruction          |
+    |-----+-----------+--------+-------+-----+----------------------|
+    |   0 | 3x20m     |    235 | -     |   7 | -                    |
+    |   1 | 3x20m     |      - | 3m    |   8 | rest after s1 and s2 |
+    |   2 | 3x20m     |    237 | 3m    |   7 | Ramp as T; flat 2nd  |
+    |   3 | REC       |      - | -     |   - | 60m                  |
+    |   4 | 3x(3x10)m |    235 | r1R5m |   7 | -                    |
+    |   5 | 4x20m     |    230 | 6m    |   7 | -                    |
+    #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @4$3=$currentFTP * 0.93;%.0f
+    #+TBLFM: @6$3=$currentFTP * 0.92;%.0f
+    #+TBLFM: @7$3=$currentFTP * 0.90;%.0f
+
 *** Base I Week 5
     :PROPERTIES:
     :ID:       39dff472-f6fe-4f91-a218-8d9bb9eba28d
     :END:
 
-    Rest week.
+    Rest week. 1h zone-2 rides.
 
 ** Base II
 *** Base II Week 0
     :PROPERTIES:
     :ID:       2ceda0ca-df42-447c-abc0-2cf430e8a7fc
     :END:
-    | Day | Set   | Target | Rest | Instruction    |
-    |-----+-------+--------+------+----------------|
-    |   0 | FTP   |      - | -    | -              |
-    |   1 | 3x20m |    229 | 5m   | rest 1m in sub |
-    |   2 | 3x20m |    237 | 12m  | rest 1m in sub |
-    |   3 | REC   |      - | -    | 60m            |
-    |   4 | 5x15m |    239 | 7m   | -              |
-    |   5 | 7x10m |    242 | 7m   | -              |
+    | Day | Set   | Target | Rest | REP | Instruction    |
+    |-----+-------+--------+------+-----+----------------|
+    |   0 | FTP   |      - | -    |   - | -              |
+    |   1 | 3x20m |    229 | 5m   |   7 | rest 1m in sub |
+    |   2 | 3x20m |    237 | 12m  |   7 | rest 1m in sub |
+    |   3 | REC   |      - | -    |   - | 60m            |
+    |   4 | 5x15m |    239 | 7m   |   7 | -              |
+    |   5 | 7x10m |    242 | 7m   |   8 | -              |
     #+TBLFM: @3$3=$currentFTP * 0.88;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @6$3=$currentFTP * 0.92;%.0f
@@ -116,14 +143,14 @@
     :PROPERTIES:
     :ID:       33860380-5994-4c1f-b697-a3336eee34b9
     :END:
-    | Day | Set   | Target | Rest | Instruction    |
-    |-----+-------+--------+------+----------------|
-    |   0 | 6x10m |    239 | 5m   | -              |
-    |   1 | 5x12m |    239 | 4m   | -              |
-    |   2 | 3x20m |    237 | 12m  | -              |
-    |   3 | REC   |      - | -    | 60m            |
-    |   4 | 4x20m |    237 | 5m   | -              |
-    |   5 | 3x20m |    237 | 12m  | rest 1m in sub |
+    | Day | Set   | Target | Rest | REP | Instruction    |
+    |-----+-------+--------+------+-----+----------------|
+    |   0 | 6x10m |    239 | 5m   |   8 | -              |
+    |   1 | 5x12m |    239 | 4m   |   7 | -              |
+    |   2 | 3x20m |    237 | 12m  |   7 | -              |
+    |   3 | REC   |      - | -    |   - | 60m            |
+    |   4 | 4x20m |    237 | 5m   |   7 | -              |
+    |   5 | 3x20m |    237 | 12m  |   7 | rest 1m in sub |
     #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.91;%.0f
@@ -134,14 +161,14 @@
     :PROPERTIES:
     :ID:       92520dda-10ab-4ab0-bebd-27e210011d58
     :END:
-    | Day | Set   | Target | Rest | Instruction    |
-    |-----+-------+--------+------+----------------|
-    |   0 | 3x20m |    246 | 12m  | rest 1m in sub |
-    |   1 | 3x20m |    246 | 4m   | -              |
-    |   2 | 7x10m |    246 | 5m   | -              |
-    |   3 | REC   |      - | -    | 60m            |
-    |   4 | 4x20m |    240 | 6m   | -              |
-    |   5 | 3x30m |    227 | 5m   | rest 1m in sub |
+    | Day | Set   | Target | Rest | REP | Instruction    |
+    |-----+-------+--------+------+-----+----------------|
+    |   0 | 3x20m |    246 | 12m  |   7 | rest 1m in sub |
+    |   1 | 3x20m |    246 | 4m   |   7 | -              |
+    |   2 | 7x10m |    246 | 5m   |   8 | -              |
+    |   3 | REC   |      - | -    |   - | 60m            |
+    |   4 | 4x20m |    240 | 6m   |   7 | -              |
+    |   5 | 3x30m |    227 | 5m   |   7 | rest 1m in sub |
     #+TBLFM: @2$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.92;%.0f
@@ -156,10 +183,10 @@
     |-----+-----------+--------+------+-----+-------------|
     |   0 | 5x15m     |    232 | 7m   |   7 | -           |
     |   1 | 4x15m     |    235 | 6m   |   7 | -           |
-    |   2 | 4x(2x9)m  |    227 | 7m   |     | r2m         |
-    |   3 | REC       |      - | -    |     | 60m         |
-    |   4 | 3x(3x10)m |    230 | 5m   |     | r1m         |
-    |   5 | 7x10m     |    232 | 5m   |     | -           |
+    |   2 | 4x(2x9)m  |    227 | 7m   |   8 | r2m         |
+    |   3 | REC       |      - | -    |   - | 60m         |
+    |   4 | 3x(3x10)m |    230 | 5m   |   7 | r1m         |
+    |   5 | 7x10m     |    232 | 5m   |   7 | -           |
     #+TBLFM: @2$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.92;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.89;%.0f
@@ -170,14 +197,14 @@
     :PROPERTIES:
     :ID:       8a9da84f-447e-460b-b5c4-b21383d487ae
     :END:
-    | Day | Set       | Target | Rest | Instruction |
-    |-----+-----------+--------+------+-------------|
-    |   0 | 4x20m     |    237 | 6m   | -           |
-    |   1 | 3x20m     |    240 | 5m   | -           |
-    |   2 | 3x(3x10)m |    234 | 5m   | 1m          |
-    |   3 | REC       |      - | -    | 90m         |
-    |   4 | 6x15m     |    237 | 3m   | -           |
-    |   5 | 4x(2x9)m  |    243 | 7m   | 2m          |
+    | Day | Set       | Target | Rest | REP | Instruction |
+    |-----+-----------+--------+------+-----+-------------|
+    |   0 | 4x20m     |    237 | 6m   |   7 | -           |
+    |   1 | 3x20m     |    240 | 5m   |   7 | -           |
+    |   2 | 3x(3x10)m |    234 | 5m   |   8 | 1m          |
+    |   3 | REC       |      - | -    |   - | 90m         |
+    |   4 | 6x15m     |    237 | 3m   |   7 | -           |
+    |   5 | 4x(2x9)m  |    243 | 7m   |   8 | -           |
     #+TBLFM: @2$3=$currentFTP * 0.91;%.0f
     #+TBLFM: @3$3=$currentFTP * 0.925;%.0f
     #+TBLFM: @4$3=$currentFTP * 0.90;%.0f
@@ -339,6 +366,7 @@
 
     Recover week. No intense training. Just do easy ridings.
 
+** Short Power Build
 ** Climb Hill
 *** Climb Hill Week 0
     :PROPERTIES:
@@ -549,7 +577,7 @@
     #+TBLFM: @13$6=1.15*$currentFTP;%.0f::@14$6=1.04*$currentFTP;%.0f::@15$6=.95*$currentFTP;%.0f::@16$6=1.04*$currentFTP;%.0f::@17$6=1.15*$currentFTP;%.0f::@19$4=.99*$currentFTP;%.0f::@23$6=.85*$currentFTP;%.0f
 
 ** FTP Test
-*** FTP Test Steps
+*** Outdoor FTP Test Steps
     :PROPERTIES:
     :ID:       9b90ab94-7c96-4e85-9872-3e95a24a8c25
     :END:
@@ -595,8 +623,5 @@
     #+TBLFM: @7$4=$currentFTP * .93;%.0f
 
     # This is my personal experiment I did in May 2019. Although I
-    # know my body has its limitation, I want to know how much can I
-    # push. In that real training week, I just cannot continue in
-    # Day 4. I think that the take away message from this experiment
-    # is just to stick with the plan. Rest is as important as the hard
-    # interval sections.
+    # knew my body has a limitation, I wanted to know how much can I
+    # push. In that week, I cannot continue in Day 4.

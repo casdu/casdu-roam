@@ -10,6 +10,6 @@
 **** chain remove tool saves me a lot
 ***** I used  to remove the quick-release chain by bare hand on an elongate chain (too much pain)
 **** use big seat-bag
-****
+**** shinano
 ** [[Machine learning in cycling training]]
 *** That's when I start to really look into ML.

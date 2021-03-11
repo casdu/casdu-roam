@@ -20,5 +20,5 @@
 **** My derailleur is not accurate
 - switch to big gear no big issue
 - switch to small gear is the most headache one
--
+- new chain and ((692d9d1c-b09d-481e-9aeb-eff64b4c2f53)) is incompatible, which I feel strange. They are new components, should have no issue? Does it mean that the chainring has some issue?
 ****

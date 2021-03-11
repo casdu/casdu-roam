@@ -29,6 +29,9 @@
 ** /Bear
 https://www.youtube.com/watch?v=hRLbamNQa_0
 ** /dérailleur
+   :PROPERTIES:
+   :ID:       db3a2328-e4c0-40b1-b424-247f56e5b182
+   :END:
 *** front dérailleur
 *** rear dérailleur
 **** Di2

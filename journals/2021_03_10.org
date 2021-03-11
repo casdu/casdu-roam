@@ -5,4 +5,4 @@
 - limited tools
 - 23, 25, 28, ... Are they interchangeable?
 *** Tips
-****
+**** chain remove tool saves me a lot

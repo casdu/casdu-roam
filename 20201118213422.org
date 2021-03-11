@@ -1,11 +1,17 @@
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2021-03-10 Wed 14:48]
+#+LAST_MODIFIED: [2021-03-10 Wed 21:27]
 #+CONSTANTS: oldFTP=255
 #+CONSTANTS: currentFTP=255
 
 ** Base I
+   :PROPERTIES:
+   :ID:       05f583f8-4f81-419d-bfc2-5ca600a34d09
+   :END:
 *** Base I Week 0
+    :PROPERTIES:
+    :ID:       d68c0230-26bd-4116-946f-d6690a67a7a6
+    :END:
     | Day | Set         | Target | Rest   | REP | Instruction                |
     |-----+-------------+--------+--------+-----+----------------------------|
     |   0 | RAMP        |      - | -      |   - | -                          |
@@ -122,6 +128,9 @@
     Rest week. 1h zone-2 rides.
 
 ** Base II
+   :PROPERTIES:
+   :ID:       7301ce4e-b887-474b-b3d0-194420aedfca
+   :END:
 *** Base II Week 0
     :PROPERTIES:
     :ID:       2ceda0ca-df42-447c-abc0-2cf430e8a7fc
@@ -212,6 +221,9 @@
     #+TBLFM: @7$3=$currentFTP * 0.91;%.0f
 
 ** General Build
+   :PROPERTIES:
+   :ID:       be720c18-e5a1-4263-bb27-0d3c21cf69ab
+   :END:
 *** General Build Week 0
     :PROPERTIES:
     :ID:       2e7cd540-8c90-48a4-bfe0-6610d9952e25
@@ -367,6 +379,9 @@
     Recover week. No intense training. Just do easy ridings.
 
 ** Short Power Build
+   :PROPERTIES:
+   :ID:       0520ce73-b89e-4678-8aa5-697f60010a67
+   :END:
 ** Climb Hill
 *** Climb Hill Week 0
     :PROPERTIES:

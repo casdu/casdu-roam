@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 ** /dérailleur
 *** front dérailleur
 *** rear dérailleur
+**** Di2
+**** Etab
 ** Fork
 ** Chain
 * 按需推荐

@@ -13,4 +13,4 @@
 **** shinano hand protection gloves save my hand
 ** [[Machine learning in cycling training]]
 *** That's when I start to really look into ML.
-** [[file:../pages/training.org][training]]
+** [[My training story]]

@@ -3,4 +3,4 @@
 ** [[bike fix]]
 *** How to remove tire on the road more easily?
 - limited tools
--
+- 23, 25, 28, ... Are the interchangble?

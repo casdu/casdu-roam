@@ -14,3 +14,5 @@
 ** [[Machine learning in cycling training]]
 *** That's when I start to really look into ML.
 ** [[My training story]]
+*** Just want to write
+*** Today, I've done SSB High Volume 2 week 4 ((8a9da84f-447e-460b-b5c4-b21383d487ae))

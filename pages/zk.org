@@ -3,7 +3,9 @@
 ** ZK 使用方法
 *** 纸制和电子化的区别
 **** 卢曼实现 “transclusion” 的方式
-*****
+***** 编号
+****** 编号本身有助于存档
+****** 编号
 ** Discussion on Internet
    :PROPERTIES:
    :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70

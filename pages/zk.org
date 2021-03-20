@@ -2,7 +2,7 @@
 ** [[file:./什么是zk.org][什么是ZK]]
 ** ZK 使用方法
 *** 纸制和电子化的区别
-**** 卢曼不可能
+**** 卢曼实现“transclusion”
 ** Discussion on Internet
    :PROPERTIES:
    :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70

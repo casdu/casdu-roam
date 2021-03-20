@@ -5,7 +5,7 @@
 **** 卢曼实现 “transclusion” 的方式
 ***** 编号
 ****** 编号本身有助于存档
-卢曼在和其 ZK 互动时，很大可能性是将
+卢曼在和其 ZK 互动时，很大可能性是将相关卡片摆放在工作
 ****** 编号作为指针
 ** Discussion on Internet
    :PROPERTIES:

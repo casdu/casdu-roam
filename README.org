@@ -1,12 +1,1 @@
-* 如果 casduer 感兴趣的话，请点开 [[https://github.com/casdu/casdu-brain/issues/new][Issue]] 把遇到的问题描述下来，我会帮助你的。
-  :PROPERTIES:
-  :ID:       2da9b459-21c5-4b9c-8b2f-c508a29e1959
-  :END:
-
-
-
-
-
-- 使用  [[https://logseq.com/][logseq]] 作为编辑界面
-- 可配合 [[https://github.com/org-roam/org-roam][Org-roam]]
-- 会添加一些使用指南在这里。
+.

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       2a9d71ea-17da-4125-b41a-0eb27d0f36a8
+:END:
 #+TITLE: Feb 21st, 2021
 
 ** [[file:../pages/polarize training v.s. sweet spot training.org][polarize training v.s. sweet spot training]]

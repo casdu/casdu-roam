@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       19fc3ec3-15b5-4bba-98e3-385a3cf1456e
+:END:
 #+TITLE: page file name format test
 
 ** This is a test

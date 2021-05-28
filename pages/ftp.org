@@ -1,4 +1,9 @@
+:PROPERTIES:
+:ID:       a68b9d38-d637-4fb5-9b62-0657e0a2861b
+:END:
 #+TITLE: FTP
 
+** how to improve
+   - [[https://www.trainerroad.com/blog/coach-chads-5-favorite-workouts-to-increase-your-ftp/?utm_source=newsletter&utm_medium=email&utm_campaign=weekly-newsletter-48&utm_content=latest-2][Coach Chad’s 5 Favorite Workouts to Increase Your FTP]]
 ** Kolie Moore FTP protocol
 https://www.trainerroad.com/forum/t/kolie-moores-ftp-test-protocol/24686

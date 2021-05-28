@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       dc743a48-2b4d-4048-ba28-be5df5e62773
+:END:
 #+TITLE: 竞技
 
 ** why it matters?

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9aec8667-abc2-4765-a623-f47d167d9a4b
+:END:
 #+TITLE: 整理论坛
 
 ** [[活动专区]]

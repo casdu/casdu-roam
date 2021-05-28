@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       21938419-f724-471e-9572-f463f8744442
+:END:
 #+TITLE: Feb 23rd, 2021
 
 ** [[file:../pages/ftp.org][FTP]]
@@ -10,19 +13,19 @@ The goal is kinda weird and conflicts with the goals or TR’s training plans.
 
 In my opinion, my goal is very clear. Try to raise the number during the last minute of the RAMP test.
 
-I set this goal because I do not have any chance to race. Maybe one in a year or once in two years. This is not to say that I do not like race. I like to race but I do not have this privilege too often. Instead, I am seeking a tangible goal. 
+I set this goal because I do not have any chance to race. Maybe one in a year or once in two years. This is not to say that I do not like race. I like to race but I do not have this privilege too often. Instead, I am seeking a tangible goal.
 
 [quote="OreoCookie, post:12, topic:53833"]
 For example, the goal of the specialty phase is *not* to raise your FTP
 [/quote]
 
-This is the reason why I avoid specialty phase because I found that I do not have too much FTP progress after finishing this. 
+This is the reason why I avoid specialty phase because I found that I do not have too much FTP progress after finishing this.
 
 [quote="OreoCookie, post:12, topic:53833"]
 Short power build emphasizes shorter efforts.
 [/quote]
 
-This is the reason why I prefer short power because I think the RAMP test is more correlated to short maximum power.  
+This is the reason why I prefer short power because I think the RAMP test is more correlated to short maximum power.
 
 [quote="OreoCookie, post:12, topic:53833"]
 What you are asking is to get good at one test
@@ -43,7 +46,7 @@ I like your idea about process goals instead of "target" goals. Yes, 300 watts i
 
 > “If a man knows not which port he sails, no wind is favorable.” – Seneca
 
-Thanks for your suggestion on these [[file:../pages/actionable goals about cycling.org][actionable goals about cycling]] 
+Thanks for your suggestion on these [[file:../pages/actionable goals about cycling.org][actionable goals about cycling]]
 
 I will add them as my sub-goal during this journey.
 

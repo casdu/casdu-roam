@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       aadef34d-4442-43e1-a504-100b5f776dd1
+:END:
 #+TITLE: Dec 6th, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]]  Test Week 1 最后一天。

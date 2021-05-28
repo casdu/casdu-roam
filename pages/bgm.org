@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       14181372-e4b0-4762-9cf0-9aa72c82d723
+:END:
 #+TITLE: BGM
 
 ** [[我们曾经走过的那些路上印在记忆里的BGM]]

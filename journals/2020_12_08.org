@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       9ad9ca23-340b-4239-901e-74fba26033d7
+:END:
 #+TITLE: Dec 8th, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]] 第二测试周.

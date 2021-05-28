@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       20d1516f-ac3a-4f6c-a1c2-238688f4ce78
+:END:
 #+title: post a thread
 
 时间：10.1-10.8

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       dad480dc-5d86-4ff8-b0cc-d2d0704cb6a1
+:END:
 #+TITLE: 远征
 
 **  [[远征历年检索]]

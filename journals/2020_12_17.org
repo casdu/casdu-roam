@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       77f97534-2bd1-4fbd-aef3-c572d044e88a
+:END:
 #+TITLE: Dec 17th, 2020
 
 ** UUID test ((5fbade1a-afde-4ef5-97c7-5a11a77eea06))

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       a68fcefb-0a58-47a0-8652-358ca2b10159
+:END:
 #+TITLE: why cycling
 
 ** To me part of reason is because of Serotonin.
- 
+
 How to increase serotonin in the human brain without drugs
 Young cite:young2007increase introduces four methods to increase Serotonin without using drag: improvement in mood, exposed to sunlight,
 exercise, and good diet.

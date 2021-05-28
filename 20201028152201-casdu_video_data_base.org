@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       3cbf7abf-6969-4c89-8c59-cbe8358a1733
+:END:
 #+TITLE: casdu-video-data-base
 #+CREATED:       [2020-10-28 Wed 15:22]
-#+LAST_MODIFIED: [2020-10-28 Wed 15:24]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 * 周年
 ** [七周年](https://video.tudou.com/v/XMjI3MTQ4MTE2.html)
@@ -19,9 +22,9 @@ I would like the database has such following features:
 3. catogize into different list with
 
 I think the .mkv .mp4 all these video clip should has UUID.
-User can check the content of the video with trivial effort. 
+User can check the content of the video with trivial effort.
 
-[[file:./pages/thoughts_on_using_zk_as_video_index.org][thoughts on using ZK as video index]] 
+[[file:./pages/thoughts_on_using_zk_as_video_index.org][thoughts on using ZK as video index]]
 
 > 单是从存储上下手，将每次活动的照片整理分类已经很不容易。
 How do I organize my file system?

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4ae963cb-8beb-4e0d-b796-869a22473860
+:END:
 #+title: other than bike tools
 
 * what kind of info that is important?

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       68df45c0-a33a-46b2-928f-fda10e9a8b3b
+:END:
 #+TITLE: jan 29th, 2021
 
 ** This is a test from logseq local version.
@@ -8,7 +11,7 @@
 **** write an introduction on Logseq
 **** write an [[introduction on collaboration]]
 ** Issue observed
-*** preference is not saved 
+*** preference is not saved
 Every time the software opened, it will set the prefer format as markdown mode instead of org-mode
 **** for example, if I close the software and reopen it to this repo
 I will not be able to use `org-mode` format. After manually setup the preference again, it will set the format as `org-mode`. I think this is an issue with the preference order.

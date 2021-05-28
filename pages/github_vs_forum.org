@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c61e5cee-521f-4cb7-9d6c-64a5af666132
+:END:
 #+TITLE: github vs forum
 
 ** GitHub 和 论坛一样，有其长，有其短。虽然 GitHub 有很多值得称赞的地方，

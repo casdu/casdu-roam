@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e255fd82-24e2-48bd-90f5-47bcba8c82a2
+:END:
 #+TITLE: Nov 23rd, 2020
 
 ** orgit has a functionality to store a git:rev link [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]

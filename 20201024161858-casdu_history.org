@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       fbbe0806-9f1b-44a8-8c2c-8d955141ea25
+:END:
 #+title: casdu history
 
 * 2004

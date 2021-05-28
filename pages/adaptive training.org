@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7155ae58-6dc1-43ff-b936-99440dafbd81
+:END:
 #+TITLE: Adaptive Training
 
 ** Listen to my body or listen to the data?

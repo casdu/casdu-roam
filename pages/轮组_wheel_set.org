@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4401c407-a85b-4429-a7cd-050a2ff53bad
+:END:
 #+TITLE: 轮组/Wheel set
 
 ** [[]]

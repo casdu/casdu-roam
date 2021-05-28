@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       2f3bc6cb-b8f9-447a-b914-a8626447481d
+:END:
 #+TITLE: logseq
 
 ** search panel is good

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       fa43c552-9e7c-4b59-aaa8-c9a8037e92d3
+:END:
 #+TITLE: Dec 12th, 2020
 
 ** 看到[[https://sspai.com/post/64009][浮墨的简介]]，扩展了[[file:../pages/什么是zk.org][什么是ZK]]

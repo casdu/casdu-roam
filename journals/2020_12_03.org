@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6a828428-3ec3-427d-9695-f3b1eb92ab87
+:END:
 #+TITLE: Dec 3rd, 2020
 
 ** beatiful website: https://hugocisneros.com/org-config/#org-roam using org-roam, maybe I can try it with our site?

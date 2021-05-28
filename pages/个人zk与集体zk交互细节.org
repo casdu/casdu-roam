@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4c24c45b-6b2b-434b-83bc-e146984e49a5
+:END:
 #+TITLE: 个人ZK与集体ZK交互细节
 
 ** 都归入 Git 版本控制

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       4894c05a-8791-462a-b064-aa884f5c37dc
+:END:
 #+TITLE: fix bike frequently questions
 #+CREATED:       [2020-12-04 Fri 18:23]
-#+LAST_MODIFIED: [2020-12-04 Fri 18:23]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:01]
 ** 前拨安装位置？
 ** 如何取下魔术扣？
 ** 什么是合适的链条长度？

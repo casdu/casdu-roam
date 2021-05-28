@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ae87369d-fabd-4b63-aa73-2eac339506e3
+:END:
 #+TITLE: casdu-120
 #+CREATED:       [2020-10-30 Fri 12:04]
 *+LAST_MODIFIED: [2020-10-30 Fri 12:04]

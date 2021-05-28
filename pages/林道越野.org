@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       490890eb-c538-4fd8-ad7f-9163bae735a5
+:END:
 #+TITLE: 林道越野
 
 ** 前轮若经历滑动摩擦，通常是致命危险。

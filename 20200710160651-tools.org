@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3c01fbd0-5270-4a5c-a8c9-591744d6c0ed
+:END:
 #+title: bike tools
 
 * 常用分类

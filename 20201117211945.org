@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       90be3a4b-4324-4603-8ed2-c9baccc22caa
+:END:
 #+TITLE: 满足带队的最小条件
 #+CREATED:       [2020-11-17 Tue 21:19]
-#+LAST_MODIFIED: [2020-11-18 Wed 22:52]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 ** 1. 最低车况安全要求
 ** 2. GPS 导航

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4069b0e9-7ea6-4b3e-98b3-147036610401
+:END:
 #+TITLE: Dec 9th, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]] 测试周2 第2天

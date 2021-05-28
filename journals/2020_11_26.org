@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       25058a95-a65c-4012-b6a9-e68133fbcf0d
+:END:
 #+TITLE: Nov 26th, 2020
 
 ** [[file:../pages/十三山.org][十三山]]

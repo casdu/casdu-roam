@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       08493b90-9059-4f23-af92-d9799ba47ba5
+:END:
 #+TITLE: Dec 5th, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]] Week1 过度日。

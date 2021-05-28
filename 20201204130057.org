@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       e859e4ac-9577-4416-a079-19a20adb44c7
+:END:
 #+TITLE: issue with tools
 #+CREATED:       [2020-12-04 Fri 13:00]
-#+LAST_MODIFIED: [2020-12-04 Fri 13:06]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:01]
 
 http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11893
 

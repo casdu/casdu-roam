@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       6817e7f8-c0ec-4460-bc17-2cef1c8717d9
+:END:
 #+TITLE: naming-a-star
 #+CREATED:       [2020-10-27 Tue 10:49]
-#+LAST_MODIFIED: [2020-10-27 Tue 16:16]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:27]
 
 - Choose a name and dedication for your star
 

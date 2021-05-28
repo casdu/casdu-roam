@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f50df3dc-1be3-414b-b4f0-d9dd55f49f3d
+:END:
 #+TITLE: training blog
 
 ** https://sparecycles.blog/

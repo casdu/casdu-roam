@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       90d97d85-a37f-40f8-82e7-6144fc9d8b98
+:END:
 #+TITLE: Feb 25th, 2021
 
 ** [[Adaptive Training]]

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       c9af88f2-8bc6-4196-9271-89f8baa7ee73
+:END:
 #+TITLE: casdu-screw
 #+CREATED:       [2020-10-30 Fri 12:09]
-#+LAST_MODIFIED: [2020-10-30 Fri 12:09]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 * 功能
 1. 连接或固定物体：例如锁紧把手，龙头，座杆

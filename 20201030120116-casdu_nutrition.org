@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       39bf785f-6871-4bcb-8416-d2cd5f8686f1
+:END:
 #+TITLE: casdu-nutrition
 #+CREATED:       [2020-10-30 Fri 12:01]
-#+LAST_MODIFIED: [2021-02-15 Mon 22:26]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 ref: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=388&extra=page%3D13
 

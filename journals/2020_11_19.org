@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       01878e30-1fb4-4e14-b0be-07de069861eb
+:END:
 #+TITLE: Nov 19th, 2020
 
 *** 这是 `github-alphapapa` 在 r/emacs 上的回复：

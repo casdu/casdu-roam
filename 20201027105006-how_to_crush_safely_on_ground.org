@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       564385da-bf13-43e8-a708-e1749a344700
+:END:
 #+TITLE: how-to-crush-safely-on-ground
 #+CREATED:       [2020-10-27 Tue 10:50]
-#+LAST_MODIFIED: [2020-10-27 Tue 10:51]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:27]
 
 > 倒地的瞬间身体一定要放松，蜷缩胳膊和腿，能滚多远滚多远（空间范围允许的话），把冲击的力量都泄掉，千万不要用手撑地，下意识都会这么做，但是这样做很容易骨折（我就是这么悲剧的）.
 

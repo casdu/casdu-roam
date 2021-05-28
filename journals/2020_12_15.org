@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       91651d8c-fd05-417a-877e-72700b7235c7
+:END:
 #+TITLE: Dec 15th, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]]  重置测试周1， 40 分钟 TT 成功！

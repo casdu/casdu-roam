@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e1e6ef5a-4abb-4b73-862b-7c6b2fe5279e
+:END:
 #+TITLE: emacs
 
 ** [[file:../../20201202215816-emacs_china.org][Emacs china]]

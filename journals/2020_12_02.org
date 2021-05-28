@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       932e5e19-af30-45cf-a01c-f4806f930863
+:END:
 #+TITLE: Dec 2nd, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]]

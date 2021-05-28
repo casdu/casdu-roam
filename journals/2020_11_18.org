@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       613edefb-84cb-436e-bc29-d8993f855cc6
+:END:
 #+TITLE: Nov 18th, 2020
 
 ** [[file:../pages/如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]？

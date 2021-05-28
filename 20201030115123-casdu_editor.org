@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       d3a19030-ed3b-49f2-bfc5-a0d3d63c246d
+:END:
 #+TITLE: casdu-editor
 #+CREATED:       [2020-10-30 Fri 11:51]
-#+LAST_MODIFIED: [2020-11-27 Fri 20:19]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 It's personal choice to pick up whatever editor is.
 

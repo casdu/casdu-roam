@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       04803e29-6f8d-429d-aaeb-7343c6152a1a
+:END:
 #+TITLE: thoughts on using ZK as video index
 
 ** video name is uuid.{mp4, or other format}

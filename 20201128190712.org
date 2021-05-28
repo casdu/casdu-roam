@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       0aae526c-c180-4b7e-b8a1-0b09197a886d
+:END:
 #+TITLE: 2020-UoT-Training-Study
 #+CREATED:       [2020-11-28 Sat 19:07]
-#+LAST_MODIFIED: [2020-12-28 Mon 07:56]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 ** 准备阶段
 *** 2020-11-27 收到确认邮件可以参与
 *** 目前，还暂未定下开始日期，因为还在 ((81ef790c-6870-47f6-ab6b-ca221f51332b)) 的历程中。

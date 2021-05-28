@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       58f3ab72-2375-4dd1-84ce-62e1a0f8dd11
+:END:
 #+TITLE: Jan 1st, 2021
 
-** 
+**

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0c636cd8-af54-49dd-b995-a82ea57946fa
+:END:
 #+TITLE: Nov 28th, 2020
 
 ** EMMS (https://www.gnu.org/software/emms/) for metadata authoring and organising playlists

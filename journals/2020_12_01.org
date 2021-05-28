@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8d59dcfa-1c1d-4fbc-90fa-18e2a54c5738
+:END:
 #+TITLE: Dec 1st, 2020
 
 ** [[file:../20201128190712.org][2020-UoT-Training-Study]]  渐进测试。

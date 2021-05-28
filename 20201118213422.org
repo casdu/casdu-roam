@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       d8a136e2-5047-41d5-bcc6-61b1cc4dba01
+:END:
 #+TITLE: sweet spot interval training
 #+CREATED:       [2020-11-18 Wed 21:34]
-#+LAST_MODIFIED: [2021-03-10 Wed 21:27]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 #+CONSTANTS: oldFTP=255
 #+CONSTANTS: currentFTP=255
 

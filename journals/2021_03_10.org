@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c2c4a73d-1f10-4d59-8b7d-7049bf94efa8
+:END:
 #+TITLE: Mar 10th, 2021
 
 ** [[bike fix]]

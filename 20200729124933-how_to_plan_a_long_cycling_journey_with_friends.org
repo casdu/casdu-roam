@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       08709160-dbca-4145-8f5d-fd1f4591360a
+:END:
 #+title: how to plan a long cycling journey with friends
 
 1. [[file:20200729125009-post_a_thread.org][post a thread]]

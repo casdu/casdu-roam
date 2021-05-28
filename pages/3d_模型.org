@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       fdd24910-177a-421a-adad-a5ee3944ddd2
+:END:
 #+TITLE: 3D 模型
 
 - https://www.artec3d.com/3d-models
 ** https://github.com/forensic-architecture/models/tree/master/65
+** generate 3D meshes based on SDFs (signed distance function)
+   https://iquilezles.org/www/index.htm
+https://github.com/fogleman/sdf

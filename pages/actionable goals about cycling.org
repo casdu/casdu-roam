@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b4f021b0-0580-48a2-8778-cd49cffcb677
+:END:
 #+TITLE: actionable goals about cycling
 
 ** “follow my training plan for 1 season”

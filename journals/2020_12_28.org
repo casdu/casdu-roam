@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a71d219b-c2ba-42d3-9e57-264ce920ff4f
+:END:
 #+TITLE: Dec 28th, 2020
 
 ** [[file:../pages/远征.org][远征]]

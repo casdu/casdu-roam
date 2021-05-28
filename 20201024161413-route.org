@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ed6786f5-f995-4c27-9c86-6bf771840d07
+:END:
 #+title: route
 * 2004
 http://bbs.casdu.cn/forum.php?mod=viewthread&tid=1084&extra=page%3D1
@@ -8,6 +11,7 @@ http://bbs.casdu.cn/forum.php?mod=viewthread&tid=1084&extra=page%3D1
 5、第五、六天：青岛
 6、第七天：青岛—羊郡镇
 8、第八天：羊郡镇—威海
+* G213
 * G219
 作者： 旺旺 原帖地址: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11571&extra=page%3D1
 ** 序言

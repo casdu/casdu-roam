@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       5139c5a7-2f3d-4060-a112-198c98e5723b
+:END:
 #+TITLE: polarize training v.s. sweet spot training
 
 ** meta info
-register: 
+register:
 https://www.trainerroad.com/forum/t/dylan-johnsons-the-problem-with-trainerroad-training-plans-its-gonna-be-a-busy-day-around-here/53136/892
 *** TODO read Stephen Seiler's story
 :PROPERTIES:
@@ -54,7 +57,7 @@ Similar to using Emacs instead of using IDE
 *** not able to push XXX-watts over XXX-mins duaration?
 ** Why no plan fits all?
 
-We all have different backgrounds before cycling. 
+We all have different backgrounds before cycling.
 
 People have different stress in their life, e.g. from jobs, peer pressure, etc.
 
@@ -92,7 +95,7 @@ Without using plan builder or pre made plans, it’s just a trainer resistance c
 
 Do you have suggestions on such free software? Have you compared it with TR?
 
-My two cents. 
+My two cents.
 
 #### What is the value of Trainerroad?
 
@@ -124,7 +127,7 @@ I want to see the trends in those large data sets, rather than handpicked anecdo
 [quote="Larzi, post:904, topic:53136"]
 They have data, but don’t share them (they don’t have too).
 [/quote]
-Nowadays, data is more valuable than ever and there are many data restrictions for privacy concerns. I personally like to see sharing such a massive data set but I do not see it will happen soon. 
+Nowadays, data is more valuable than ever and there are many data restrictions for privacy concerns. I personally like to see sharing such a massive data set but I do not see it will happen soon.
 
 ----------------------------------------------------------------------
 
@@ -157,7 +160,7 @@ Sweetspot is less than FTP, so would be zone 2, not zone 3.
 [/quote]
 
 Yes, it is at the high end of Zone-2 (3-zone theory)
-![image|690x268](upload://aULSAAYPZ1JGBV7iurJ0FimQRy6.png) 
+![image|690x268](upload://aULSAAYPZ1JGBV7iurJ0FimQRy6.png)
 
 
 [quote="maletero, post:834, topic:53136"]

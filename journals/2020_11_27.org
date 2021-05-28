@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1091fb4f-da84-4c29-959b-99b1bd17441d
+:END:
 #+TITLE: Nov 27th, 2020
 
 ** [[file:../pages/logseq.org][logseq]] 有人提交了关于团队合作的一些想法：https://github.com/logseq/logseq/issues/770

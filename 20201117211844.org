@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       0e70d8cd-41ab-4ccf-af42-8bb617962a3e
+:END:
 #+TITLE: 人手不够的情况下，最棘手的问题是什么？
 #+CREATED:       [2020-11-17 Tue 21:18]
-#+LAST_MODIFIED: [2020-11-17 Tue 21:50]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 
 1. 队中无人知道目的地

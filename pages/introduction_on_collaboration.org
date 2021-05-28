@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6158997e-f6d8-49be-83df-0c9920d462c3
+:END:
 #+TITLE: introduction on collaboration
 
 ** Is this an org-mode?

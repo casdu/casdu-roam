@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       fdc61b71-1f0b-423e-90c9-3f8a86549e80
+:END:
 #+TITLE: ZK
 ** [[file:./什么是zk.org][什么是ZK]]
 ** Discussion on Internet
@@ -85,3 +88,46 @@ people take physical activities. For example, chances are low if
 someone want to do back flip by interacting with his/her Zettelkästen.
 But, I am opening to such claim. In some studies, people can do better
 job without really doing things but just mentally imaging something.
+** ZK ID
+   :PROPERTIES:
+   :ID:       006cf19e-060b-4088-a478-773a13eb859f
+   :END:
+- [[id:752d6262-58f4-424f-843f-edf6e17b6848][forgive the stress on finding]]
+** Why ZK is useful?
+*** [[id:c7be7fb9-5bb2-4309-9145-aae81b109bff][how ZK can affect my habits]]
+*** [[id:8588bf22-fbb3-4367-a819-dececaca7df8][why ZK can help you connect ideas]]
+*** [[id:006cf19e-060b-4088-a478-773a13eb859f][it reduce the stress]]
+Our brain has very limited resources. If any stress is not properly
+addressed, then it is hard to let you focus on the present you.It
+helps you to write down without worry about anything else.
+** guiding ZK direction
+   :PROPERTIES:
+   :ID:       749e4d0d-321a-44c1-b3c8-2af5e0be02ed
+   :END:
+
+I find myself writing a lot of notes when processing the reading notes
+from book. Especially [[id:323aca24-9b39-4459-84ca-7188fecc2b2e][the note]] that I track my reading. It is a note
+that is arranged in year order. Every year, I like to assign one or
+two topic that I want to dig through.
+
+- 2018 and 2019 are the years of Emacs
+  Countless time with Emacs that lead me to 2020, the year I meet ZK.
+- 2020 is the year of ZK birth
+- 2021 is the year about psychology and habits strengthen
+
+** develop new ideas
+*** TODO on making connections
+
+ #+transclude: t
+ [[file:~/Dropbox/myNote/zk/20200823194039-roaming_in_org_roam_to_find_connection.org][roaming in org-roam to find connection]]
+
+ #+transclude: t
+ [[file:~/Dropbox/myNote/zk/20200729232344-how_to_make_connection.org][how to make connection]]
+
+ #+transclude: t
+ [[file:~/Dropbox/myNote/zk/20200618163301-interconnection.org][interconnection]]
+
+ continues on writing on how to make new connections across the
+ knowledge branch?
+
+**** TODO what is applying the knowledge?

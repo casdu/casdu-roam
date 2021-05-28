@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       dfb1374b-2597-408c-a0ed-48b4baaa10e7
+:END:
 #+TITLE: casdu-core-fit
 #+CREATED:       [2020-10-30 Fri 11:59]
-#+LAST_MODIFIED: [2020-10-30 Fri 11:59]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 ** 器械训练
 *** W0D1

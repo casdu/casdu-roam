@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       da1f1c1b-7903-46a5-bc30-1bd6dc98aa6c
+:END:
 #+TITLE: Dec 20th, 2020
 
 ** [[file:../pages/logseq.org][logseq]] advance usage

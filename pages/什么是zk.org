@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       093aade0-4745-4c33-bb29-ab1c846ff4bb
+:END:
 #+TITLE: 什么是ZK
 
 ** [[https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/][Ref1]]

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c09bd053-6fb6-4fda-a0ea-cf540f452d50
+:END:
 #+title: bike habits
 
 * weekly check with bike

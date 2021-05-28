@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       d2d4da3a-46ea-4fbc-b1d6-7bb67826b72b
+:END:
 #+TITLE: casdu-forum
 #+CREATED:       [2020-10-30 Fri 12:08]
-#+LAST_MODIFIED: [2020-12-28 Mon 07:55]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
 
 Some softward lists:
 * discourse

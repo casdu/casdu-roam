@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       928c49d6-c6cc-4ba7-8dcd-cc0396fffdba
+:END:
 #+TITLE: equipment
 
 ** 头盔

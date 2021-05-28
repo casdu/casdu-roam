@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1e807434-a783-40d5-be39-993c1f1eccf1
+:END:
 #+TITLE: 中文文件名 logseq 测试
 
 ** 自动 push 功能

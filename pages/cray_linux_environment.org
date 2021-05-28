@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c3d524e6-71a2-4433-b321-c9cf6088ee52
+:END:
 #+TITLE: Cray Linux Environment
 
-** 
+**

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       78e2026c-ccd0-474e-86fb-d02356280c31
+:END:
 #+TITLE: Feb 19th, 2021
 
 ** [[FTP]]

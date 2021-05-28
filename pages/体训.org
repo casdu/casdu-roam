@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b573cbeb-2b02-4c75-b3f4-e5f1f700d554
+:END:
 #+TITLE: 体训
 
 ** fitness ref: https://thefitness.wiki/muscle-building-101/

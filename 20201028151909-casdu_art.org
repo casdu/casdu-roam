@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       f53a708a-0baa-4ccc-a498-4834e4ba61d4
+:END:
 #+TITLE: casdu-art
 #+CREATED:       [2020-10-28 Wed 15:19]
-#+LAST_MODIFIED: [2020-10-28 Wed 15:20]
+#+LAST_MODIFIED: [2021-05-27 Thu 19:08]
 
 # todo http://bbs.casdu.cn/forum.php?mod=viewthread&tid=129
 

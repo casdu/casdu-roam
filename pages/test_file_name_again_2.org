@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       d39d25ef-4110-46cf-8bf2-eaef4e108d8b
+:END:
 #+TITLE: test file name again 2
 
-** 
+**

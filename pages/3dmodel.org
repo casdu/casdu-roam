@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fdd24910-177a-421a-adad-a5ee3944ddd2
+:END:
+#+TITLE: 3D 模型
+
+** 3D scanning
+   :PROPERTIES:
+   :ID:       036b155a-84a7-4d20-9541-77e099bcea36
+   :END:
+   - [[https://github.com/OpenScanEu/OpenScan][GitHub - OpenScanEu/OpenScan: All you need to build your 3D Scanner]]
+** [[https://github.com/vvoovv/blender-osm/#blender-osm-openstreetmap-and-terrain-for-blender][GitHub - One click download and import of OpenStreetMap and terrain for Blender.]]
+** https://www.artec3d.com/3d-models
+** https://github.com/forensic-architecture/models/tree/master/65
+** generate 3D meshes based on SDFs (signed distance function)
+   https://iquilezles.org/www/index.htm
+   https://github.com/fogleman/sdf

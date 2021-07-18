@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       e4b2bf7a-6c3c-4431-ba04-2b4c8458f0ea
+:END:
+#+title: safety
+#+created:       [2021-06-18 Fri 22:24]
+#+last_modified: [2021-06-18 Fri 22:34]
+#+startup: showall
+
+
+* What is the most important task for the last rider? (Houqi)
+  :PROPERTIES:
+  :ID:       6625342c-381a-42cb-abed-62f0f346f2b7
+  :END:
+
+** make sure nobody is lost -weiwei
+
+** make sure all the bike is in good technical condition -weiwei
+
+* What is the most important task for the medical stuff (Duiyi)
+  :PROPERTIES:
+  :ID:       b7744b3e-91e3-4504-816f-d82e79e909e9
+  :END:
+
+** prevent health issue -weiwei
+
+** take care of other people -weiwei
+
+* How to choose the rest location?
+  :PROPERTIES:
+  :ID:       ed88a8fa-6dcf-40a3-a5fb-007876b35435
+  :END:
+
+** 10 minutes per hour -weiwei
+
+** after long climb rest at the top for 5 minutes

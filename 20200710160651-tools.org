@@ -47,6 +47,16 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 :END:
 ** Fork
 ** Chain
+   :PROPERTIES:
+   :ID:       83d35ca1-df40-4017-b04b-88f7f90a05df
+   :END:
+*** [[https://youtu.be/9x8JTUa_hZU?t=98][Best homemade chain cleaner - YouTube]]
+    - the idea of using kitchen sieve to fix the bike component
+*** [[https://www.harborfreight.com/25-liter-ultrasonic-cleaner-63256.html][10 speed chain link on 11-speed chain]]
+    :PROPERTIES:
+    :ID:       3ce20ad8-5837-4a7b-a4ed-85bd0fc44490
+    :END:
+    - it's okay but not recommended.
 * 按需推荐
 ** 单日
 ** 单周
@@ -71,3 +81,47 @@ graph TD
 	G --> H(刹车)
 	H --> I(试骑)
 #+end_export
+* Overall index
+
+  Borrow from [[https://www.parktool.com/category/tools][Tools | Park Tool]].
+
+  # Cache 1: most frequently used
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  | Category               |                    Tools | Cache 1 | Cache 2 | Cache 3 | Web Info |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  | <l>                    |                      <r> |         |         |         |          |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  | Brake                  |                          |         |         |         |          |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  |                        | cable and housing cutter |         |         |         |          |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  | Cassette & Freewheel   |                          |         |         |         |          |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  |                        |    cassette locking tool |         |         |         |          |
+  |                        |         sprocket remover |         |         |         |          |
+  |------------------------+--------------------------+---------+---------+---------+----------|
+  | Chain                  |                          |         |         |         |          |
+  | Clean                  |                          |         |         |         |          |
+  | Crank & Bottom bracket |                          |         |         |         |          |
+  | Frame & fork           |                          |         |         |         |          |
+  | General tool           |                          |         |         |         |          |
+  | Headset                |                          |         |         |         |          |
+  | Hex                    |                          |         |         |         |          |
+  | Hub & axle             |                          |         |         |         |          |
+  | Lubricants             |                          |         |         |         |          |
+  | Measurement            |                          |         |         |         |          |
+  | Wheel & Spoke          |                          |         |         |         |          |
+
+* tools index
+** cable and housing cutter
+   :PROPERTIES:
+   :ID:       86654d0d-4379-4c26-8f38-2b854398612e
+   :END:
+** cassette locking tool
+   :PROPERTIES:
+   :ID:       c29bb4f7-d7a4-4389-b90a-5b92f29c0966
+   :END:
+** sprocket remover
+   :PROPERTIES:
+   :ID:       851aeb1f-6a3f-4770-89c2-addd5d19b351
+   :END:

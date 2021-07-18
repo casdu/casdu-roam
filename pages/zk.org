@@ -2,6 +2,7 @@
 :ID:       fdc61b71-1f0b-423e-90c9-3f8a86549e80
 :END:
 #+TITLE: ZK
+#+filetags: project
 ** [[file:./什么是zk.org][什么是ZK]]
 ** ZK 使用方法
 *** 纸制化和电子化的区别
@@ -12,7 +13,7 @@
 
 而电子 ZK 的实现中，编号本身的作用被弱化。搜索虽然便捷，但损失掉的这一功能是常常被忽视掉的。
 ******* 编号作为指针
-** Discussion on Internet
+** Discussion on Internet about ZK
    :PROPERTIES:
    :ID:       dded3d35-b7c2-4c26-b296-ab7df901ec70
    :END:
@@ -38,6 +39,14 @@ Best description I've seen for a ZK (attributed to someone else here
 on reddit, can't recall offhand sorry) is that its a method for
 knowledge development rather than a tool for knowledge management.
 #+end_quote
+*** publish structure note to wiki
+    :PROPERTIES:
+    :ID:       96fbd9e0-6255-4361-8395-15e87ca35149
+    :END:
+    - it makes the contributer feel in part of a larger organization
+    - it helps the contributer to know the limitation of his point of
+      view
+
 ** be careful with tag
 
 #+begin_quote
@@ -102,6 +111,12 @@ job without really doing things but just mentally imaging something.
    :ID:       006cf19e-060b-4088-a478-773a13eb859f
    :END:
 - [[id:752d6262-58f4-424f-843f-edf6e17b6848][forgive the stress on finding]]
+*** folgezettel
+    :PROPERTIES:
+    :ID:       60ab3e2c-b71b-42fa-a4e8-4210e84bf26b
+    :END:
+    It is a technique to form a hierarchical context. It is useful for
+    paper based Zettelkästen, but less useful in digital format.
 ** Why ZK is useful?
 *** [[id:c7be7fb9-5bb2-4309-9145-aae81b109bff][how ZK can affect my habits]]
 *** [[id:8588bf22-fbb3-4367-a819-dececaca7df8][why ZK can help you connect ideas]]

@@ -3,6 +3,32 @@
 :END:
 #+TITLE: FTP
 
+
+    |              | DATA | METHOD  | NOTES |
+    |--------------+------+---------+-------|
+    | Jul 5, 2021  |  268 | TR RAMP |       |
+    | May 11, 2021 |  263 | TR RAMP |       |
+    | JAN-12-2021  |  245 | TR RAMP |       |
+    | Apr 28, 2021 |  265 |         |       |
+    | JAN-12-2021  |  244 |         |       |
+    | NOV-12-2020  |  259 |         |       |
+    | NOV-10-2020  |  259 |         |       |
+    | OCT-13-2020  |  281 |         |       |
+    | AUG-31-2020  |  274 |         |       |
+    | JUN-22-2020  |  276 |         |       |
+    | MAY-25-2020  |  272 |         |       |
+    | APR-27-2020  |  267 |         |       |
+    | FEB-10-2020  |  263 |         |       |
+    | DEC-10-2019  |  258 |         |       |
+    | JAN-1-2019   |  265 |         |       |
+    | JUL-16-2016  |  260 |         |       |
+
+
+** my ftp history
+   :PROPERTIES:
+   :ID:       4a797af2-ca93-46b2-858d-c42184066a07
+   :END:
+
 ** how to improve
    - [[https://www.trainerroad.com/blog/coach-chads-5-favorite-workouts-to-increase-your-ftp/?utm_source=newsletter&utm_medium=email&utm_campaign=weekly-newsletter-48&utm_content=latest-2][Coach Chad’s 5 Favorite Workouts to Increase Your FTP]]
 ** Kolie Moore FTP protocol

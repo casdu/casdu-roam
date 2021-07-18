@@ -3,4 +3,68 @@
 :END:
 #+TITLE: training
 
-**
+* running
+** 2021 running log
+   :PROPERTIES:
+   :ID:       460f985b-aeda-4cfe-9603-a708cf446948
+   :END:
+*** June
+| Date           |          Name | Duration | Distance | Elevation | Pace | Comment                   |
+|----------------+---------------+----------+----------+-----------+------+---------------------------|
+| <l>            |           <r> |          |      <r> |       <r> |      |                           |
+| Wed, 6/30/2021 | Afternoon Run |    22:59 |  4.98 km |      12 m | 4:36 | 1st time trial successful |
+| Tue, 6/29/2021 |   Evening Run |    26:07 |  4.64 km |       7 m | 5:37 |                           |
+| Sun, 6/27/2021 | Afternoon Run |    83:02 | 13.94 km |      31 m | 5:57 |                           |
+| Thu, 6/24/2021 |   Evening Run |    18:35 |  3.25 km |       8 m | 5:43 |                           |
+| Thu, 6/24/2021 |   Evening Run |     3:23 |  0.92 km |       1 m | 3:40 | 5k TT failure             |
+| Mon, 6/21/2021 |   Evening Run |    29:43 |  4.59 km |       5 m | 6:28 |                           |
+| Sun, 6/20/2021 | Afternoon Run |    24:32 |  4.52 km |       5 m | 5:25 |                           |
+| Thu, 6/17/2021 |   Evening Run |    54:28 |  9.35 km |      20 m | 5:49 |                           |
+| Wed, 6/16/2021 |   Evening Run |    27:17 |  4.62 km |      35 m | 5:54 |                           |
+| Tue, 6/15/2021 |   Evening Run |    26:59 |  4.60 km |       5 m | 5:51 |                           |
+| Mon, 6/14/2021 |   Evening Run |    53:13 |  9.44 km |      17 m | 5:38 |                           |
+| Sun, 6/13/2021 |   Evening Run |    55:25 |  9.42 km |      21 m | 5:52 |                           |
+| Fri, 6/11/2021 |   Evening Run |    27:50 |  4.40 km |       5 m | 6:19 |                           |
+| Thu, 6/10/2021 |   Evening Run |    32:58 |  4.62 km |       9 m | 7:08 |                           |
+| Wed, 6/9/2021  |   Evening Run |    30:24 |  4.65 km |       3 m | 6:32 |                           |
+| Tue, 6/8/2021  |   Evening Run |    38:54 |  5.75 km |     143 m | 6:45 |                           |
+| Tue, 6/8/2021  |   Morning Run |    29:22 |  4.27 km |      11 m | 6:52 |                           |
+| Mon, 6/7/2021  |   Evening Run |    28:36 |  4.63 km |       6 m | 6:10 |                           |
+| Sun, 6/6/2021  | Afternoon Run |    59:52 |  9.48 km |      20 m | 6:18 |                           |
+| Thu, 6/3/2021  |   Morning Run |    27:37 |  4.00 km |      10 m | 6:54 |                           |
+|----------------+---------------+----------+----------+-----------+------+---------------------------|
+|                |               |   701.27 |    116.1 |           |      |                           |
+#+TBLFM: @>$4=vsum(@I..@II);%.1f
+#+TBLFM: @>$3=vsum(@I..@II);t
+#+TBLFM: $6='(with-time t (/ $3 $4));
+
+*** May
+| Date           |          Name | Duration | Distance | Elevation |  Pace | Comment |
+|----------------+---------------+----------+----------+-----------+-------+---------|
+| <l>            |           <r> |          |      <r> |       <r> |       |         |
+| Wed, 5/26/2021 |   Evening Run |    30:46 |  4.62 km |       5 m |  6:39 |         |
+| Thu, 5/20/2021 |   Evening Run |    64:37 | 10.13 km |       9 m |  6:22 |         |
+| Tue, 5/18/2021 |   Evening Run |    59:06 | 10.00 km |      21 m |  5:54 |         |
+| Mon, 5/17/2021 |   Evening Run |    28:35 |  4.78 km |       5 m |  5:58 |         |
+| Sun, 5/16/2021 | Afternoon Run |    29:11 |  5.21 km |       6 m |  5:36 |         |
+| Sat, 5/15/2021 | Afternoon Run |    81:47 | 13.81 km |      59 m |  5:55 |         |
+| Sat, 5/15/2021 |   Morning Run |     5:24 |  2.00 km |       0 m |  2:42 |         |
+| Fri, 5/14/2021 |   Evening Run |    26:40 |  4.57 km |       5 m |  5:50 |         |
+| Thu, 5/13/2021 |   Evening Run |    29:37 |  4.68 km |      12 m |  6:19 |         |
+| Wed, 5/12/2021 |   Evening Run |    59:43 | 10.00 km |      18 m |  5:58 |         |
+| Wed, 5/12/2021 |   Morning Run |    30:01 |  4.73 km |      15 m |  6:20 |         |
+| Tue, 5/11/2021 |   Evening Run |    30:05 |  4.55 km |       7 m |  6:36 |         |
+| Mon, 5/10/2021 |   Evening Run |    30:01 |  5.43 km |      19 m |  5:31 |         |
+| Sat, 5/8/2021  | Afternoon Run |    60:01 |  9.32 km |      32 m |  6:26 |         |
+| Fri, 5/7/2021  |   Evening Run |    29:56 |  4.78 km |      87 m |  6:15 |         |
+| Fri, 5/7/2021  |   Morning Run |    30:01 |  4.65 km |      15 m |  6:27 |         |
+| Wed, 5/5/2021  |   Morning Run |    29:56 |  4.52 km |      17 m |  6:37 |         |
+| Tue, 5/4/2021  |   Morning Run |    30:02 |  4.33 km |      16 m |  6:56 |         |
+| Mon, 5/3/2021  | Afternoon Run |    30:01 |  2.86 km |       6 m | 10:29 |         |
+| Sun, 5/2/2021  | Afternoon Run |    89:44 | 18.32 km |      35 m |  4:53 |         |
+| Sun, 5/2/2021  |   Morning Run |    29:59 |  4.67 km |      14 m |  6:25 |         |
+|----------------+---------------+----------+----------+-----------+-------+---------|
+|                |               |   835.22 |    138.0 |           |     6 |         |
+#+TBLFM: @>$4=vsum(@I..@II);%.1f
+#+TBLFM: @>$3=vsum(@I..@II);t
+#+TBLFM: $6='(with-time t (/ $3 $4));

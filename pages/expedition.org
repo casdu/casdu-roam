@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       8b179fa2-1463-44a5-b038-402410b989e6
+:END:
+#+TITLE: 远征历年检索
+
+
+** 2004-千年奥运 百年山大
+   :PROPERTIES:
+   :ID:       65ea4f30-3f1c-4adb-b467-e05a411b21f7
+   :END:
+** 2005-走进和谐西部
+   :PROPERTIES:
+   :ID:       b9fc46be-0df9-45ca-8435-b4f4a7fbbcf0
+   :END:
+** 2006-承载和谐 千里传音
+   :PROPERTIES:
+   :ID:       1d20dc87-e3f8-46f4-8105-daa8d199987f
+   :END:
+** 2007-寻觅山大足迹 共建绿色家园
+   :PROPERTIES:
+   :ID:       8aeff9c1-b038-441a-9526-070a499743bd
+   :END:
+** 2008-迎接奥运 关注农村老年人
+   :PROPERTIES:
+   :ID:       de2adb3a-f042-4bcc-991b-0ec465236b52
+   :END:
+** 2009-见证祖国六十年
+   :PROPERTIES:
+   :ID:       c0a6bb49-d30e-43c9-bcf7-5314eb567fa8
+   :END:
+** 2010-青春励志 重走长征路
+   :PROPERTIES:
+   :ID:       2aec3093-5b91-4272-9b9f-60eb7be897b1
+   :END:
+** 2011-传承红色经典 接力爱心奉献
+   :PROPERTIES:
+   :ID:       0a59bfc8-21a6-4f99-b109-e952a0222c39
+   :END:
+** 2012-重走丝绸之路 聚焦西北民生
+   :PROPERTIES:
+   :ID:       15aec3f3-1d76-4e68-9415-c4971f1648ad
+   :END:
+** 2013-深入祖国北疆 播种绿色梦想
+   :PROPERTIES:
+   :ID:       6865e58f-5a30-40af-b2f1-ecb59c35fdd8
+   :END:
+** 2014-蜀都秦川西海 重为社稷行来
+   :PROPERTIES:
+   :ID:       f15cd4ef-6e9e-407f-9279-7503e5713ed1
+   :END:
+** 2015-重返西南 考察百年屯堡变迁
+   :PROPERTIES:
+   :ID:       2fbde9e8-0c3e-49a7-87f8-30ca4799270f
+   :END:
+** 2016-塞北甘南巴蜀行 生态文明奏新章
+   :PROPERTIES:
+   :ID:       d7682a2d-8006-42df-bcbf-7f8191ba78bf
+   :END:
+** 2017- 行始湘西终漠北 心系晋阳思水源
+   :PROPERTIES:
+   :ID:       0cba3aa1-0136-45fd-b90d-ca1a172858bb
+   :END:
+*** 路书
+**** 休息
+**** 住宿
+**** 休整
+*** 气候
+*** 风土人情
+*** 饮食
+*** 车辆状况
+*** 队员
+*** 特殊情况
+**** 大车的问题
+**** 狗的问题
+**** 修路断桥
+**** 迫停
+*** 社会实践
+** 2018-雪城踏至塞外 行歌唱晚黄昏
+   :PROPERTIES:
+   :ID:       d13230d8-39e7-4760-915d-9c343e707d8e
+   :END:
+** 2019-采风乡野黄河畔 歌行西海青唐城
+   :PROPERTIES:
+   :ID:       fe5d3278-ef97-4b5b-9874-c20034732c03
+   :END:
+** 2020-战疫行不止
+   :PROPERTIES:
+   :ID:       7958cec2-9b9c-4f58-8df1-c19fd105b6c7
+   :END:
+** 2021
+   :PROPERTIES:
+   :ID:       56bbc19f-7228-4fcd-ae66-f4dd1f9a3aa3
+   :END:
+ - 浙江嘉兴-成立
+ - 江西南昌-军队
+ - 江西井冈山-发展
+ - 贵州遵义-转折

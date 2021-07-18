@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7a2f9fe8-e1e6-4503-97e8-e08c9a6f77b8
+:END:
+#+title: role
+#+created:       [2021-06-18 Fri 22:24]
+#+last_modified: [2021-06-18 Fri 22:39]
+#+startup: showall
+* The last guy
+  :PROPERTIES:
+  :ID:       be5aa62e-ce73-42f2-bd73-e8cd7f6e793c
+  :END:
+** principles
+*** If someone is not in good fitness to catch the group, and their bike somehow broken, exchange the bike?
+    How about the tools carry with?
+* Medical stuff
+  :PROPERTIES:
+  :ID:       6b2800df-248d-4c4a-86ab-d3f037c95564
+  :END:
+** how to observe other people's heath condition?

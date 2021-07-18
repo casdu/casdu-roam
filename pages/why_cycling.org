@@ -3,10 +3,31 @@
 :END:
 #+TITLE: why cycling
 
-** To me part of reason is because of Serotonin.
+** why climb mountain via cycling
+   :PROPERTIES:
+   :ID:       6717bdf8-d1f7-4894-b13d-29d87dd66db8
+   :END:
 
-How to increase serotonin in the human brain without drugs
-Young cite:young2007increase introduces four methods to increase Serotonin without using drag: improvement in mood, exposed to sunlight,
+   #+begin_quote
+He found that riding uphill achieved this for him, but as he did this
+he also discovered several other things about climbing that captivated
+him: the epic scenery, the mental preparation that goes into a climb
+and the thrill of the accomplishment of reaching the summit. There
+really is no better feeling than reaching the summit after the
+planning, training, travelling to and pushing yourself up the mountain
+in all sorts of conditions! Climbing by bike is all about the
+adventure, immersion in the scenery, physical exertion and
+achievement.
+   #+end_quote
+
+** Part of reason is because of Serotonin.
+   :PROPERTIES:
+   :ID:       5409b257-3f2d-445c-a087-355312bddc36
+   :END:
+
+How to increase serotonin in the human brain without drugs Young
+cite:young2007increase introduces four methods to increase Serotonin
+without using drag: improvement in mood, exposed to sunlight,
 exercise, and good diet.
 
 And I found cycling is my best way to achieve this. As long as I am on
@@ -16,6 +37,7 @@ exposed the sun and I cannot escape that. Third, cycling is a sport
 and it can be extremely brute when I perform at my threshold level.
 And finally, being in a competitive cycling group, I need to find good
 food to energize my body after hard workout to be competitive.
+
 
 Ref:
 - Young, S. N. (2007). How to increase serotonin in the human brain

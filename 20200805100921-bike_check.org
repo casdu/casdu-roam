@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       c09bd053-6fb6-4fda-a0ea-cf540f452d50
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+title: bike habits
+#+filetags: casdu
 
 * weekly check with bike
   - pressure in tube

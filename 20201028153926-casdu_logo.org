@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       a1347770-511c-48e6-bc39-67f94a7b8d46
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: casdu-logo
 #+CREATED:       [2020-10-28 Wed 15:39]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 <p align="center"><img src="casdu.jpg" width=150 height=150/></p>
 <p align="center"><a href=http://bbs.casdu.cn"><b></b></a></p>

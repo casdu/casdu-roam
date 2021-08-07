@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       7e6b8962-09af-4d71-a73d-6f1d4e23cbf5
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 如何让他人使用这个 ZK
+#+filetags: casdu
 
 ** 1. 学会 GitHub 的使用
 *** I will try to create another GH account and test it myself

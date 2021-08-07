@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       4ae963cb-8beb-4e0d-b796-869a22473860
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+title: other than bike tools
+#+filetags: casdu
 
 * what kind of info that is important?
 ** normal condition

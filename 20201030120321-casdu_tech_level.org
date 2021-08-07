@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       9c0367e1-48af-416d-9734-d3bc0379ee9d
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: casdu-tech-level
 #+CREATED:       [2020-10-30 Fri 12:03]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 * level 3 (普通拉练技术员)
 

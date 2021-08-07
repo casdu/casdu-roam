@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       3c01fbd0-5270-4a5c-a8c9-591744d6c0ed
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+title: bike tools
+#+filetags: casdu
 
-* 常用分类
+* 单车常用工具分类
 :PROPERTIES:
 :id: b424f800-3b15-4c58-8f32-25ab9992199b
 :END:
@@ -11,11 +13,33 @@
 ** 多用/Multi-Tools
 ** 清洗/Cleaning
 ** 润滑/Lubricants and Compounds
-** [[file:./20201110145654-wheel_set.org][轮组/Wheel set]]
-** [[file:./pages/轮胎.org][轮胎]]
+** [[id:ac93a920-81ef-4038-8a41-672910f3efa8][轮组/Wheel set]]
+** [[id:e1a95af6-adef-43d0-ba7a-267aded0f10d][轮胎/Tire]]
+   :PROPERTIES:
+   :ID:       bde09bba-3319-4199-8d85-9d1d63202a7f
+   :END:
 ** 脚踏/Pedal
 ** 刹车/Brakes
 ** 五通/Bottom Bracket
+   :PROPERTIES:
+   :ID:       0e1a97e2-7996-4f98-8bfc-125743d5752d
+   :END:
+*** square tapered spindles - 方孔中轴
+    :PROPERTIES:
+    :ID:       fe898afb-8706-4f01-95bd-8a14bf701f2f
+    :END:
+*** splined －花键中轴
+    :PROPERTIES:
+    :ID:       40ad026c-7980-4860-ae4d-6c9cf5b5522a
+    :END:
+*** 一体中轴
+    :PROPERTIES:
+    :LAST_MODIFIED: [2021-08-05 Thu 23:16]
+    :END:
+    :PROPERTIES:
+    :ID:       52e39c97-c015-4ce1-9645-1d413be8a45f
+    :END:
+
 ** [[中轴]]/Crank
 ** 飞轮/Cassette
    :PROPERTIES:
@@ -25,9 +49,7 @@
 :PROPERTIES:
 :id: 5fb5c776-e522-42b9-86f1-fb9800b02214
 :END:
-*** 注意， 这是测试。在这个 Headline 下编辑一些东西，会在原引用出出现什么？
-**** 在原引用处进入该区引用，可以发现会进入一个单独的页面，相当于 narrow 到某一个 Hedaline 下，而且可直接编辑。
-**** 编辑区下方是 backlink
+
 ** 腕组/Headset
 ** /Bear
 https://www.youtube.com/watch?v=hRLbamNQa_0
@@ -57,18 +79,16 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
     :ID:       3ce20ad8-5837-4a7b-a4ed-85bd0fc44490
     :END:
     - it's okay but not recommended.
-* 按需推荐
+* 按需推荐准备工具
 ** 单日
 ** 单周
 ** 多周
-* 大队
+* 大队骑行工具准备
 ** 单日拉练
 ** 多日拉练
 ** [[file:./pages/远征.org][远征]]
-* Ref
-- https://www.parktool.com/product/docs
-- searchable tutorial https://www.parktool.com/blog/repair-help
-* check bike
+* 工作流
+
 #+begin_export ascii
 graph TD
 	A[胎压] -->
@@ -81,47 +101,200 @@ graph TD
 	G --> H(刹车)
 	H --> I(试骑)
 #+end_export
-* Overall index
+* HOLD Overall bike fix tool index                              :table:index:
+  CLOSED: [2021-08-02 Mon 22:39]
+  :PROPERTIES:
+  :ID:       ff18f082-6614-4429-b964-4ba1dd98e707
+  :LAST_MODIFIED: [2021-08-05 Thu 22:51]
+  :END:
+  :LOGBOOK:
+  - State "HOLD"       from "DONE"       [2021-08-05 Thu 22:50] \\
+    Day 4: 修缮表格
+  CLOCK: [2021-08-05 Thu 22:40]--[2021-08-05 Thu 22:50] =>  0:10
+  - State "DONE"       from "HOLD"       [2021-08-03 Tue 22:39]
+  CLOCK: [2021-08-03 Tue 22:03]--[2021-08-03 Tue 22:39] =>  0:36
+  - State "HOLD"       from "TODO"       [2021-08-02 Mon 22:39] \\
+    Day 1: 处理到中轴工具
+  CLOCK: [2021-08-02 Mon 22:15]--[2021-08-02 Mon 22:39] =>  0:24
+  :END:
 
   Borrow from [[https://www.parktool.com/category/tools][Tools | Park Tool]].
 
   # Cache 1: most frequently used
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  | Category               |                    Tools | Cache 1 | Cache 2 | Cache 3 | Web Info |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  | <l>                    |                      <r> |         |         |         |          |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  | Brake                  |                          |         |         |         |          |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  |                        | cable and housing cutter |         |         |         |          |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  | Cassette & Freewheel   |                          |         |         |         |          |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  |                        |    cassette locking tool |         |         |         |          |
-  |                        |         sprocket remover |         |         |         |          |
-  |------------------------+--------------------------+---------+---------+---------+----------|
-  | Chain                  |                          |         |         |         |          |
-  | Clean                  |                          |         |         |         |          |
-  | Crank & Bottom bracket |                          |         |         |         |          |
-  | Frame & fork           |                          |         |         |         |          |
-  | General tool           |                          |         |         |         |          |
-  | Headset                |                          |         |         |         |          |
-  | Hex                    |                          |         |         |         |          |
-  | Hub & axle             |                          |         |         |         |          |
-  | Lubricants             |                          |         |         |         |          |
-  | Measurement            |                          |         |         |         |          |
-  | Wheel & Spoke          |                          |         |         |         |          |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Category               |                                    Tools | Cache 1 | Cache 2 | Cache 3 | On bike | bucket |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | <l>                    |                                      <r> |     <r> |     <r> |     <r> |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | General tool           |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |                            [[id:ff85fe02-8a3c-4a58-9910-e879a51e0f7b][pliers - 钳子]] |       x |         |         |         |        |
+  |                        |                       [[id:107dd05f-c091-4b5e-a012-ff97381c1ee2][wrench 15mm - 扳手]] |       x |         |         |         |        |
+  |                        |        [[id:0ce3064f-30f4-4963-9080-ead23f7a5d5a][phillips screwdriver - 十字螺丝刀]] |       x |         |         |         |        |
+  |                        |      [[id:20079ea0-aeb5-4757-b9e3-b9484dccff04][flat blade screwdriver - 一字螺丝刀]] |       x |         |         |         |        |
+  |                        |  [[id:757ff8e3-3b26-4e2c-89e5-7465e57e5a12][quick change bit driver set － 组合工具]] |         |         |         | x       |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Brake                  |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |      [[id:86654d0d-4379-4c26-8f38-2b854398612e][cable and housing cutter - 线管工具]] |       x |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Cassette & Freewheel   |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |     [[id:c29bb4f7-d7a4-4389-b90a-5b92f29c0966][cassette locking tool - 飞轮锁死工具]] |       x |         |         |         |        |
+  |                        |         [[id:851aeb1f-6a3f-4770-89c2-addd5d19b351][sprocket remover － 固定飞轮工具]] |       x |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Chain                  |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |                     [[id:f14dcbfb-6022-48e7-a594-efc31e373bd7][chain tool － 截链器]] |       x |         |         | x       |        |
+  |                        |         [[id:ce0aa37e-b932-4b9e-83b8-4ffa25b6922d][master link pliers － 魔术扣工具]] |       x |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Clean                  |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |    [[id:11d6eb86-09b1-4368-bb73-7dd6474b62cc][nitrile mechanic gloves － 防油渍手套]] |       x |         |         |         |        |
+  |                        |  [[id:950f2357-7734-4124-ab27-3430215bf825][cassette cleaning brush － 传动清洗刷子]] |         |         |         |         | x      |
+  |                        |                    [[id:199535cb-9781-4bed-9928-ee2f4efae9e0][degreaser － 防止锈脂]] |         |         |         |         | x      |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Crank & Bottom bracket |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        | [[id:8270aa48-b539-40af-8096-462cdf058c40][bottom bracket tool - splined －花键中轴]] |         |         |         |         |        |
+  |                        |       [[id:fe898afb-8706-4f01-95bd-8a14bf701f2f][square tapered spindles - 方孔中轴]] |         |         |         |         |        |
+  |                        |           [[id:6ad6aa7e-2fe5-4768-b16f-f55a262f8173][bottom bracket tool - 一体中轴]] |         |       x |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Hex                    |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |   [[id:20c06312-3908-46d7-8591-fb987b8f4fb4][p-handle hex wrench 4mm  - 四号P型六角]] |       x |         |         |         |        |
+  |                        |  [[id:a5da44b5-d072-4222-8633-1a0dc1fab525][p-handle hex wrench 5mm  － 五号P型六角]] |       x |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Lubricants             |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |                 [[id:1d98e56a-8c65-4131-beaf-326079c008ae][bio chainbrite™ - 链条油]] |         |         |         |         |        |
+  | Pumps                  |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |                  [[id:963cfe0a-ed06-4e00-a29c-9a76f222c963][floor pump - 地板打气筒]] |         |         |         |         |        |
+  |                        |                    [[id:d68e955e-db3f-4a8a-ac99-caa09652f974][fork pump － 前叉气筒]] |         |         |         |         |        |
+  |                        |                  [[id:d8dc3d4d-a6d8-4b6d-b145-f54b9aa91ba7][pocket pump － 便携气筒]] |         |         |         | x       |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Wheel & Spoke          |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  |                        |                  [[id:4a8e97e8-9b40-4033-bc83-53baf2c92187][spoke wrench - 辐条扳手]] |       x |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
+  | Hub & axle             |                                          |         |         |         |         |        |
+  | Headset                |                                          |         |         |         |         |        |
+  | Frame & fork           |                                          |         |         |         |         |        |
+  |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
 
-* tools index
-** cable and housing cutter
+* bike tools index － 自行车工具总览                                    :MOC:
+  :PROPERTIES:
+  :ID:       84de1552-916e-4f66-b355-0c577439161b
+  :LAST_MODIFIED: [2021-08-05 Thu 22:35]
+  :END:
+** spoke wrench - 辐条扳手
+:PROPERTIES:
+:id: 4a8e97e8-9b40-4033-bc83-53baf2c92187
+:END:
+** fork pump － 前叉气筒
+   :PROPERTIES:
+   :ID:       d68e955e-db3f-4a8a-ac99-caa09652f974
+   :LAST_MODIFIED: [2021-08-05 Thu 22:45]
+   :END:
+
+** pocket pump － 便携气筒
+   :PROPERTIES:
+   :ID:       d8dc3d4d-a6d8-4b6d-b145-f54b9aa91ba7
+   :END:
+
+** floor pump - 地板打气筒
+   :PROPERTIES:
+   :ID:       963cfe0a-ed06-4e00-a29c-9a76f222c963
+   :END:
+
+** bio chainbrite™ - 链条油
+   :PROPERTIES:
+   :ID:       1d98e56a-8c65-4131-beaf-326079c008ae
+   :LAST_MODIFIED: [2021-08-05 Thu 22:44]
+   :END:
+
+** p-handle hex wrench 4mm  - 四号P型六角
+   :PROPERTIES:
+   :ID:       20c06312-3908-46d7-8591-fb987b8f4fb4
+   :END:
+
+** p-handle hex wrench 5mm  － 五号P型六角
+   :PROPERTIES:
+   :ID:       a5da44b5-d072-4222-8633-1a0dc1fab525
+   :END:
+
+** quick change bit driver set － 组合工具
+   :PROPERTIES:
+   :ID:       757ff8e3-3b26-4e2c-89e5-7465e57e5a12
+   :END:
+
+** phillips screwdriver - 十字螺丝刀
+   :PROPERTIES:
+   :ID:       0ce3064f-30f4-4963-9080-ead23f7a5d5a
+   :END:
+** flat blade screwdriver - 一字螺丝刀
+   :PROPERTIES:
+   :ID:       20079ea0-aeb5-4757-b9e3-b9484dccff04
+   :END:
+** wrench 15mm - 扳手
+   :PROPERTIES:
+   :ID:       107dd05f-c091-4b5e-a012-ff97381c1ee2
+   :END:
+** pliers - 钳子
+   :PROPERTIES:
+   :ID:       ff85fe02-8a3c-4a58-9910-e879a51e0f7b
+   :END:
+** cable and housing cutter - 线管工具
    :PROPERTIES:
    :ID:       86654d0d-4379-4c26-8f38-2b854398612e
    :END:
-** cassette locking tool
+** cassette locking tool - 飞轮锁死工具
    :PROPERTIES:
    :ID:       c29bb4f7-d7a4-4389-b90a-5b92f29c0966
    :END:
-** sprocket remover
+** sprocket remover － 固定飞轮工具
    :PROPERTIES:
    :ID:       851aeb1f-6a3f-4770-89c2-addd5d19b351
    :END:
+** chain tool － 截链器
+   :PROPERTIES:
+   :ID:       f14dcbfb-6022-48e7-a594-efc31e373bd7
+   :END:
+** master link pliers － 魔术扣工具
+   :PROPERTIES:
+   :ID:       ce0aa37e-b932-4b9e-83b8-4ffa25b6922d
+   :END:
+** nitrile mechanic gloves － 防油渍手套
+   :PROPERTIES:
+   :ID:       11d6eb86-09b1-4368-bb73-7dd6474b62cc
+   :END:
+** cassette cleaning brush － 传动清洗刷子
+   :PROPERTIES:
+   :ID:       950f2357-7734-4124-ab27-3430215bf825
+   :END:
+** degreaser － 防止锈脂
+   :PROPERTIES:
+   :ID:       199535cb-9781-4bed-9928-ee2f4efae9e0
+   :LAST_MODIFIED: [2021-08-05 Thu 22:47]
+   :END:
+** bottom bracket tool - [[id:40ad026c-7980-4860-ae4d-6c9cf5b5522a][splined －花键中轴]]
+   :PROPERTIES:
+   :ID:       8270aa48-b539-40af-8096-462cdf058c40
+   :END:
+** bottom bracket tool - [[id:fe898afb-8706-4f01-95bd-8a14bf701f2f][square tapered spindles - 方孔中轴]]
+   :PROPERTIES:
+   :ID:       6adb0b74-e643-4981-891e-1b97bf581043
+   :END:
+** bottom bracket tool - [[id:52e39c97-c015-4ce1-9645-1d413be8a45f][一体中轴]]
+   :PROPERTIES:
+   :ID:       6ad6aa7e-2fe5-4768-b16f-f55a262f8173
+   :LAST_MODIFIED: [2021-08-05 Thu 22:34]
+   :END:
+
+* 参考资料
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-05 Thu 22:35]
+  :END:
+- https://www.parktool.com/product/docs
+- searchable tutorial https://www.parktool.com/blog/repair-help

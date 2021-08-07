@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       2b4f175c-9bb8-400c-9975-816697764f63
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: 骑游和竞技
 #+CREATED:       [2020-11-17 Tue 21:32]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 
 骑游，能亲眼看见壮阔河山，已是一种乐趣。身体力行，移步换景的体验，则更

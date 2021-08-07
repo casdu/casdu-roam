@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       17a7c446-984c-4dc5-b073-2017080fdf1d
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: casdu-bike-bearing
 #+CREATED:       [2020-10-30 Fri 11:50]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 * videos
 ** analysis on White T11 Rear hub

@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       c61e5cee-521f-4cb7-9d6c-64a5af666132
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: github vs forum
+#+filetags: casdu
 
 ** GitHub 和 论坛一样，有其长，有其短。虽然 GitHub 有很多值得称赞的地方，
 但是他是不会替代论坛的。论坛的数据库代码都是在掌握在我们自己手里的，这

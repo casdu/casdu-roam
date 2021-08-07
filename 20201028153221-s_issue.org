@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       0a3f0a1f-2958-4cef-8d69-f47bcd8ca6f8
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: s-issue
 #+CREATED:       [2020-10-28 Wed 15:32]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 * chinese-name-to-ini
 * what is cookie?

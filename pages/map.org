@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       0b29152f-4761-4e6e-bd1f-9bd6fae24d1a
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: map
+#+filetags: casdu
 
 * software
   - [[https://github.com/streetcomplete/StreetComplete][GitHub - streetcomplete/StreetComplete: Easy to use OpenStreetMap editor for Android]]

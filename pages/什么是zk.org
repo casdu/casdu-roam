@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       093aade0-4745-4c33-bb29-ab1c846ff4bb
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 什么是ZK
+#+filetags: casdu
 
 ** [[https://www.reddit.com/r/Zettelkasten/comments/b566a4/what_is_a_zettelkasten/][Ref1]]
 *** 存储扩展个人的知识回忆，并产生新的想法

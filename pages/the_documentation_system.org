@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       27a8d2b6-c6cb-4e8b-aa11-d34e5e018727
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: the documentation system
+#+filetags: casdu
 
 https://documentation.divio.com/ shows a good way to communicate in written format.
 

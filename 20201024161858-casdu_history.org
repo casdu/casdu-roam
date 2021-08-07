@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       fbbe0806-9f1b-44a8-8c2c-8d955141ea25
+:LAST_MODIFIED: [2021-08-07 Sat 13:56]
 :END:
 #+title: casdu history
+#+filetags: casdu
 
 * 2004
 http://bbs.casdu.cn/forum.php?mod=viewthread&tid=1084&extra=page%3D1

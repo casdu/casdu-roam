@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       fdd24910-177a-421a-adad-a5ee3944ddd2
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 3D 模型
+#+filetags: casdu
 
 ** 3D scanning
    :PROPERTIES:

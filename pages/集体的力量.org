@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       d9f1b704-d29e-4183-a819-3be90009c860
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 集体的力量
+#+filetags: casdu
 
 **
 #+BEGIN_QUOTE http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11874

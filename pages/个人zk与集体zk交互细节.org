@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       4c24c45b-6b2b-434b-83bc-e146984e49a5
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 个人ZK与集体ZK交互细节
+#+filetags: casdu
 
 ** 都归入 Git 版本控制
 ** 在个人 ZK 中以 submodule 加入

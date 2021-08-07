@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       dc743a48-2b4d-4048-ba28-be5df5e62773
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 竞技
+#+filetags: casdu
 
 ** why it matters?
 Competition can inspire someone to perform at the level s/he can not

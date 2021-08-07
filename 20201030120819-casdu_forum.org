@@ -1,12 +1,17 @@
 :PROPERTIES:
 :ID:       d2d4da3a-46ea-4fbc-b1d6-7bb67826b72b
+:LAST_MODIFIED: [2021-08-07 Sat 13:54]
 :END:
 #+TITLE: casdu-forum
 #+CREATED:       [2020-10-30 Fri 12:08]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 14:28]
+#+filetags: project casdu
 
 Some softward lists:
 * discourse
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-07 Sat 13:57]
+  :END:
 ** https://discourse.vtk.org/
 ** https://discourse.paraview.org/
 ** https://emacs-china.org/
@@ -39,3 +44,48 @@ or...?
 - discuz is not free software
 - discuz is too easy to be hacked
 - discuz does not support backup for users
+
+* HOLD dayou's post
+  CLOSED: [2021-08-01 Sun 22:03]
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-07 Sat 14:28]
+  :END:
+** TODO 论队医 【长帖，非诚勿入.pdf
+** TODO 队医知识扫盲帖.pdf
+** TODO 应社会实践职务总结前站篇.pdf
+** TODO beida.pdf
+** TODO [[id:a62dd02e-fcf9-492e-9185-f4b2f469eccd][与水相处]]
+** DONE 我们眼中的技术员.pdf
+   CLOSED: [2021-08-05 Thu 22:09]
+   - [[id:d6d674c8-ee6d-4a5a-b7a2-edbafa939473][bike fixing skill]]
+** DONE 技术员人人都应掌握的基本功 文_康家驹.pdf
+   CLOSED: [2021-08-05 Thu 22:28]
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-08-05 Thu 22:29]
+   :END:
+   - [[id:d6d674c8-ee6d-4a5a-b7a2-edbafa939473][bike fixing skill]]
+** DONE 【职务总结】前骑.pdf
+   CLOSED: [2021-08-03 Tue 21:38]
+   :PROPERTIES:
+   :END:
+   - [[id:2d20f388-0d2b-45e3-b29e-0c680fa6a409][前骑]]
+** DONE 骑行讨论.pdf
+   CLOSED: [2021-08-02 Mon 21:32]
+   :PROPERTIES:
+   :web: bbs.casdu.cn/forum.php?mod=viewthread&tid=1704
+   :END:
+   - [[id:9dabddd0-bc80-45f9-8fca-25691acadf2d][open question]]
+** DONE 职务总结帖.pdf
+   CLOSED: [2021-08-02 Mon 21:49]
+   :PROPERTIES:
+   :web: bbs.casdu.cn/forum.php?mod=viewthread&tid=7340
+   :END:
+   - [[id:cf40d3b7-8e13-4b2e-bf86-322874a5a875][前站]]
+** DONE 金牌后骑。。。我的远征第一梦想。。。总结.pdf
+   CLOSED: [2021-08-01 Sun 21:52]
+** DONE 如何成为一名技术员.pdf
+   CLOSED: [2021-08-01 Sun 21:52]
+** DONE 队长工作手册（山大车协1.0版).pdf
+   CLOSED: [2021-08-01 Sun 21:53]
+** DONE 编队骑行须知（山大车协1.1版：2008年10月22日更新）.pdf
+   CLOSED: [2021-08-01 Sun 21:53]

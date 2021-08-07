@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       0a2980b5-b246-42d7-b234-7ec87dda039c
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: casdu-cooking
 #+CREATED:       [2020-10-28 Wed 15:40]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 * 炒牛肉 (三个做法)
 ** meterial

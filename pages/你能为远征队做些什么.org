@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       3f9bb7fd-f6e8-473d-839b-50a02fabb87a
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 你能为远征队做些什么
+#+filetags: casdu
 
 ** http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11881
 *** 能把我与自行车的经历记录在这里

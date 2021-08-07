@@ -1,7 +1,19 @@
 :PROPERTIES:
 :ID:       2f3bc6cb-b8f9-447a-b914-a8626447481d
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: logseq
+#+filetags: project casdu
+
+* TODO 写介绍帖
+
+#+begin_quote bbs.casdu.cn/forum.php?mod=viewthread&tid=7340 5楼
+觉得每年都有很多总结帖，要不你们看看能不能弄成一个完整的帖子。之后谁要
+想修改就直接在上面修改，最好弄成能谁都能改的，就像百度贴吧那样（建议修
+改时加上名字与日期）。这样大家可以不用一篇篇找了。或者，将所有帖子总结
+一下放在一个word文件里，或者把所有帖子分别编辑成word文档打包上传一下。
+谁想修改了把修改意见放在后面，管理员修改一下，再重新上传。
+#+end_quote
 
 ** search panel is good
 *** pages,files, then searching all the content

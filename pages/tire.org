@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e1a95af6-adef-43d0-ba7a-267aded0f10d
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:END:
+#+TITLE: 轮胎 - Tire
+#+filetags: casdu
+
+** [[真空胎技巧]]
+** Tire List
+*** Continental Grand Prix 4000 S
+    :PROPERTIES:
+    :ID:       f8219863-a1f5-400e-9a0b-bb294fb671d0
+    :END:
+
+    - [[https://www.bikeradar.com/reviews/components/tyres/continental-grand-prix-4000-sii-review/][Continental GP4000 S2 tyre review - BikeRadar]]
+    - CAD: $89.49

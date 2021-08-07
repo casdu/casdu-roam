@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       a68b9d38-d637-4fb5-9b62-0657e0a2861b
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: FTP
+#+filetags: casdu
 
 
     |              | DATA | METHOD  | NOTES |

@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       5139c5a7-2f3d-4060-a112-198c98e5723b
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: polarize training v.s. sweet spot training
+#+filetags: project casdu
 
 ** meta info
 register:

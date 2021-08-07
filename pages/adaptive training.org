@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       7155ae58-6dc1-43ff-b936-99440dafbd81
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: Adaptive Training
+#+filetags: casdu
 
 ** Listen to my body or listen to the data?
 ** What is the goal?

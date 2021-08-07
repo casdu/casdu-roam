@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       9f91a4d8-7976-4207-a014-765606bba33d
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: design-our-bike
 #+CREATED:       [2020-10-27 Tue 10:50]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:27]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 * background
 ** how to make carbon frame?

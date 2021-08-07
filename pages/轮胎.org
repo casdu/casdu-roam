@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       e1a95af6-adef-43d0-ba7a-267aded0f10d
-:END:
-#+TITLE: 轮胎
-
-** [[真空胎技巧]]

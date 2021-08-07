@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       7805f59e-310e-4258-b504-9d841948a96a
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: 真空胎技巧
+#+filetags: casdu
 
 ** 源自： http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11866&extra=page%3D1
 ** 用雪碧瓶作为中转容器，进出容器分别是真空气嘴和软管。通过气嘴打到60到80 psi，松开长尾票夹，真空外胎就就会和车轮完美结合。

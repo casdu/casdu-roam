@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32d52b52-46d3-4dbb-a761-72b61373a394
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:END:
+#+title: casdu zk rule
+#+created:       [2021-08-04 Wed 09:02]
+#+last_modified: [2021-08-07 Sat 14:00]
+#+startup: showall
+#+filetags: casdu
+
+
+1. 不要删除文件或者标题
+
+   如果发现原来的文件标题结构太过混乱，重新新建一个标题，用
+   =org-transclude= 把之前的文档好的部分引用到新的文档中。
+
+2. 不要使用图片
+
+   主要是减少这个仓库的大小。可以把图片发在论坛，然后在这里留下连接。

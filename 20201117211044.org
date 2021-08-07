@@ -1,9 +1,11 @@
 :PROPERTIES:
 :ID:       17854b8e-c107-4f51-9500-40a3492ab80d
+:LAST_MODIFIED: [2021-08-07 Sat 13:57]
 :END:
 #+TITLE: 解决某校区人手不够问题
 #+CREATED:       [2020-11-17 Tue 21:10]
-#+LAST_MODIFIED: [2021-05-27 Thu 19:02]
+#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+filetags: casdu
 
 讨论源自于[[http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11876&extra=&page=1][帖子]]。
 

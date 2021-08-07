@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       928c49d6-c6cc-4ba7-8dcd-cc0396fffdba
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: equipment
+#+filetags: casdu
 
 ** 头盔
 *** 欧洲头型适配问题（橄榄型）

@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       b9165f65-7717-4028-a97d-1c1d20d88f3a
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: TEAM ZK
+#+filetags: casdu
 
 ** [[file:./如何让他人使用这个_zk.org][如何让他人使用这个 ZK]]
 ** Source: https://medium.com/traverselink/why-your-zettelkasten-needs-spaced-repetition-ccba2ec146b8

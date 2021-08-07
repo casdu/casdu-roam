@@ -1,7 +1,9 @@
 :PROPERTIES:
 :ID:       b4f021b0-0580-48a2-8778-cd49cffcb677
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: actionable goals about cycling
+#+filetags: casdu
 
 ** “follow my training plan for 1 season”
 ** “nail the three important workouts each week”

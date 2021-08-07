@@ -1,4 +1,8 @@
+:PROPERTIES:
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:END:
 #+TITLE: bbs-publish
+#+filetags: casdu
 
 ** 谈谈自己对论坛的看法
 *** BBS 过时了么？

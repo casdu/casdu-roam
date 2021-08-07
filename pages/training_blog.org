@@ -1,6 +1,8 @@
 :PROPERTIES:
 :ID:       f50df3dc-1be3-414b-b4f0-d9dd55f49f3d
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
 #+TITLE: training blog
+#+filetags: casdu
 
 ** https://sparecycles.blog/

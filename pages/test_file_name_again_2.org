@@ -1,7 +1,42 @@
 :PROPERTIES:
 :ID:       d39d25ef-4110-46cf-8bf2-eaef4e108d8b
+:LAST_MODIFIED: [2021-08-07 Sat 14:00]
 :END:
-#+TITLE: test file name again 2
+#+TITLE:  test file name again 2 测试
+#+filetags: casdu
+
+
+** 测试 Bug
+   :PROPERTIES:
+   :ID:       9964b115-d337-4fbd-98ca-79bafb297dc2
+   :END:
+(org-roam-get-keyword "TITLE" (org-roam-node-file (org-roam-node-at-point)))
+org-roam-get-keyword
+
+(defun org-roam-get-keyword (name &optional file bound)
+  "Return keyword property NAME from an org FILE.
+FILE defaults to current file.
+Only scans up to BOUND bytes of the document."
+  (unless bound
+    (setq bound 1024))
+  (if file
+      (with-temp-buffer
+        (insert-file-contents-literally file nil 0 bound)
+        (org-roam--get-keyword name))
+    (org-roam--get-keyword name bound)))
+
+(defun org-roam-get-keyword (name &optional file bound)
+  "Return keyword property NAME from an org FILE.
+FILE defaults to current file.
+Only scans up to BOUND bytes of the document."
+  (unless bound
+    (setq bound 1024))
+  (if file
+      (with-temp-buffer
+        ;; from insert-file-contents-literally to insert-file-contents
+        (insert-file-contents file nil 0 bound)
+        (org-roam--get-keyword name))
+    (org-roam--get-keyword name bound)))
 
 ** test file2 headline a
    :PROPERTIES:
@@ -12,16 +47,6 @@
 
 ** [[id:617d3436-3b9f-4705-87ec-50dffa8c0676][test file name again]]
 
-
-
-
-
-
-
-
-
-
-
 ** test file2 headline b
    :PROPERTIES:
    :ID:       3df4fb41-b008-4fba-a2f7-275c5ffe0299
@@ -30,3 +55,13 @@
    [[id:b59c92c7-4467-4614-95bd-01ed0bb1b772][test file2 headline a]]
 
    [[id:ddb701de-b203-455d-8386-785d7c501bfb][2021-07-13]]
+
+*** <2021-07-30 Fri> test again.
+    :PROPERTIES:
+    :ID:       9ef0e44c-5b4e-43bb-9a8d-35cf8823cf15
+    :END:
+
+    This time again. Nyan mode is not working.
+* refile example
+
+  I write something here.

@@ -1,5 +1,21 @@
 :PROPERTIES:
-:LAST_MODIFIED: [2021-08-07 Sat 13:57]
+:LAST_MODIFIED: [2021-08-07 Sat 15:27]
 :END:
 #+filetags: casdu
-.
+
+Except where otherwise noted, the material in this repository is
+dual-licensed under the terms of the Creative Commons
+Attribution-ShareAlike 4.0 International Public License; and the GNU
+General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later
+version.
+
+Copies of these two licenses are included in this repository, in the
+COPYING.GPL and COPYING.CC-BY-SA files.
+
+By contributing to any page on this repository, you agree to make your
+contributions available under the above licenses. You are also
+promising that you are the author of your changes, or that you copied
+them from a work in the public domain or a work released under a free
+license that is compatible with the above two licenses. DO NOT SUBMIT
+COPYRIGHTED WORK WITHOUT PERMISSION.

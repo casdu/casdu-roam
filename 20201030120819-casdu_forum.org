@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       d2d4da3a-46ea-4fbc-b1d6-7bb67826b72b
-:LAST_MODIFIED: [2021-08-07 Sat 13:54]
+:LAST_MODIFIED: [2021-08-11 Wed 16:29]
 :END:
 #+TITLE: casdu-forum
 #+CREATED:       [2020-10-30 Fri 12:08]
-#+LAST_MODIFIED: [2021-08-07 Sat 14:28]
+#+LAST_MODIFIED: [2021-08-11 Wed 16:29]
 #+filetags: project casdu
 
 Some softward lists:

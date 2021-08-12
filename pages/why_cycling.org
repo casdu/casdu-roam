@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a68fcefb-0a58-47a0-8652-358ca2b10159
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:31]
 :END:
 #+TITLE: why cycling
 #+filetags: casdu

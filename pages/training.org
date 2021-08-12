@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:31]
 :END:
 #+TITLE: training
 #+filetags: casdu

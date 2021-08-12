@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       32d52b52-46d3-4dbb-a761-72b61373a394
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:33]
 :END:
 #+title: casdu zk rule
 #+created:       [2021-08-04 Wed 09:02]
-#+last_modified: [2021-08-07 Sat 14:00]
+#+last_modified: [2021-08-11 Wed 16:33]
 #+startup: showall
 #+filetags: casdu
 

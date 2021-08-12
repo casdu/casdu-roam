@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       9dabddd0-bc80-45f9-8fca-25691acadf2d
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:33]
 :END:
 #+title: open question
 #+created:       [2021-08-01 Sun 21:56]
-#+last_modified: [2021-08-07 Sat 14:00]
+#+last_modified: [2021-08-11 Wed 16:33]
 #+startup: showall
 #+filetags: casdu
 

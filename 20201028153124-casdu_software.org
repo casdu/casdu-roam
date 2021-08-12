@@ -1,11 +1,40 @@
 :PROPERTIES:
 :ID:       c9809298-b447-40c7-937f-74efa36bc8f0
-:LAST_MODIFIED: [2021-08-07 Sat 13:57]
+:LAST_MODIFIED: [2021-08-11 Wed 16:29]
 :END:
 #+TITLE: casdu-software
 #+CREATED:       [2020-10-28 Wed 15:31]
-#+LAST_MODIFIED: [2021-08-07 Sat 13:57]
+#+LAST_MODIFIED: [2021-08-11 Wed 21:32]
 #+filetags: casdu
+
+* logseq 的特点
+  :PROPERTIES:
+  :ID:       f2814768-cf6c-44bd-b0ae-e6352aee5185
+  :LAST_MODIFIED: [2021-08-07 Sat 15:49]
+  :END:
+- Logseq 文本数据库双向同步
+- 要保证数据库和文件的同时修改
+- 在本地修改了文件以后，也需要保证同步加载到数据库里的数据是正确的
+  - Roam research 而是纯数据库
+- 优点是实现简单，灵活
+- 缺点是自家格式，不通用，不方便跟其他编辑器协作。
+- Roam 跟 logseq 用的都是一个数据库代码
+- Logseq 可以加载任意目录结构
+
+* casdu-roam 使用方法
+  :PROPERTIES:
+  :ID:       f81e341b-e6c8-434b-bbaf-b1282a22a349
+  :LAST_MODIFIED: [2021-08-07 Sat 15:42]
+  :END:
+
+- [[id:5fd6cd0c-953b-4401-92a7-8c5061170fb3][logseq 解决了必须依赖 Emacs 的问题]]
+
+* HOLD pdf 从文字文档中自动生成
+  CLOSED: [2021-08-11 Wed 21:31]
+  :PROPERTIES:
+  :ID:       027aeb69-02e9-4054-98cb-8e12e87ec820
+  :LAST_MODIFIED: [2021-08-11 Wed 21:32]
+  :END:
 
 * toughest installation (almost five mouths)
 https://bugs.openfoam.org/view.php?id=2051

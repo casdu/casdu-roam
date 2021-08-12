@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       a8b43772-d2f9-4be9-bf34-0887a5b55058
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:32]
 :END:
 #+title: casdu capture v2
 #+created:       [2021-07-25 Sun 15:58]
-#+last_modified: [2021-08-07 Sat 14:00]
+#+last_modified: [2021-08-11 Wed 16:32]
 #+startup: showall
 #+filetags: casdu
 

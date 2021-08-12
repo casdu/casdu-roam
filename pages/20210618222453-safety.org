@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       e4b2bf7a-6c3c-4431-ba04-2b4c8458f0ea
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-08-11 Wed 16:33]
 :END:
 #+title: safety
 #+created:       [2021-06-18 Fri 22:24]
-#+last_modified: [2021-08-07 Sat 14:00]
+#+last_modified: [2021-08-11 Wed 16:33]
 #+startup: showall
 #+filetags: project casdu
 

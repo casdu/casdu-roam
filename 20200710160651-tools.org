@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       3c01fbd0-5270-4a5c-a8c9-591744d6c0ed
-:LAST_MODIFIED: [2021-08-07 Sat 13:57]
+:LAST_MODIFIED: [2021-08-11 Wed 16:31]
 :END:
 #+title: bike tools
-#+filetags: casdu
+#+filetags: project casdu
 
 * 单车常用工具分类
 :PROPERTIES:
@@ -86,7 +86,15 @@ https://www.youtube.com/watch?v=hRLbamNQa_0
 * 大队骑行工具准备
 ** 单日拉练
 ** 多日拉练
-** [[file:./pages/远征.org][远征]]
+** [[file:./pages/远征.org][远征]]工具清单
+*** [[id:56bbc19f-7228-4fcd-ae66-f4dd1f9a3aa3][2021]]远征工具清单
+    :PROPERTIES:
+    :LAST_MODIFIED: [2021-08-07 Sat 22:11]
+    :END:
+*** TODO 21远征队技术员物资 - 2021年远征版-肩扛红色旅游旗，车量百年建党路 - 山东大学自行车协会论坛 - Powered by Discuz!.pdf
+    :PROPERTIES:
+    :LAST_MODIFIED: [2021-08-07 Sat 22:13]
+    :END:
 * 工作流
 
 #+begin_export ascii

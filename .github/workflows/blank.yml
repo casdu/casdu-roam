@@ -23,6 +23,7 @@ jobs:
       
       - name: Modify value # generate pdfs
         run: |
+          cd moc
           emacs --batch -l moc/test.el
           
       - name: Commit files # commit the output folder

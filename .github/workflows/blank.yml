@@ -23,14 +23,14 @@ jobs:
       
       - name: Modify value # generate pdfs
         run: |
-          cd moc
+          cd ../moc
           emacs --batch -l moc/test.el
           
       - name: Commit files # commit the output folder
         run: |
           git config --local user.email "IamBOT@github.com"
           git config --local user.name "BOT"
-          git add moc/*.pdf
+          git add ../moc/*.pdf
           git commit -m "Pdfs updated"
           
       - name: Push changes # push the output folder to your repo

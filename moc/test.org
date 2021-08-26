@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+:PROPERTIES:
+:LAST_MODIFIED: [2021-08-11 Wed 21:27]
+:EXPORT_FILE_NAME: ./test
+:END:
+#+title: casdu zk output index file
+#+LATEX_COMPILER: lualatex
+#+LaTeX_HEADER: \usepackage{ctex}
+#+created:       [2021-08-05 Thu 11:58]
+#+last_modified: [2021-08-11 Wed 21:27]
+#+startup: showall
+#+filetags: casdu
+
+中文测试。
+
+中文输入法。速度不错的。

@@ -15,7 +15,11 @@ jobs:
         with:
           # The version of Emacs to install, e.g. "24.3", or "snapshot" for a recent development version.
           version: 27.1
-          
+  
+      - name: Modify value # generate pdfs
+        run: |
+          sudo apt install texlive-full
+      
       - name: Modify value # generate pdfs
         run: |
           emacs --batch -l moc/test.el

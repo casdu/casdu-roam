@@ -1,11 +1,21 @@
 :PROPERTIES:
 :ID:       e1a95af6-adef-43d0-ba7a-267aded0f10d
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2021-11-25 Thu 14:15]
 :END:
 #+TITLE: 轮胎 - Tire
 #+filetags: casdu
 
+** Checking tools
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-01-30 Sun 16:15]
+   :END:
+
+   解释代码含义: [[https://fahrrad-tools.de/tire.html][Bike Tire | Fahrrad-Tools.de]]
+
 ** [[真空胎技巧]]
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-01-30 Sun 16:15]
+   :END:
 ** Tire List
 *** Continental Grand Prix 4000 S
     :PROPERTIES:

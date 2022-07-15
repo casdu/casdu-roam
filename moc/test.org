@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 :PROPERTIES:
-:LAST_MODIFIED: [2021-08-11 Wed 21:27]
+:LAST_MODIFIED: [2022-07-15 Fri 14:47]
 :EXPORT_FILE_NAME: ./test
 :END:
 #+title: casdu zk output index file
 #+LATEX_COMPILER: lualatex
 #+LaTeX_HEADER: \usepackage{ctex}
+#+OPTIONS: H:5 tags:nil toc:nil num:nil prop:nil
 #+created:       [2021-08-05 Thu 11:58]
-#+last_modified: [2021-08-11 Wed 21:27]
+#+last_modified: [2022-07-15 Fri 14:47]
 #+startup: showall
 #+filetags: casdu
 

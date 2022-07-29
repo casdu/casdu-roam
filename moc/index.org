@@ -1,23 +1,25 @@
 :PROPERTIES:
 :ID:       a25fa2fb-91de-4d24-9993-eddf3d8408d8
-:LAST_MODIFIED: [2022-07-15 Fri 13:11]
+:LAST_MODIFIED: [2022-07-29 Fri 15:35]
 :EXPORT_FILE_NAME: ./test
 :END:
 #+title: casdu zk output index file
 #+LATEX_COMPILER: lualatex
 #+LaTeX_HEADER: \usepackage{ctex}
 #+created:       [2021-08-05 Thu 11:58]
-#+last_modified: [2022-07-15 Fri 13:11]
+#+last_modified: [2022-07-29 Fri 15:35]
 #+startup: showall
 #+filetags: casdu
 
 这是中文部分。这是对 org transclusion 的测试。
 
+#+begin_src elisp
 (advice-add 'org-latex-export-to-pdf :before #'org-transclusion-add-all)
 (add-hook 'org-latex-export-to-pdf (lambda () (org-transclusion-add-all)))
 (add-hook 'org-export-before-processing-hook (lambda () (org-transclusion-add-all)))
 (advice-add 'org-export-before-processing-hook :before #'org-transclusion-add-all)
 (org-transclusion-add-all)
+#+end_src
 
 
 #+transclude: [[id:88f1f676-7e13-441c-a9c6-6e629ff62a93][换胎一般流程]]

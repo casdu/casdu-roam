@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       a25fa2fb-91de-4d24-9993-eddf3d8408d8
-:LAST_MODIFIED: [2022-07-29 Fri 17:43]
+:LAST_MODIFIED: [2022-07-29 Fri 18:02]
 :EXPORT_FILE_NAME: ./test
 :END:
 #+title: casdu zk output index file
 #+LATEX_COMPILER: lualatex
 #+LaTeX_HEADER: \usepackage{ctex}
 #+created:       [2021-08-05 Thu 11:58]
-#+last_modified: [2022-07-29 Fri 17:43]
+#+last_modified: [2022-07-29 Fri 18:02]
 #+startup: showall
 #+filetags: casdu
 
@@ -27,4 +27,8 @@
 
 \clearpage\n
 
-#+transclude: [[id:88f1f676-7e13-441c-a9c6-6e629ff62a93][换胎一般流程]]
+#+transclude: [[id:88f1f676-7e13-441c-a9c6-6e629ff62a93][换胎一般流程]] :level 1
+
+\clearpage\n
+
+#+transclude: [[id:027aeb69-02e9-4054-98cb-8e12e87ec820][从纯文档中自动生成 pdf]] :level 1

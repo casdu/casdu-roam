@@ -1,17 +1,18 @@
 :PROPERTIES:
 :ID:       c9809298-b447-40c7-937f-74efa36bc8f0
-:LAST_MODIFIED: [2021-08-11 Wed 16:29]
+:LAST_MODIFIED: [2022-07-29 Fri 15:05]
 :END:
 #+TITLE: casdu-software
 #+CREATED:       [2020-10-28 Wed 15:31]
-#+LAST_MODIFIED: [2021-08-11 Wed 21:32]
+#+LAST_MODIFIED: [2022-07-29 Fri 15:05]
 #+filetags: casdu
 
-* logseq 的特点
+* logseq 特点
   :PROPERTIES:
   :ID:       f2814768-cf6c-44bd-b0ae-e6352aee5185
-  :LAST_MODIFIED: [2021-08-07 Sat 15:49]
+  :LAST_MODIFIED: [2022-07-29 Fri 15:02]
   :END:
+
 - Logseq 文本数据库双向同步
 - 要保证数据库和文件的同时修改
 - 在本地修改了文件以后，也需要保证同步加载到数据库里的数据是正确的
@@ -26,17 +27,75 @@
   :ID:       f81e341b-e6c8-434b-bbaf-b1282a22a349
   :LAST_MODIFIED: [2021-08-07 Sat 15:42]
   :END:
+  - [[id:5fd6cd0c-953b-4401-92a7-8c5061170fb3][logseq 解决了依赖 Emacs 的问题]]
+** document easy task then continue to find way to improve
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-11-24 Wed 17:37]
+   :END:
+When [[id:cf1d72a4-c826-4737-9482-0e72a3b25471][bao tai]] is documented, what can you further improve it?
 
-- [[id:5fd6cd0c-953b-4401-92a7-8c5061170fb3][logseq 解决了必须依赖 Emacs 的问题]]
-
-* HOLD pdf 从文字文档中自动生成
-  CLOSED: [2021-08-11 Wed 21:31]
+* 从纯文档中自动生成 pdf                                     :latex:book:
   :PROPERTIES:
   :ID:       027aeb69-02e9-4054-98cb-8e12e87ec820
-  :LAST_MODIFIED: [2021-08-11 Wed 21:32]
+  :LAST_MODIFIED: [2022-07-29 Fri 15:01]
+  :END:
+  :LOGBOOK:
+  - State "DONE"       from "HOLD"       [2021-08-27 Fri 22:36]
+  CLOCK: [2021-08-27 Fri 21:44]--[2021-08-27 Fri 22:36] =>  0:52
+  - State "HOLD"       from "HOLD"       [2021-08-25 Wed 22:59] \\
+    Day 3: codespace 没有问题了；在 debug 从 CI 上直接编译 pdf
+  CLOCK: [2021-08-25 Wed 21:47]--[2021-08-25 Wed 22:59] =>  1:12
+  - State "HOLD"       from "HOLD"       [2021-08-18 Wed 22:17]
+  CLOCK: [2021-08-18 Wed 21:20]--[2021-08-18 Wed 22:17] =>  0:57
+  - State "HOLD"       from "HOLD"       [2021-08-12 Thu 22:38]
+  CLOCK: [2021-08-12 Thu 22:01]--[2021-08-12 Thu 22:38] =>  0:37
   :END:
 
+  - [[https://github.com/llcc/org-auto-export/blob/master/org-auto-export.el][org-auto-export/org-auto-export.el at master · llcc/org-auto-export · GitHub]]
+  - [[https://github.com/nobiot/org-transclusion/issues?q=is%3Aissue+author%3Acryoguy][Issues · nobiot/org-transclusion · GitHub]]
+  - [[https://jdhao.github.io/2017/12/10/pandoc-markdown-with-chinese/][纯文本做笔记 --- 使用 Pandoc 把 Markdown 转为 PDF 文件 - jdhao's blog]]
+  - [[https://emacs-china.org/t/emacsclient-as-pager/17415][Emacsclient As Pager - Emacs-general - Emacs China]]
+
+** ref
+   - [[http://www.ctex.org/documents/latex/graphics/node120.html][latex 中文指南]]
+** using github CI
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-08-25 Wed 21:48]
+   :END:
+
+** debug issue
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-08-25 Wed 21:47]
+   :END:
+   #+begin_verse
+Missing character: There is no 中 (U+4E2D) in font [lmroman10-regular]:+tlig;!
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no 文 (U+6587) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no 测 (U+6D4B) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no 试 (U+8BD5) in font [lmroman10-regular]:+tlig;!
+Missing character: There is no 。 (U+3002) in font [lmroman10-regular]:+tlig;!
+]
+#+end_verse
+* 搭建自用服务器
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-13 Fri 15:17]
+  :END:
+  - [[https://gogs.io/][Gogs: A painless self-hosted Git service]]
+* github 加速
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-13 Fri 22:45]
+  :END:
+  - [[https://github.com/521xueweihan/GitHub520][GitHub - 521xueweihan/GitHub520: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）]]
+  - [[https://jdhao.github.io/2021/01/08/github_access_issue_in_china/][解决 GitHub 资源无法下载的问题 - jdhao's blog]]
 * toughest installation (almost five mouths)
-https://bugs.openfoam.org/view.php?id=2051
+  :PROPERTIES:
+  :LAST_MODIFIED: [2021-08-12 Thu 22:02]
+  :END:
+  https://bugs.openfoam.org/view.php?id=2051
 * searching tool
-看了下官方都提供window二进制包下载 https://github.com/junegunn/fzf-bin/releases 3 那应该是可以用的，我rg，fd命令都是去下载window二进制exe文件放在emacs自定义的path目录下使用的，中文搜索也解决了
+
+看了下官方都提供window二进制包下载:
+<https://github.com/junegunn/fzf-bin/releases>
+
+rg，fd命令都是去下载window二进制exe文件,放在 emacs 自定义的 path 目录
+下使用的，中文搜索也解决了

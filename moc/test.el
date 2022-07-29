@@ -1,6 +1,10 @@
 (require 'package)
 (add-to-list 'package-archives '("gnu-devel" . "https://elpa.gnu.org/devel/") t)
+(package-refresh-contents)
 (package-initialize)
+(package-install 'org-transclusion)
+(require 'org-transclusion)
+
 (find-file "./index.org")
 (org-transclusion-add-all)
 (org-latex-export-to-pdf)

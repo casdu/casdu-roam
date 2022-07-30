@@ -42,11 +42,43 @@
 *** 2020 http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11886
     - 胸前图案上印有校徽和车协英文缩写CASDU：我们都是山大人，我们都是山大车协人
     - 右侧印花中嵌入的六校剪影，象征着不论六校相距多远，六校车协人都是紧紧相连的手足
+** 常见问题
+   :PROPERTIES:
+   :ID:       c3645589-471d-4548-bb35-b96423af0a93
+   :END:
+*** 飞轮跳齿
+    :PROPERTIES:
+    :ID:       7e62511b-dc55-473d-918b-122dc719b810
+    :LAST_MODIFIED: [2022-07-29 Fri 22:56]
+    :END:
 ** 小窍门
    :PROPERTIES:
    :LAST_MODIFIED: [2022-07-29 Fri 22:46]
    :ID:       cc83d27a-d9f1-4e35-96b8-bba3e3f6cb40
    :END:
+*** 通过后拨外管螺丝调整后拨张力
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-07-29 Fri 23:11]
+    :END:
+
+当后飞出现[[id:7e62511b-dc55-473d-918b-122dc719b810][跳齿]]现象后，一种原因是链条张力不足。
+
+转动后拨指拨，欲将链条调整至更多齿数的飞轮上。如果出现上行困难，则向上
+转动后拨外管螺丝 （逆时针）；反之出现下行困难，则向下转动后拨外管螺丝
+（顺时针）。
+
+另外通过[[id:a4984cb2-abd5-4e8d-ab22-acd75d794642][后拨]]链条张力 B-Gap 螺丝调节。 其定义见 [[https://www.parktool.com/assets/img/repairhelp/RDAdjust_010.jpg][picture]] 。“To increase
+the gap, tighten the B screw. To decrease the gap, loosen the B screw.
+”
+
+【 需要 double check 】，出现跳齿时，上紧到极致后，跳齿现象消失。
+
+**** 相关资料
+     :PROPERTIES:
+     :LAST_MODIFIED: [2022-07-29 Fri 23:07]
+     :END:
+     - [[https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment#article-section-5][Rear Derailleur Adjustment | Park Tool]]
+     - [[https://patentimages.storage.googleapis.com/2b/a7/96/256f872eaf65cf/CN106627974B.pdf][自行车用后拨链器的链条张力调节装置]]
 *** 彻底排空内胎空气
     :PROPERTIES:
     :ID:       e45ccf0d-0fe9-4c1b-b927-6b47b1055bd4

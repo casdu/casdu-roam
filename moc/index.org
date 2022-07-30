@@ -1,13 +1,14 @@
 :PROPERTIES:
 :ID:       a25fa2fb-91de-4d24-9993-eddf3d8408d8
-:LAST_MODIFIED: [2022-07-29 Fri 18:02]
+:LAST_MODIFIED: [2022-07-29 Fri 22:48]
 :EXPORT_FILE_NAME: ./test
 :END:
 #+title: casdu zk output index file
 #+LATEX_COMPILER: lualatex
 #+LaTeX_HEADER: \usepackage{ctex}
 #+created:       [2021-08-05 Thu 11:58]
-#+last_modified: [2022-07-29 Fri 18:02]
+#+last_modified: [2022-07-29 Fri 22:48]
+#+OPTIONS: H:5 tags:nil toc:nil num:nil
 #+startup: showall
 #+filetags: casdu
 
@@ -23,7 +24,7 @@
 #+end_src
 #+latex: }
 
-\pagestyle{empty}
+\thispagestyle{empty}
 
 \clearpage\n
 
@@ -32,3 +33,7 @@
 \clearpage\n
 
 #+transclude: [[id:027aeb69-02e9-4054-98cb-8e12e87ec820][从纯文档中自动生成 pdf]] :level 1
+
+\clearpage\n
+
+#+transclude: [[id:cc83d27a-d9f1-4e35-96b8-bba3e3f6cb40][小窍门]] :level 1

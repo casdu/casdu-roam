@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       3c01fbd0-5270-4a5c-a8c9-591744d6c0ed
-:LAST_MODIFIED: [2021-08-11 Wed 16:31]
+:LAST_MODIFIED: [2022-07-29 Fri 23:02]
 :END:
 #+title: bike tools
-#+filetags: project casdu
+#+filetags: casdu
 
 * 单车常用工具分类
 :PROPERTIES:
@@ -17,7 +17,16 @@
 ** [[id:e1a95af6-adef-43d0-ba7a-267aded0f10d][轮胎/Tire]]
    :PROPERTIES:
    :ID:       bde09bba-3319-4199-8d85-9d1d63202a7f
+   :LAST_MODIFIED: [2021-11-25 Thu 14:15]
    :END:
+*** 气嘴
+**** 美
+     :PROPERTIES:
+     :LAST_MODIFIED: [2022-01-22 Sat 21:21]
+     :END:
+
+     ref: [[https://m.sohu.com/n/469088077/][常用内胎的法嘴，美嘴，英嘴的比较-体育频道-手机搜狐]]
+
 ** 脚踏/Pedal
 ** 刹车/Brakes
 ** 五通/Bottom Bracket
@@ -51,14 +60,30 @@
 :END:
 
 ** 腕组/Headset
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-08-21 Sat 22:12]
+   :END:
+- see illustration figure on http://bbs.casdu.cn/forum.php?mod=viewthread&tid=12073
 ** /Bear
 https://www.youtube.com/watch?v=hRLbamNQa_0
-** /dérailleur
+** dérailleur
    :PROPERTIES:
    :ID:       db3a2328-e4c0-40b1-b424-247f56e5b182
+   :ROAM_ALIASES: 后拨
+   :LAST_MODIFIED: [2022-07-29 Fri 23:02]
    :END:
 *** front dérailleur
+    :PROPERTIES:
+    :ID:       972d12e5-fd94-4f14-be6c-3a36c5ac9d7a
+    :ROAM_ALIASES: 前拨
+    :END:
 *** rear dérailleur
+    :PROPERTIES:
+    :ID:       a4984cb2-abd5-4e8d-ab22-acd75d794642
+    :ROAM_ALIASES: 后拨
+    :LAST_MODIFIED: [2022-07-29 Fri 23:03]
+    :END:
+
 **** Di2
 :PROPERTIES:
 :id: 604989f9-c257-41e2-8311-d1c75b02198f
@@ -113,9 +138,12 @@ graph TD
   CLOSED: [2021-08-02 Mon 22:39]
   :PROPERTIES:
   :ID:       ff18f082-6614-4429-b964-4ba1dd98e707
-  :LAST_MODIFIED: [2021-08-05 Thu 22:51]
+  :LAST_MODIFIED: [2021-08-26 Thu 15:49]
   :END:
   :LOGBOOK:
+  - State "HOLD"       from "HOLD"       [2021-08-26 Thu 15:48] \\
+    Day 4: 拆了几根辐条
+  CLOCK: [2021-08-26 Thu 15:19]--[2021-08-26 Thu 15:48] =>  0:29
   - State "HOLD"       from "DONE"       [2021-08-05 Thu 22:50] \\
     Day 4: 修缮表格
   CLOCK: [2021-08-05 Thu 22:40]--[2021-08-05 Thu 22:50] =>  0:10
@@ -191,10 +219,10 @@ graph TD
   | Frame & fork           |                                          |         |         |         |         |        |
   |------------------------+------------------------------------------+---------+---------+---------+---------+--------|
 
-* bike tools index － 自行车工具总览                                    :MOC:
+* moc bike tools index － 自行车工具总览
   :PROPERTIES:
   :ID:       84de1552-916e-4f66-b355-0c577439161b
-  :LAST_MODIFIED: [2021-08-05 Thu 22:35]
+  :LAST_MODIFIED: [2022-06-21 Tue 00:54]
   :END:
 ** spoke wrench - 辐条扳手
 :PROPERTIES:
@@ -211,6 +239,12 @@ graph TD
    :ID:       d8dc3d4d-a6d8-4b6d-b145-f54b9aa91ba7
    :END:
 
+*** pump holder
+    :PROPERTIES:
+    :ID:       5b2e11a7-50b4-4aa5-8cd1-1ded2d4de0cc
+    :LAST_MODIFIED: [2021-10-27 Wed 19:31]
+    :END:
+    - [[https://silca.cc/collections/frame-pumps-mini-pumps/products/tattico-bracket-mount][Tattico Bracket Mount – SILCA]]
 ** floor pump - 地板打气筒
    :PROPERTIES:
    :ID:       963cfe0a-ed06-4e00-a29c-9a76f222c963
@@ -235,6 +269,13 @@ graph TD
 ** quick change bit driver set － 组合工具
    :PROPERTIES:
    :ID:       757ff8e3-3b26-4e2c-89e5-7465e57e5a12
+   :END:
+
+** Torx screwdriver
+   :PROPERTIES:
+   :ID:       f5ffce20-18d9-4810-ba84-dcbcf529e18b
+   :ROAM_ALIASES: "梅花螺丝刀"
+   :LAST_MODIFIED: [2021-10-07 Thu 20:27]
    :END:
 
 ** phillips screwdriver - 十字螺丝刀
@@ -299,6 +340,22 @@ graph TD
    :ID:       6ad6aa7e-2fe5-4768-b16f-f55a262f8173
    :LAST_MODIFIED: [2021-08-05 Thu 22:34]
    :END:
+
+* 自行车上的螺丝
+  :PROPERTIES:
+  :ID:       a53c9195-869b-4eab-aee4-378178a76025
+  :ROAM_ALIASES: "Bicycle Bolts"
+  :ref: https://www.bicycling.com/repair/a20024432/bicycle-bolt-guide/
+  :LAST_MODIFIED: [2021-10-05 Tue 21:26]
+  :END:
+* 整理窍门
+** 工具墙的整理
+   :PROPERTIES:
+   :LAST_MODIFIED: [2021-10-05 Tue 21:21]
+   :ID:       32cec802-d73d-449a-91d5-4337ad37c10e
+   :END:
+
+   用笔刻画出工具的轮廓线，这样工具的位置就能被记录下来。[[https://youtu.be/ahfqDSA_NfY?t=352][Making toolbox foam inserts - tool organizer - YouTube]]
 
 * 参考资料
   :PROPERTIES:

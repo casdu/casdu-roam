@@ -1,8 +1,152 @@
 :PROPERTIES:
 :ID:       19fc3ec3-15b5-4bba-98e3-385a3cf1456e
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2022-07-30 Sat 08:39]
 :END:
 #+TITLE: page file name format test
 #+filetags: casdu
 
-** This is a test
+
+* This is a test
+  :PROPERTIES:
+  :LAST_MODIFIED: [2022-07-30 Sat 01:08]
+  :ID:       0674170d-d01b-4d2a-9f80-fb77ab6f9b87
+  :END:
+
+  It has [[id:f2814768-cf6c-44bd-b0ae-e6352aee5185][logseq 特点]]
+
+
+* elisp code to process backlink when output
+  :PROPERTIES:
+  :LAST_MODIFIED: [2022-07-30 Sat 09:00]
+  :ID:       db44b779-e6c8-4c4d-8f93-5ec2cca93a3e
+  :END:
+
+  - [[https://org-roam.discourse.group/t/export-backlinks-on-org-export/1756/24][Export backlinks on Org export - #24 by hurricane - Development - Org-roam]]
+
+  #+begin_src emacs-lisp
+    (defun hurricane//collect-backlinks-string (backend)
+      (when (org-roam-node-at-point)
+        (let* ((source-node (org-roam-node-at-point))
+               (source-file (org-roam-node-file source-node))
+               (nodes-in-file (--filter (s-equals? (org-roam-node-file it) source-file)
+                                        (org-roam-node-list)))
+               (nodes-start-position (-map 'org-roam-node-point nodes-in-file))
+               ;; Nodes don't store the last position, so get the next headline position
+               ;; and subtract one character (or, if no next headline, get point-max)
+               (nodes-end-position (-map (lambda (nodes-start-position)
+                                           (goto-char nodes-start-position)
+                                           (if (org-before-first-heading-p) ;; file node
+                                               (point-max)
+                                             (call-interactively
+                                              'org-forward-heading-same-level)
+                                             (if (> (point) nodes-start-position)
+                                                 (- (point) 1) ;; successfully found next
+                                               (point-max)))) ;; there was no next
+                                         nodes-start-position))
+               ;; sort in order of decreasing end position
+               (nodes-in-file-sorted (->> (-zip nodes-in-file nodes-end-position)
+                                          (--sort (> (cdr it) (cdr other))))))
+          (dolist (node-and-end nodes-in-file-sorted)
+            (-when-let* (((node . end-position) node-and-end)
+                         (backlinks (--filter (->> (org-roam-backlink-source-node it)
+                                                   (org-roam-node-file)
+                                                   (s-contains? "private/") (not))
+                                              (org-roam-backlinks-get node)))
+                         (heading (format "\n\n%s Links to this node\n"
+                                          (s-repeat (+ (org-roam-node-level node) 1) "*")))
+                         (properties-drawer ":PROPERTIES:\n:HTML_CONTAINER_CLASS: references\n:END:\n"))
+              (goto-char end-position)
+              (insert heading)
+              (insert properties-drawer)
+              (dolist (backlink backlinks)
+                (let* ((source-node (org-roam-backlink-source-node backlink))
+                       (source-file (org-roam-node-file source-node))
+                       (properties (org-roam-backlink-properties backlink))
+                       (outline (when-let ((outline (plist-get properties :outline)))
+                                  (when (> (length outline) 1)
+                                    (mapconcat #'org-link-display-format outline " > "))))
+                       (point (org-roam-backlink-point backlink))
+                       (text (s-replace "\n" " " (org-roam-preview-get-contents
+                                                  source-file
+                                                  point)))
+                       (reference (format "%s [[id:%s][%s]]\n%s\n%s\n\n"
+                                          (s-repeat (+ (org-roam-node-level node) 2) "*")
+                                          (org-roam-node-id source-node)
+                                          (org-roam-node-title source-node)
+                                          (if outline (format "%s (/%s/)"
+                                                              (s-repeat (+ (org-roam-node-level node) 3) "*") outline) "")
+                                          text))
+                       (label-list (with-temp-buffer
+                                     (insert text)
+                                     (org-element-map (org-element-parse-buffer) 'footnote-reference
+                                       (lambda (reference)
+                                         (org-element-property :label reference)))))
+                       (footnote-string-list
+                          (with-temp-buffer
+                            (insert-file-contents source-file)
+                            (-map (lambda (label) (buffer-substring-no-properties
+                                                   (nth 1 (org-footnote-get-definition label))
+                                                   (nth 2 (org-footnote-get-definition label))))
+                                  label-list))))
+                  (-map (lambda (footnote-string) (insert footnote-string)) footnote-string-list)
+                  (insert reference))))))))
+
+    (add-hook 'org-export-before-processing-hook 'hurricane//collect-backlinks-string)
+
+    ;; (remove-hook 'org-export-before-processing-hook 'hurricane//collect-backlinks-string)
+#+end_src
+
+* test data
+  :PROPERTIES:
+  :LAST_MODIFIED: [2022-07-30 Sat 09:01]
+  :END:
+
+#+begin_src emacs-lisp
+(let* ((source-node (org-roam-node-from-id "a25fa2fb-91de-4d24-9993-eddf3d8408d8"))
+           (source-file (org-roam-node-file source-node))
+           (nodes-in-file (--filter (s-equals? (org-roam-node-file it) source-file)
+                                    (org-roam-node-list)))
+           (nodes-start-position (-map 'org-roam-node-point nodes-in-file))
+           ;; Nodes don't store the last position, so get the next headline position
+           ;; and subtract one character (or, if no next headline, get point-max)
+           (nodes-end-position (-map (lambda (nodes-start-position)
+                                       (goto-char nodes-start-position)
+                                       (if (org-before-first-heading-p) ;; file node
+                                           (point-max)
+                                         (call-interactively
+                                          'org-forward-heading-same-level)
+                                         (if (> (point) nodes-start-position)
+                                             (- (point) 1) ;; successfully found next
+                                           (point-max)))) ;; there was no next
+                                     nodes-start-position))
+           ;; sort in order of decreasing end position
+           (nodes-in-file-sorted (->> (-zip nodes-in-file nodes-end-position)
+                                      (--sort (> (cdr it) (cdr other))))))
+      (dolist (node-and-end nodes-in-file-sorted)
+        (-let (((node . end-position) node-and-end))
+          (when (org-roam-backlinks-get node)
+            (goto-char end-position)
+            ;; Add the references as a subtree of the node
+            (setq heading (format "\n\n%s References\n"
+                                  (s-repeat (+ (org-roam-node-level node) 1) "*")))
+            (insert heading)
+            (setq properties-drawer ":PROPERTIES:\n:HTML_CONTAINER_CLASS: references\n:END:\n")
+            (insert properties-drawer)
+            (dolist (backlink (org-roam-backlinks-get node))
+              (let* ((source-node (org-roam-backlink-source-node backlink))
+                     (properties (org-roam-backlink-properties backlink))
+                     (outline (when-let ((outline (plist-get properties :outline)))
+                                  (mapconcat #'org-link-display-format outline " > ")))
+                     (point (org-roam-backlink-point backlink))
+                     (text (s-replace "\n" " " (org-roam-preview-get-contents
+                                                (org-roam-node-file source-node)
+                                                point)))
+                     (reference (format "%s [[id:%s][%s]]\n%s\n%s\n\n"
+                                        (s-repeat (+ (org-roam-node-level node) 2) "*")
+                                        (org-roam-node-id source-node)
+                                        (org-roam-node-title source-node)
+                                        (if outline (format "%s (/%s/)"
+                                        (s-repeat (+ (org-roam-node-level node) 3) "*") outline) "")
+                                        text)))
+                (insert reference)))))))
+#+end_src

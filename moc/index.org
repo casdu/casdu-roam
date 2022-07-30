@@ -1,28 +1,19 @@
 :PROPERTIES:
 :ID:       a25fa2fb-91de-4d24-9993-eddf3d8408d8
-:LAST_MODIFIED: [2022-07-29 Fri 22:48]
+:LAST_MODIFIED: [2022-07-29 Fri 23:46]
 :EXPORT_FILE_NAME: ./test
 :END:
 #+title: casdu zk output index file
 #+LATEX_COMPILER: lualatex
 #+LaTeX_HEADER: \usepackage{ctex}
 #+created:       [2021-08-05 Thu 11:58]
-#+last_modified: [2022-07-29 Fri 22:48]
-#+OPTIONS: H:5 tags:nil toc:nil num:nil
+#+last_modified: [2022-07-29 Fri 23:46]
+#+OPTIONS: H:5 tags:nil toc:t num:nil
 #+startup: showall
 #+filetags: casdu
 
-这是中文部分。这是对 org transclusion 的测试。
+关于自行车的话题。
 
-#+latex: {\scriptsize
-#+begin_src emacs-lisp
-(advice-add 'org-latex-export-to-pdf :before #'org-transclusion-add-all)
-(add-hook 'org-latex-export-to-pdf (lambda () (org-transclusion-add-all)))
-(add-hook 'org-export-before-processing-hook (lambda () (org-transclusion-add-all)))
-(advice-add 'org-export-before-processing-hook :before #'org-transclusion-add-all)
-(org-transclusion-add-all)
-#+end_src
-#+latex: }
 
 \thispagestyle{empty}
 

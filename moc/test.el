@@ -104,5 +104,5 @@ https://kitchingroup.cheme.cmu.edu/blog/2014/03/23/Make-a-list-of-org-files-in-a
 
 (find-file "./index.org")
 (org-transclusion-add-all)
-(add-hook 'org-export-before-processing-hook collect-backlinks-string)
+(add-hook 'org-export-before-processing-hook #'collect-backlinks-string)
 (org-latex-export-to-pdf)

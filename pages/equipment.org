@@ -1,15 +1,69 @@
 :PROPERTIES:
 :ID:       928c49d6-c6cc-4ba7-8dcd-cc0396fffdba
-:LAST_MODIFIED: [2021-08-07 Sat 14:00]
+:LAST_MODIFIED: [2022-07-29 Fri 22:34]
 :END:
 #+TITLE: equipment
-#+filetags: casdu
+#+filetags: casdu kit
 
-** 头盔
-*** 欧洲头型适配问题（橄榄型）
-**** 黑：GIRO, POC ...
-**** 白：迪卡侬
+** 单车零件
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-02-27 Sun 16:15]
+   :ID:       cb5a2b5b-d6d2-49c1-999a-31a62fa6ec7b
+   :ROAM_ALIASES: "bike component"
+   :END:
+*** 把带
+    :PROPERTIES:
+    :ID:       85c9cc5a-75fe-4efd-a6d3-49ca5bb744a2
+    :LAST_MODIFIED: [2022-07-27 Wed 11:03]
+    :ROAM_ALIASES: bd
+    :END:
+*** 链条
+**** Quick Release Chain 10 speed
+     :PROPERTIES:
+     :LAST_MODIFIED: [2021-10-05 Tue 21:22]
+     :ID:       25638bfa-f0e9-46a6-8bc5-8dde0163843d
+     :END:
+** 跑步装备
+*** winter running kit
+    :PROPERTIES:
+    :ID:       9062dbf9-c521-466c-af3c-1419b1363697
+    :chinese:  冬季跑步装备
+    :LAST_MODIFIED: [2021-09-01 Wed 22:48]
+    :END:
+** 骑行装备
+*** 头盔
+    :PROPERTIES:
+    :LAST_MODIFIED: [2021-09-01 Wed 22:47]
+    :END:
+**** 欧洲头型适配问题（橄榄型）
+***** 黑：GIRO, POC ...
+***** 白：迪卡侬
 ** 会衫
 *** 2020 http://bbs.casdu.cn/forum.php?mod=viewthread&tid=11886
-**** 胸前图案上印有校徽和车协英文缩写CASDU：我们都是山大人，我们都是山大车协人！
-**** 右侧印花中嵌入的六校剪影，象征着不论六校相距多远，六校车协人都是紧紧相连的手足。
+    - 胸前图案上印有校徽和车协英文缩写CASDU：我们都是山大人，我们都是山大车协人
+    - 右侧印花中嵌入的六校剪影，象征着不论六校相距多远，六校车协人都是紧紧相连的手足
+** 小窍门
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-07-29 Fri 22:46]
+   :ID:       cc83d27a-d9f1-4e35-96b8-bba3e3f6cb40
+   :END:
+*** 彻底排空内胎空气
+    :PROPERTIES:
+    :ID:       e45ccf0d-0fe9-4c1b-b927-6b47b1055bd4
+    :END:
+昨天补完胎后，要把补好的胎放回尾包里。这是再日常不过的事情了。
+
+补胎的时候，会把内胎气打足，以便于寻找非常小的孔。补好胎后，要把
+气放掉，通常来说就是把内胎拧成麻花状，然后用尖锐的物体把美式气嘴
+气芯压下去，从而把气排出。但通常气很难排干净，导致内胎很占据很大
+的空间。
+
+我发现一个做法是，把内胎里的气大体排出后，用两只手的食指将内胎撑
+开，类似于把一个圆形物体，压成椭圆，最后成一条线。要注意的是，把
+气嘴放在外侧，通常来说是右手边。然后从左手开始，用食指和拇指把内
+胎压匾，此时可以松开右手而把关注点放在左手上。压扁之后，两手一起
+操作来把内胎卷起来。这个过程就像，卷山楂卷一样。在卷气的过程中，
+剩余的气体都会向另外一头，也就是气嘴端聚集，这样在卷到最后的时候，
+只要把这部分的气体放掉，整个内胎的气基本就排得很干净了。最后，要
+把卷起的这个过程逆向再做一次，这是为了把气嘴放在“山楂卷”的中心。
+这样就可以把内胎以最小的体积放回到尾包，或者收纳盒中。

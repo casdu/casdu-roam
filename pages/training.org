@@ -1,11 +1,38 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2021-08-11 Wed 16:31]
+:LAST_MODIFIED: [2022-03-18 Fri 16:48]
 :END:
 #+TITLE: training
 #+filetags: casdu
 
+* 菜单
+** 跑步                                                             :running:
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-08-05 Fri 23:07]
+   :END:
+*** 跑步阈值跑
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-08-05 Fri 22:53]
+    :END:
+**** 石湾跑
+     :PROPERTIES:
+     :ID:       ca177047-0d1c-4199-8678-605a4821dac7
+     :LAST_MODIFIED: [2022-08-05 Fri 23:07]
+     :END:
+     2km * 2 + 1km * 2 练休比 2:1
+* key of training
+  :PROPERTIES:
+  :ID:       6204fd0d-1b6a-4119-be5f-e3547f005120
+  :LAST_MODIFIED: [2021-09-01 Wed 22:50]
+  :END:
+
+  - consistency
+  - progressive overloading 4/6 week block
+  - training with specific zone: ssb, or other
+  - keep a daily for reflection
+  - injure/over-training prevention
+
 * running dirll example
   :PROPERTIES:
-  :LAST_MODIFIED: [2021-08-07 Sat 14:33]
+  :LAST_MODIFIED: [2021-08-22 Sun 12:30]
   :END:

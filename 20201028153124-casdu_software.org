@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       c9809298-b447-40c7-937f-74efa36bc8f0
-:LAST_MODIFIED: [2022-07-29 Fri 15:05]
+:LAST_MODIFIED: [2022-07-29 Fri 16:08]
 :END:
 #+TITLE: casdu-software
 #+CREATED:       [2020-10-28 Wed 15:31]
-#+LAST_MODIFIED: [2022-07-29 Fri 15:05]
+#+LAST_MODIFIED: [2022-08-13 Sat 23:11]
 #+filetags: casdu
 
 * logseq 特点
@@ -37,7 +37,7 @@ When [[id:cf1d72a4-c826-4737-9482-0e72a3b25471][bao tai]] is documented, what ca
 * 从纯文档中自动生成 pdf                                     :latex:book:
   :PROPERTIES:
   :ID:       027aeb69-02e9-4054-98cb-8e12e87ec820
-  :LAST_MODIFIED: [2022-07-29 Fri 15:01]
+  :LAST_MODIFIED: [2022-08-13 Sat 23:11]
   :END:
   :LOGBOOK:
   - State "DONE"       from "HOLD"       [2021-08-27 Fri 22:36]
@@ -51,13 +51,31 @@ When [[id:cf1d72a4-c826-4737-9482-0e72a3b25471][bao tai]] is documented, what ca
   CLOCK: [2021-08-12 Thu 22:01]--[2021-08-12 Thu 22:38] =>  0:37
   :END:
 
+  - 更少的依赖 [[https://emacs-china.org/t/win10-org-markdown-pdf/21926/9][win10环境中，怎样才能从org或markdown导出pdf格式文件？ - #9，来自 cireu - Emacs-general - Emacs China]]
   - [[https://github.com/llcc/org-auto-export/blob/master/org-auto-export.el][org-auto-export/org-auto-export.el at master · llcc/org-auto-export · GitHub]]
   - [[https://github.com/nobiot/org-transclusion/issues?q=is%3Aissue+author%3Acryoguy][Issues · nobiot/org-transclusion · GitHub]]
   - [[https://jdhao.github.io/2017/12/10/pandoc-markdown-with-chinese/][纯文本做笔记 --- 使用 Pandoc 把 Markdown 转为 PDF 文件 - jdhao's blog]]
   - [[https://emacs-china.org/t/emacsclient-as-pager/17415][Emacsclient As Pager - Emacs-general - Emacs China]]
 
-** ref
+** 其他想法
+*** Backlink 的处理
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-07-30 Sat 08:58]
+    :END:
+    在 moc 导出 pdf 中，有必要加入 backlink 链接吗？
+     - 浏览部分放在 Emacs 中是本意
+    相较于没有加入 backlink 链接，加上之后能带给读者什么？
+     - ?
+    尝试过: [[id:db44b779-e6c8-4c4d-8f93-5ec2cca93a3e][elisp code to process backlink when output]]
+** 个人经验
+   \pagestyle{empty}: 从该页之后，不显示页码
+   \thispagestyle{empty}: 当前页码不显示
+** 参考资料
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-07-29 Fri 16:08]
+   :END:
    - [[http://www.ctex.org/documents/latex/graphics/node120.html][latex 中文指南]]
+   - [[https://emacs-china.org/t/latex-pagestyle-empty/21800][\pagestyle{empty}的控制域不包括本页 而是从第二页开始的所有页 - Emacs-general - Emacs China]]
 ** using github CI
    :PROPERTIES:
    :LAST_MODIFIED: [2021-08-25 Wed 21:48]
@@ -81,7 +99,7 @@ Missing character: There is no 。 (U+3002) in font [lmroman10-regular]:+tlig;!
   :LAST_MODIFIED: [2021-08-13 Fri 15:17]
   :END:
   - [[https://gogs.io/][Gogs: A painless self-hosted Git service]]
-* github 加速
+* GitHub 加速
   :PROPERTIES:
   :LAST_MODIFIED: [2021-08-13 Fri 22:45]
   :END:

@@ -1,10 +1,16 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2022-03-18 Fri 16:48]
+:LAST_MODIFIED: [2022-08-07 Sun 12:24]
 :END:
 #+TITLE: training
 #+filetags: casdu
 
+* 器械训练
+  :PROPERTIES:
+  :ID:       b17243ab-bfc3-4d7a-a636-a6b8e46b7c8b
+  :ROAM_ALIASES: strength
+  :END:
+  - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]
 * 菜单
 ** 跑步                                                             :running:
    :PROPERTIES:
@@ -17,10 +23,59 @@
 **** 石湾跑
      :PROPERTIES:
      :ID:       ca177047-0d1c-4199-8678-605a4821dac7
-     :LAST_MODIFIED: [2022-08-05 Fri 23:07]
+     :LAST_MODIFIED: [2022-08-17 Wed 14:04]
      :END:
-     2km * 2 + 1km * 2 练休比 2:1
-* key of training
+     - 概括
+         2km * 2 + 1km * 2 练休比 2:1
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             2.00 km Total Distance
+             4:00-4:30 min/km
+             Intensity Target 10k pace
+             7 min 休息
+         
+         重复
+         3 Times
+             1.00 km Total Distance
+             4:00-4:30 min/km
+             Intensity Target
+             4 min 休息
+         
+         冷身
+
+**** 石湾跑a
+     :PROPERTIES:
+     :ID:       f8a977a8-1a0b-4194-a8f4-4f2253a22436
+     :END:
+     - 概括
+         2km * 2 + 1km * 3 练休比 2:1
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             2.00 km Total Distance
+             4:00-4:30 min/km
+             Intensity Target 10k pace
+             7 min 休息
+         
+         重复
+         3 Times
+             1.00 km Total Distance
+             4:00-4:30 min/km
+             Intensity Target
+             4 min 休息
+         
+         冷身
+
+* 核心点
   :PROPERTIES:
   :ID:       6204fd0d-1b6a-4119-be5f-e3547f005120
   :LAST_MODIFIED: [2021-09-01 Wed 22:50]
@@ -32,7 +87,7 @@
   - keep a daily for reflection
   - injure/over-training prevention
 
-* running dirll example
+* 热身相关
   :PROPERTIES:
   :LAST_MODIFIED: [2021-08-22 Sun 12:30]
   :END:

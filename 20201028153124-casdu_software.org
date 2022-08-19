@@ -4,7 +4,7 @@
 :END:
 #+TITLE: casdu-software
 #+CREATED:       [2020-10-28 Wed 15:31]
-#+LAST_MODIFIED: [2022-08-13 Sat 23:11]
+#+LAST_MODIFIED: [2022-08-18 Thu 21:18]
 #+filetags: casdu
 
 * logseq 特点
@@ -25,8 +25,10 @@
 * casdu-roam 使用方法
   :PROPERTIES:
   :ID:       f81e341b-e6c8-434b-bbaf-b1282a22a349
-  :LAST_MODIFIED: [2021-08-07 Sat 15:42]
+  :LAST_MODIFIED: [2022-08-18 Thu 21:18]
   :END:
+  - [[https://gitjournal.io/][GitJournal]]
+    - [[https://github.com/GitJournal/GitJournal/pull/468][initial support for .org files by MisterY · Pull Request #468 · GitJournal/GitJournal · GitHub]]
   - [[id:5fd6cd0c-953b-4401-92a7-8c5061170fb3][logseq 解决了依赖 Emacs 的问题]]
 ** document easy task then continue to find way to improve
    :PROPERTIES:

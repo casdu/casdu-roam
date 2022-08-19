@@ -11,7 +11,36 @@
   :ROAM_ALIASES: strength
   :END:
   - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]
-* 菜单
+* 课表
+** 骑车
+*** 雷达加怪坡组合
+    :PROPERTIES:
+    :ID:       ae7d8e64-9408-4b48-aff0-a40056e4b205
+    :LAST_MODIFIED: [2022-08-18 Thu 19:11]
+    :ROAM_ALIASES: leida+guaipo
+    :END:
+     - 概括
+         10m * 2 (1m30rest)+ 5m * 2 (1mrest) 强度 FTP
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             10 min
+             Intensity Target FTP
+             1 min 30s 休息
+         
+         重复
+         3 Times
+             5 min
+             Intensity Target FTP
+             1 min 00s 休息
+
+         
+         冷身
+
 ** 跑步                                                             :running:
    :PROPERTIES:
    :LAST_MODIFIED: [2022-08-05 Fri 23:07]

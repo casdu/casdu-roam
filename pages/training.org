@@ -1,17 +1,36 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2022-08-07 Sun 12:24]
+:LAST_MODIFIED: [2022-08-19 Fri 21:40]
 :END:
 #+TITLE: training
 #+filetags: casdu
 
-* 器械训练
-  :PROPERTIES:
-  :ID:       b17243ab-bfc3-4d7a-a636-a6b8e46b7c8b
-  :ROAM_ALIASES: strength
-  :END:
-  - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]
 * 课表
+** 重量
+   :PROPERTIES:
+   :ID:       46d8ea95-d07b-4e2b-8416-4a98d0881903
+   :END:
+*** 滑水力量
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-08-19 Fri 21:10]
+    :END:
+    - 杠铃深蹲
+      三组*(3*(45lb+45lb))
+    - 杠铃提拉
+      三组*(3*(55lb+55lb))
+    - 滑轮滑水
+      - 模拟自由泳抱水
+        - [[https://youtu.be/wtAAkjQrcfU?t=438][双手交叉连续抱水]]
+        - [[https://youtu.be/wtAAkjQrcfU?t=125][双手协同半程后直角抱水]]
+          - [[https://youtu.be/wtAAkjQrcfU?t=217][双手协同半程后Z角抱水]]
+        - [[https://youtu.be/wtAAkjQrcfU?t=198][双手协同半程前直角抱水]]
+        - [[https://youtu.be/wtAAkjQrcfU?t=153][双手协同连续抱水]]
+      - [[https://www.matrixfitness.com/eng/strength/multi-station/vs-vft-functional-trainer-18][参考器械 Matrix Fitness]]
+** 游泳
+   :PROPERTIES:
+   :ID:       0b969c26-f9e3-42b5-89c0-36c2ac9741f9
+   :LAST_MODIFIED: [2022-08-19 Fri 21:39]
+   :END:
 ** 骑车
 *** 雷达加怪坡组合
     :PROPERTIES:
@@ -104,19 +123,23 @@
          
          冷身
 
-* 核心点
+** 核心
+   :PROPERTIES:
+   :ID:       d8c32612-14d1-41b9-9b1f-ceab6077fcec
+   :END:
+* 原则
   :PROPERTIES:
   :ID:       6204fd0d-1b6a-4119-be5f-e3547f005120
   :LAST_MODIFIED: [2021-09-01 Wed 22:50]
   :END:
-
   - consistency
   - progressive overloading 4/6 week block
   - training with specific zone: ssb, or other
   - keep a daily for reflection
   - injure/over-training prevention
-
-* 热身相关
+* 热身
   :PROPERTIES:
   :LAST_MODIFIED: [2021-08-22 Sun 12:30]
   :END:
+* 资料
+  - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]

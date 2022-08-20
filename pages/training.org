@@ -64,7 +64,30 @@
    :PROPERTIES:
    :LAST_MODIFIED: [2022-08-05 Fri 23:07]
    :END:
-*** 跑步阈值跑
+*** 节奏跑
+**** 无影跑
+     :PROPERTIES:
+     :ID:       12cd62e6-8c25-41a4-9fa0-1b9ff029b4ad
+     :ROAM_ALIASES: wuyin
+     :LAST_MODIFIED: [2022-08-20 Sat 18:24]
+     :END:
+     - 概括
+         15 min 热身 + 2* 25m  (休息15分钟) + 5 min 冷身
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             2.00 km Total Distance
+             5:00-5:10 min/km
+             Intensity Target: Temp run
+             15 min 休息
+         
+         冷身
+         5 min
+*** 阈值跑
     :PROPERTIES:
     :LAST_MODIFIED: [2022-08-05 Fri 22:53]
     :END:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2022-08-20 Sat 18:51]
+:LAST_MODIFIED: [2022-08-21 Sun 10:19]
 :END:
 #+TITLE: training
 #+filetags: casdu
@@ -12,7 +12,7 @@
    :END:
 *** 滑水力量
     :PROPERTIES:
-    :LAST_MODIFIED: [2022-08-19 Fri 21:10]
+    :LAST_MODIFIED: [2022-08-20 Sat 22:34]
     :END:
     - 杠铃深蹲
       三组*(3*(45lb+45lb))
@@ -25,6 +25,9 @@
           - [[https://youtu.be/wtAAkjQrcfU?t=217][双手协同半程后Z角抱水]]
         - [[https://youtu.be/wtAAkjQrcfU?t=198][双手协同半程前直角抱水]]
         - [[https://youtu.be/wtAAkjQrcfU?t=153][双手协同连续抱水]]
+      - 参考视频
+        - 没有用bench [[https://www.youtube.com/watch?v=CbE2WpOHwNM&ab_channel=AIMPCoaching][Dry Land Swimming - Stretch Cords Training and Technique || AIMP Coach - YouTube]]
+        - [[https://www.aimpcoaching.com/stretch-cordz-workouts/][间歇组]]
       - [[https://www.matrixfitness.com/eng/strength/multi-station/vs-vft-functional-trainer-18][参考器械 Matrix Fitness]]
 ** 游泳
    :PROPERTIES:
@@ -36,7 +39,7 @@
     :PROPERTIES:
     :ID:       ae7d8e64-9408-4b48-aff0-a40056e4b205
     :LAST_MODIFIED: [2022-08-18 Thu 19:11]
-    :ROAM_ALIASES: leida+guaipo
+    :ROAM_ALIASES: LG leida+guaipo
     :END:
      - 概括
          10m * 2 (1m30rest)+ 5m * 2 (1mrest) 强度 FTP
@@ -53,6 +56,33 @@
          
          重复
          3 Times
+             5 min
+             Intensity Target FTP
+             1 min 00s 休息
+
+         
+         冷身
+
+*** 雷达加怪坡组合a
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-08-28 Sun 00:50]
+    :ID:       3c2fef94-6e03-4221-bef4-2d89f3004646
+    :END:
+     - 概括
+         10m * 1 (1m30rest)+ 5m * 2 (1mrest) 强度 FTP
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         1 Times
+             10 min
+             Intensity Target FTP
+             1 min 30s 休息
+         
+         重复
+         2 Times
              5 min
              Intensity Target FTP
              1 min 00s 休息
@@ -80,13 +110,36 @@
          
          重复
          2 Times
-             2.00 km Total Distance
+             25 min
              5:00-5:10 min/km
              Intensity Target: Temp run
              15 min 休息
          
          冷身
          5 min
+**** 无影跑a
+     :PROPERTIES:
+     :ROAM_ALIASES: wuyina
+     :LAST_MODIFIED: [2022-08-21 Sun 10:19]
+     :ID:       857caff0-5fad-490b-8392-4e1b350b5eb2
+     :END:
+     - 概括
+         15 min 热身 + 3* 25m  (休息15分钟) + 5 min 冷身
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         3 Times
+             25 min
+             5:00-5:10 min/km
+             Intensity Target: Temp run
+             15 min 休息
+         
+         冷身
+         5 min
+
 *** 阈值跑
     :PROPERTIES:
     :LAST_MODIFIED: [2022-08-05 Fri 22:53]
@@ -122,6 +175,8 @@
 **** 石湾跑a
      :PROPERTIES:
      :ID:       f8a977a8-1a0b-4194-a8f4-4f2253a22436
+     :ROAM_ALIASES: shiwan-a
+     :LAST_MODIFIED: [2022-08-20 Sat 18:53]
      :END:
      - 概括
          2km * 2 + 1km * 3
@@ -149,6 +204,7 @@
 **** 石湾跑b
      :PROPERTIES:
      :ID:       815fbb94-6813-4800-8c03-ea671d3be6a5
+     :ROAM_ALIASES: shiwan-b
      :END:
      - 概括
          2km * 2 + 1km * 3
@@ -173,10 +229,75 @@
          
          冷身
 
+**** 石湾跑b1
+     :PROPERTIES:
+     :ID:       9a7d2a1c-b55a-4d97-8a90-8e70417216ba
+     :LAST_MODIFIED: [2022-08-28 Sun 00:51]
+     :END:
+    - 概括
+        2km * 1 + 1km * 2
+
+    - 细节
+        热身
+        15 min Total Time
+        
+        重复
+        1 Times
+            2.00 km Total Distance
+            4:00-4:20 min/km
+            Intensity Target 10k pace
+            5 min 休息
+        
+        重复
+        2 Times
+            1.00 km Total Distance
+            4:00-4:20 min/km
+            Intensity Target
+            3 min 休息
+        
+        冷身
+
 ** 核心
    :PROPERTIES:
    :ID:       d8c32612-14d1-41b9-9b1f-ceab6077fcec
    :END:
+
+   - 组数分布 [[https://revolutionaryprogramdesign.com/squat-sets-reps/][The Best Squat Sets And Reps For Size And Strength! – Revolutionary Program Design]]
+     - [[https://revolutionaryprogramdesign.com/753-wave/][The 7/5/3 Wave Loading Method]]
+*** 例子
+**** W0D1
+***** Squat
+ | set |  load kg  | load lb       | num |
+ |:---:|:---------:|:-------------:|:---:|
+ |  0  |  60.8     | 45            |  5  |
+ |  1  |  60.8     | 45            |  5  |
+ |  2  |  65.4     | 45+5          |  5  |
+ |  3  |  65.4     | 45+5          |  5  |
+ |  4  |  67.6     | 45+5+2.5      |  5  |
+***** leg extension
+ | set | load lb   | num |
+ |:---:|:---------:|:---:|
+ |  0  |    80     |  5  |
+ |  1  |    80     |  5  |
+ |  2  |    80     |  5  |
+ |  3  |    80     |  5  |
+ |  4  |    80     |  5  |
+***** leg curl
+ | set | load lb   | num |
+ |:---:|:---------:|:---:|
+ |  0  |    70     |  5  |
+ |  1  |    70     |  5  |
+ |  2  |    70     |  5  |
+ |  3  |    70     |  5  |
+ |  4  |    70     |  5  |
+***** leg press
+ | set | load lb   | num |
+ |:---:|:---------:|:---:|
+ |  0  |    220     |  5  |
+ |  1  |    220     |  5  |
+ |  2  |    220     |  5  |
+ |  3  |    220     |  5  |
+ |  4  |    220     |  5  |
 * 原则
   :PROPERTIES:
   :ID:       6204fd0d-1b6a-4119-be5f-e3547f005120
@@ -192,4 +313,8 @@
   :LAST_MODIFIED: [2021-08-22 Sun 12:30]
   :END:
 * 资料
+  :PROPERTIES:
+  :LAST_MODIFIED: [2022-08-20 Sat 22:57]
+  :END:
+  - [[https://strengthlevel.com/][Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)]]
   - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]

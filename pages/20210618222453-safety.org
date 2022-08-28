@@ -1,17 +1,37 @@
 :PROPERTIES:
 :ID:       e4b2bf7a-6c3c-4431-ba04-2b4c8458f0ea
-:LAST_MODIFIED: [2021-08-11 Wed 16:33]
+:LAST_MODIFIED: [2022-08-27 Sat 19:05]
 :END:
 #+title: safety
 #+created:       [2021-06-18 Fri 22:24]
-#+last_modified: [2021-08-11 Wed 16:33]
+#+last_modified: [2022-08-28 Sun 00:54]
 #+startup: showall
 #+filetags: project casdu
 
 
+* 机械异常处理
+** Speed Wobbles/自行车左右振动
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-08-27 Sat 19:02]
+   :END:
+*** 现象
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-08-27 Sat 19:04]
+    :END:
+    - [[https://www.trainerroad.com/forum/t/how-to-minimize-high-speed-wobble/19211][How to minimize high speed wobble? - Racing - TrainerRoad]]
+    - [[https://youtu.be/laMgCvE1_WE?t=5][What Can You Do to Fix Speed Wobbles? - YouTube]]
+    - [[https://www.tandfonline.com/doi/full/10.1080/00423114.2018.1465574][A nonlinear model of bicycle shimmy: Vehicle System Dynamics: Vol 57, No 3]]
+*** 处理方式
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-08-27 Sat 19:11]
+    :END:
+"The idea to squeeze the top tube during a speed wobble is to add mass
+to change the resonance frequency of the wobble so you can regain
+control by not having the wobbles magnify each other each oscillation."
 * 心脏突发异常
   :PROPERTIES:
   :ID:       47d63cba-70d3-4abb-b988-04f6fab829ef
+  :LAST_MODIFIED: [2022-04-06 Wed 10:19]
   :END:
 ** 长年耐力训练对身体的负面影响
    － 心脏肌肉硬化 [[https://www.trainerroad.com/forum/t/endurance-sports-and-heart-health/61407/23][来源]]
@@ -29,6 +49,7 @@
 * 编队骑行注意事项
   :PROPERTIES:
   :ID:       85849302-afba-44d7-a227-b8d38ccb86da
+  :LAST_MODIFIED: [2021-10-05 Tue 13:08]
   :END:
 
     - 让周围的人非常清晰地明白你想干什么，在路上，不要制造任何惊喜。
@@ -37,33 +58,49 @@
       －避免急刹
 
 
-    - 如果没有和前面的队友专门练习过跟车，那就不要跟得太紧，给前面的队友一点空间，至少要相距30CM，不要如影随形。
+    - 如果没有和前面的队友专门练习过跟车，那就不要跟得太紧，给前面的队
+      友一点空间，至少要相距30CM，不要如影随形。
 
-    - 切勿落后太多，以免因为你自己而将整个队伍分成两截，或老是让前面的人等你赶上来。
+    - 切勿落后太多，以免因为你自己而将整个队伍分成两截，或老是让前面的
+      人等你赶上来。
 
-    - 要跨越路障、沙石地面、积水等路面时请务必及时通过手势或喊声来通知后面的队友，提醒后面的队友注意。
+    - 要跨越路障、沙石地面、积水等路面时请务必及时通过手势或喊声来通知
+      后面的队友，提醒后面的队友注意。
 
-    - 有特殊情况需要停下来的时候，亦务必及时通过手势或喊声来通知后面的队友，提醒后面的队友注意。
+    - 有特殊情况需要停下来的时候，亦务必及时通过手势或喊声来通知后面的
+      队友，提醒后面的队友注意。
 
     - 需要超车时须先让被超车辆知道，而且挑个好地点来超车。切勿硬挤上前。
 
-    - 和迎面而来的车队交会时，要有礼貌，禁止靠左逆行。若道路狭窄无法双方同时通过时，依据传统，下山车队须礼让到一边，让上山车队先行。
+    - 和迎面而来的车队交会时，要有礼貌，禁止靠左逆行。若道路狭窄无法双
+      方同时通过时，依据传统，下山车队须礼让到一边，让上山车队先行。
 
-    - 千万不可让队友脱队，不论是车队第一个或最后一个都一样。在休息处等最后一位队友赶上来，并给他时间休息。
+    - 千万不可让队友脱队，不论是车队第一个或最后一个都一样。在休息处等
+      最后一位队友赶上来，并给他时间休息。
 
-    - 若遇队友速度慢得离谱，那附近的一位队友请尽量予以协助。惯例为男生帮助女生，强者帮助弱者。严禁体力好又不协助其他人，而单独在队伍前方飙车的事情发生（尤其是上坡）。
+    - 若遇队友速度慢得离谱，那附近的一位队友请尽量予以协助。惯例为男生
+      帮助女生，强者帮助弱者。严禁体力好又不协助其他人，而单独在队伍前
+      方飙车的事情发生（尤其是上坡）。
 
     - 若发现大多数人开始掉队，应咨询下队长是否整体放慢速度或者休息。
 
-    - 编队时顺序应为前骑→体力差的女生→体力好的女生→体力差的男生→体力好的男生→后骑。在队伍中担任各种相关职务的队员（如队医、随队技师等）应在整个队伍的后端骑行，若需前行，要保证后骑在自己的视野以内，并随时注意队尾的召唤。
+    - 编队时顺序应为前骑→体力差的女生→体力好的女生→体力差的男生→体力好
+      的男生→后骑。在队伍中担任各种相关职务的队员（如队医、随队技师等）
+      应在整个队伍的后端骑行，若需前行，要保证后骑在自己的视野以内，并
+      随时注意队尾的召唤。
 
-    - 如因特殊情况而必须分散前进，应指定集合地点。要求最值得信任的3到5人押后，如此可使小型车队的成员根据自己的实际状况来选择最佳速度前进。
+    - 如因特殊情况而必须分散前进，应指定集合地点。要求最值得信任的3到5
+      人押后，如此可使小型车队的成员根据自己的实际状况来选择最佳速度前
+      进。
 
-    - 要笑脸迎人，要值得人信赖。做一个讨人喜欢的队员。骑行过程中尽量不带耳机，至少要留出一个能听清楚别人说话的耳朵去和别人交流。
+    - 要笑脸迎人，要值得人信赖。做一个讨人喜欢的队员。骑行过程中尽量不
+      带耳机，至少要留出一个能听清楚别人说话的耳朵去和别人交流。
 
 * 编队骑行口号汇编
   :PROPERTIES:
   :ID:       0690c7ba-df28-41cb-beee-ff40dbdaa626
+  :ROAM_ALIASES: "kou hao"
+  :LAST_MODIFIED: [2021-10-09 Sat 22:24]
   :END:
 
   - 减速
@@ -75,12 +112,13 @@
 * 队伍前进中肢体语言含义
   :PROPERTIES:
   :ID:       4e65b846-8e33-42b2-a7cd-0770b43a36c6
+  :LAST_MODIFIED: [2021-11-01 Mon 15:53]
   :END:
-
-
+https://www.glotmansimpsoncycling.ca/group-rides
 * TODO What is the most important task for the last rider? (Houqi)
   :PROPERTIES:
   :ID:       6625342c-381a-42cb-abed-62f0f346f2b7
+  :LAST_MODIFIED: [2022-08-28 Sun 00:54]
   :END:
 
 ** make sure nobody is lost -weiwei

@@ -34,6 +34,23 @@
    :ID:       0b969c26-f9e3-42b5-89c0-36c2ac9741f9
    :LAST_MODIFIED: [2022-08-19 Fri 21:39]
    :END:
+*** Aurora
+    :PROPERTIES:
+    :ID:       29d73d74-42b3-42cc-9d0d-35f11ac0669b
+    :LAST_MODIFIED: [2022-09-04 Sun 11:01]
+    :END:
+单组：
+
+500m + 400m + 300m + 200m + 100m = 1500m
+
+Pacewise:
+
+1:20 → 1:13 m/100m
+
+1:55 → 2:05 m/100m
+
+Rest time:
+10s < Rest < 50s
 ** 骑车
 *** 雷达加怪坡组合
     :PROPERTIES:
@@ -65,8 +82,9 @@
 
 *** 雷达加怪坡组合a
     :PROPERTIES:
-    :LAST_MODIFIED: [2022-08-28 Sun 00:50]
+    :LAST_MODIFIED: [2022-08-29 Mon 17:32]
     :ID:       3c2fef94-6e03-4221-bef4-2d89f3004646
+    :ROAM_ALIASES: leida+guaipo-a
     :END:
      - 概括
          10m * 1 (1m30rest)+ 5m * 2 (1mrest) 强度 FTP
@@ -144,6 +162,35 @@
     :PROPERTIES:
     :LAST_MODIFIED: [2022-08-05 Fri 22:53]
     :END:
+**** 甘露跑
+     :PROPERTIES:
+     :ID:       a8c26b0b-c85e-4252-9871-8ccb583041a5
+     :LAST_MODIFIED: [2022-09-04 Sun 11:00]
+     :END:
+
+     甘露系列目标在于提高 5 公里速度
+
+     - 概括
+         1.2km * 3 + 0.8km * 3
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         3 Times
+             1.2 km Total Distance
+             3:55-4:00 min/km
+             3 min 休息
+         
+         重复
+         3 Times
+             0.8 km Total Distance
+             3:50-3:55 min/km min/km
+             2 min 休息
+         
+         冷身
+
 **** 石湾跑
      :PROPERTIES:
      :ID:       ca177047-0d1c-4199-8678-605a4821dac7

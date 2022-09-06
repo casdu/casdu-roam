@@ -191,6 +191,37 @@ Rest time:
          
          冷身
 
+**** 甘露跑a
+     :PROPERTIES:
+     :LAST_MODIFIED: [2022-09-06 Tue 12:03]
+     :ID:       9d1f87c4-d398-4057-a9e0-cfb22fe3d338
+     :END:
+
+     甘露系列目标在于提高 5 公里速度
+
+     - 概括
+         1.2km * 2 + 0.8km * 1 + 0.4km
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             1.2 km Total Distance
+             3:50-3:55 min/km
+             3 min 休息
+         
+         1 Times
+             0.8 km Total Distance
+             3:40-3:50 min/km min/km
+             2 min 休息
+         
+         1 Times
+             0.4 km Total Distance
+             3:30-3:40 min/km min/km
+
+         冷身
 **** 石湾跑
      :PROPERTIES:
      :ID:       ca177047-0d1c-4199-8678-605a4821dac7

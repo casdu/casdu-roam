@@ -8,13 +8,7 @@
 ;;;; lilypond
 (org-babel-do-load-languages
 'org-babel-load-languages
-'((ruby . t)
-  (C . t)
-  (emacs-lisp . t)
-  (sh t)
-  (dot t)
-  (clojure t)
-  (ditaa t)
+'((emacs-lisp . t)
   (lilypond t)))
 
 ;;;; Org-roam

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2022-08-21 Sun 10:19]
+:LAST_MODIFIED: [2022-09-22 Thu 20:17]
 :END:
 #+TITLE: training
 #+filetags: casdu
@@ -165,7 +165,8 @@ Rest time:
 **** 甘露跑
      :PROPERTIES:
      :ID:       a8c26b0b-c85e-4252-9871-8ccb583041a5
-     :LAST_MODIFIED: [2022-09-04 Sun 11:00]
+     :LAST_MODIFIED: [2022-09-06 Tue 18:23]
+     :ROAM_ALIASES: ganlu
      :END:
 
      甘露系列目标在于提高 5 公里速度
@@ -195,6 +196,7 @@ Rest time:
      :PROPERTIES:
      :LAST_MODIFIED: [2022-09-06 Tue 12:03]
      :ID:       9d1f87c4-d398-4057-a9e0-cfb22fe3d338
+     :ROAM_ALIASES: ganlu_a
      :END:
 
      甘露系列目标在于提高 5 公里速度
@@ -396,3 +398,19 @@ Rest time:
   :END:
   - [[https://strengthlevel.com/][Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)]]
   - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]
+* 目标
+** 游
+   - [ ]  100m  01:05
+   - [ ]  400m  04:50
+   - [ ] 1500m  25:00
+** 跑
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-09-22 Thu 20:17]
+   :END:
+   - [ ]    5k   16:30
+   - [ ]   10k   35:00
+   - [ ] 21.1k 1:15:00
+   - [ ] 42.2k 2:30:00
+** 骑
+   - [ ]  5min 420w
+   - [ ] 60min 310w

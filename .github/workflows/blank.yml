@@ -20,6 +20,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt install texlive-full
+          sudo apt install -y lilypond
 
       - name: Modify value # generate pdfs
         run: |

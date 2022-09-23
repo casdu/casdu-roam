@@ -5,6 +5,18 @@
 (package-refresh-contents)
 (package-initialize)
 
+;;;; lilypond
+(org-babel-do-load-languages
+'org-babel-load-languages
+'((ruby . t)
+  (C . t)
+  (emacs-lisp . t)
+  (sh t)
+  (dot t)
+  (clojure t)
+  (ditaa t)
+  (lilypond t)))
+
 ;;;; Org-roam
 (package-install 'org-roam)
 (require 'org-roam)
@@ -52,5 +64,9 @@ https://kitchingroup.cheme.cmu.edu/blog/2014/03/23/Make-a-list-of-org-files-in-a
 (org-id-update-id-locations casdu-all-org-files)
 
 (find-file "./index.org")
+(org-transclusion-add-all)
+(org-latex-export-to-pdf)
+
+(find-file "./music.org")
 (org-transclusion-add-all)
 (org-latex-export-to-pdf)

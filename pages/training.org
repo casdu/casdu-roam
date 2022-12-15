@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2f8343d7-3f08-4f31-94c4-d914f748b5b5
-:LAST_MODIFIED: [2022-10-02 Sun 12:14]
+:LAST_MODIFIED: [2022-10-29 Sat 22:44]
 :END:
 #+TITLE: training
 #+filetags: casdu
@@ -34,6 +34,35 @@
    :ID:       0b969c26-f9e3-42b5-89c0-36c2ac9741f9
    :LAST_MODIFIED: [2022-08-19 Fri 21:39]
    :END:
+*** 满井游
+    :PROPERTIES:
+    :ID:       4b71e181-d6ba-4165-bb86-f1d3b3bc40d0
+    :LAST_MODIFIED: [2022-10-26 Wed 20:18]
+    :ROAM_ALIASES: manjin
+    :END:
+     - 概括
+       热身 100m
+       7 组 50m 冲刺 组间1分钟休息
+
+*** 双忠游
+    :PROPERTIES:
+    :ID:       935a1d86-a5fe-4447-aabd-d1f1a178a72d
+    :ROAM_ALIASES: shuangzhong
+    :LAST_MODIFIED: [2022-10-03 Mon 12:50]
+    :END:
+     - 概括
+       8 组 100m 组间1分钟休息
+     - 细节
+         热身
+         200m 任何泳姿
+         
+         重复
+         8 Times
+         100m all-out free-style
+         1min rest
+         
+         冷身
+         100m 任何泳姿
 *** Aurora-1
     :PROPERTIES:
     :ID:       9e63164a-405e-430e-95eb-d7c8afffcc71
@@ -58,6 +87,9 @@ Pacewise:
 Rest time:
 10s < Rest < 50s
 ** 骑车
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-11-13 Sun 19:21]
+   :END:
 *** 药乡系列
 **** Yaoxiang-30m
      :PROPERTIES:
@@ -237,6 +269,68 @@ Rest time:
     :PROPERTIES:
     :LAST_MODIFIED: [2022-08-05 Fri 22:53]
     :END:
+**** 散水跑
+     :PROPERTIES:
+     :ID:       97ec4f29-6337-4c42-a6c0-4e059f93e188
+     :ROAM_ALIASES: sanshui
+     :END:
+***** 配速参考 1k 间歇
+****** 室内200米跑道 1k 间歇配速表
+       :PROPERTIES:
+       :ID:       be443fd7-0d81-4663-af13-aa70c6959dff
+       :LAST_MODIFIED: [2022-12-14 Wed 20:22]
+       :END:
+
+       #+name: tab: 200mPaceGuide
+       |------------------+----+------+------+------+------|
+       | Time per lap (s) | 40 |   80 |  120 |  160 |  200 |
+       | Time (M:S)       | 40 | 1:20 | 2:00 | 2:40 | 3:20 |
+       |------------------+----+------+------+------+------|
+       | Time per lap (s) | 45 |   90 |  135 |  180 |  225 |
+       | Time (M:S)       | 45 | 1:30 | 2:15 | 3:00 | 3:45 |
+
+***** Ran's 日志
+
+****** <2022-12-14 Wed>
+       :PROPERTIES:
+       :LAST_MODIFIED: [2022-12-14 Wed 20:33]
+       :END:
+       - Overview
+         5k+400m*10, 强度高于阈值配速
+       - location
+         Indoor Track 200m
+       - RPE 定义
+         1~5, 但都属于常规 RPE 的 5 级别
+******* Log
+******** 1k
+
+|-----+-----+------------------------------------+----------------|
+| Set | RPE | Notes                              | Other          |
+|-----+-----+------------------------------------+----------------|
+|   1 |   3 |                                    |                |
+|   2 |   4 |                                    | rest time > 2m |
+|   3 |   4 |                                    | rest time > 2m |
+|   4 |   4 | 4 lap strong unconfortable stomach | rest time > 1m |
+|   5 |   4 |                                    |                |
+|-----+-----+------------------------------------+----------------|
+
+******** 400m
+|           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Finished? | y | y | n | n | n | n | n | n | n |  n |
+
+- set 3 被赶走了... (You are the only one on the track....)
+******** 1 hour TT Position
+20+20+10+10
+******* After Action Review (AAR)
+        :PROPERTIES:
+        :LAST_MODIFIED: [2022-12-14 Wed 20:32]
+        :END:
+        1. 拉肚子却拉不出任何东西 Aft. Set 2
+        2. 中午吃了不消化的葡萄 #教训 #mistake
+        3. 以后一定要带骑行装备，人太多就骑车
+        4. 准备离家 checklist
+        5. 带水杯
+        6. 带能量棒
 **** 甘露跑
      :PROPERTIES:
      :ID:       a8c26b0b-c85e-4252-9871-8ccb583041a5
@@ -266,6 +360,87 @@ Rest time:
              2 min 休息
          
          冷身
+
+**** 甘露跑Ta
+     :PROPERTIES:
+     :ID:       b3987314-ff64-4b25-aad0-3f65733c7bfa
+     :LAST_MODIFIED: [2022-10-18 Tue 22:05]
+     :ROAM_ALIASES: ganlu_Ta
+     :END:
+
+     甘露系列目标在于提高 5 公里速度, 室内跑道或跑步机。
+
+     - 概括
+         8分钟 * 2 + 4分钟 * 2 + 1分钟*2
+
+     - 细节
+         热身
+         15 min Total Time
+         
+         重复
+         2 Times
+             8 min Total Time
+             3:50-3:55 min/km
+             2 min 休息
+         
+         2 Times
+             4 min Total Time
+             3:40-3:50 min/km min/km
+             2 min 休息
+         
+         2 Times
+             1 m Total Time
+             3:30-3:40 min/km min/km
+
+         冷身
+
+***** Ran                                                               :log:
+      :PROPERTIES:
+      :LAST_MODIFIED: [2022-10-18 Tue 22:40]
+      :END:
+****** [[id:bc2d9398-0e1c-44ff-9d9a-31324476606f][[Threshold season]]]
+       :PROPERTIES:
+       :ID:       9ecead8a-e2d1-47ca-b052-4aff3f38f8ab
+       :END:
+******* 日志 <2022-10-18 Tue>
+        :PROPERTIES:
+        :ID:       82e9a458-f810-4271-bcb4-90fede5fdd5c
+        :LAST_MODIFIED: [2022-10-18 Tue 22:42]
+        :END:
+
+环境： 室内跑步机器
+
+Set 1: 实际 4:00 min/km
+
+     第一组
+
+         顺利完成。感觉放不开，总感觉会摔跤。
+
+     第二组
+
+         终止 -4:00 后面 4:30 跑了不到1分钟
+
+Set 2: 实际 3:50 min/km
+
+     第一组
+
+         差一分钟完成。
+
+     第二组
+
+         顺利完成。
+
+Set 3: 实际 3:13, 3:10
+
+总的来说，偏保守。给明天的 15m Threshold 留了余力。短间歇完成度好于长
+间歇，要么：
+
+- 短间歇强度不够大
+- 长间歇能力还有待提高
+  - 这是主攻方向，重点应该放在这里
+  - 短间歇强度，可以找一段时间，做对照实验 #[[id:c240a231-731f-4d75-8f8c-fcfb4ee0e349][跑步短间歇对长间歇的影响]]
+    - 可能会提高长间歇能力
+    - 可能不会明显提高长间歇能力
 
 **** 甘露跑a
      :PROPERTIES:
@@ -302,7 +477,7 @@ Rest time:
 **** 石湾跑
      :PROPERTIES:
      :ID:       ca177047-0d1c-4199-8678-605a4821dac7
-     :LAST_MODIFIED: [2022-08-17 Wed 14:04]
+     :LAST_MODIFIED: [2022-12-11 Sun 14:23]
      :END:
      - 概括
          2km * 2 + 1km * 2
@@ -412,6 +587,15 @@ Rest time:
         
         冷身
 
+** 协调
+*** 室外
+    1. 慢跑热身
+    2. 俯卧撑 6 组
+    3. 单腿下蹲，左右*3小组
+    4. 前后腿拉伸
+    5. 交叉跳
+    6. 自由泳滑水
+    7. 平板支撑 7 组
 ** 核心
    :PROPERTIES:
    :ID:       d8c32612-14d1-41b9-9b1f-ceab6077fcec
@@ -473,6 +657,14 @@ Rest time:
   :END:
   - [[https://strengthlevel.com/][Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)]]
   - [[https://scientifictriathlon.com/strength-training-for-triathletes/][Triathlon Strength Training - The Definitive Guide]]
+** 观察列表
+   :PROPERTIES:
+   :LAST_MODIFIED: [2022-10-16 Sun 16:43]
+   :END:
+*** [[elisp:(progn (find-file (concat org-roam-dailies-directory "/2022-10-10.org")) (widen) (beginning-of-buffer) (search-forward "17:10 July 24 Canada PTO 70.3"))][Canada PTO 70.3]]
+    :PROPERTIES:
+    :LAST_MODIFIED: [2022-10-16 Sun 16:44]
+    :END:
 * 目标
 ** 游
    - [ ]  100m  01:05
@@ -489,3 +681,9 @@ Rest time:
 ** 骑
    - [ ]  5min 420w
    - [ ] 60min 310w
+* 实验
+** 对照实验
+*** 跑步短间歇对长间歇的影响
+    :PROPERTIES:
+    :ID:       c240a231-731f-4d75-8f8c-fcfb4ee0e349
+    :END:
